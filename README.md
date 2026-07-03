@@ -6,16 +6,20 @@ Stars are fetched from GitHub, **new** ones are categorized by an LLM (via
 [OpenRouter](https://openrouter.ai/)), and a browsable markdown catalog is generated —
 all kept current by a weekly GitHub Action.
 
-## 📚 Browse the catalog
+## 🔎 Browse & search
 
-👉 **[catalog/README.md](catalog/README.md)** — index with per-category counts and stats.
+👉 **[Live site →](https://nyokinokonoko.github.io/github-stars/)** — instant search,
+filter by category / language / tag, and sort. _(Enable GitHub Pages: Settings → Pages →
+Deploy from branch → `main` `/docs`.)_
 
-Each category has its own file under [`catalog/`](catalog/).
+Prefer plain markdown? **[catalog/README.md](catalog/README.md)** — index with
+per-category counts and stats; each category has its own file under [`catalog/`](catalog/).
 
 ## How it works
 
 ```
-GitHub API ──▶ diff vs data/stars.json ──▶ LLM categorizes NEW repos only ──▶ stars.json ──▶ catalog/*.md
+GitHub API ─▶ diff vs data/stars.json ─▶ LLM categorizes NEW repos only ─▶ stars.json ─┬▶ catalog/*.md
+                                                                                        └▶ docs/data.json (Pages site)
 ```
 
 - **`data/stars.json`** — the canonical database of every starred repo (keyed by
@@ -24,6 +28,8 @@ GitHub API ──▶ diff vs data/stars.json ──▶ LLM categorizes NEW repos
 - **`data/categories.json`** — the editable taxonomy. The LLM must pick one of these
   categories; it also adds free-form tags and a one-line summary.
 - **`catalog/`** — generated markdown; do not edit by hand (it's overwritten each run).
+- **`docs/`** — the GitHub Pages site (static, zero-dependency). `docs/data.json` is
+  generated each run; `index.html` / `app.js` / `style.css` are the hand-authored app.
 
 ## Running locally
 

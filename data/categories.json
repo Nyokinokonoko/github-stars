@@ -1,0 +1,61 @@
+{
+  "_comment": "Editable taxonomy. The LLM must classify each new repo into exactly one 'name' below (falling back to 'Other'). 'description' anchors the model's choice. After editing, run: python scripts/stars.py --force",
+  "categories": [
+    {
+      "name": "AI & LLM Tools",
+      "description": "LLM apps, agents, MCP servers, prompt tooling, AI assistants, model inference, and AI-powered products."
+    },
+    {
+      "name": "CLI & Terminal",
+      "description": "Command-line tools, shells, TUIs, terminal utilities, prompt frameworks, and CLI productivity."
+    },
+    {
+      "name": "System Monitoring",
+      "description": "System/hardware monitors, resource dashboards, menu-bar stats, benchmarking, and observability of a local machine."
+    },
+    {
+      "name": "Self-Hosted Apps",
+      "description": "Self-hostable services and web apps you run yourself: dashboards, note/bookmark tools, media, docs/wikis, subscription trackers, notifications."
+    },
+    {
+      "name": "Developer Tools",
+      "description": "General dev tooling not specific to one platform: code review, CI helpers, git tooling, linters, editors, debuggers, task runners, scripting utilities."
+    },
+    {
+      "name": "Web & Frontend",
+      "description": "Frontend frameworks, UI component libraries, web design/dev tooling, and browser-based app building blocks."
+    },
+    {
+      "name": "Mobile & Desktop Apps",
+      "description": "Native or cross-platform app development and apps for iOS/Android/macOS/Windows/Linux: SwiftUI, React Native, Flutter/Dart, desktop clients."
+    },
+    {
+      "name": "Game Dev & Unity",
+      "description": "Game development, engines, Unity/C# libraries and editor extensions, VR/social frameworks, and interactive/real-time media tooling."
+    },
+    {
+      "name": "Libraries & SDKs",
+      "description": "Reusable programming libraries, SDKs, serialization, networking, and language-level frameworks that are embedded into other software."
+    },
+    {
+      "name": "Security & Secrets",
+      "description": "Authentication/SSO, secrets/credential management, env-var handling, encryption, and security/privacy tooling."
+    },
+    {
+      "name": "Blogs, Themes & Static Sites",
+      "description": "Static-site generators, blog themes/templates, CMS for static blogs, and personal-website scaffolding."
+    },
+    {
+      "name": "File Sharing & Transfer",
+      "description": "File upload/sharing/transfer tools, cross-device send, screen recording/sharing, and self-hosted file servers."
+    },
+    {
+      "name": "Learning & Reference",
+      "description": "Cheat sheets, tutorials, guides, curated lists, datasets, and educational or reference material."
+    },
+    {
+      "name": "Other",
+      "description": "Anything that does not clearly fit another category."
+    }
+  ]
+}

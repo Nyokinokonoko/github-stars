@@ -8,7 +8,7 @@ _Self-hostable services and web apps you run yourself: dashboards, note/bookmark
 
 | Repository | Language | ★ | Summary | Tags |
 | --- | --- | --: | --- | --- |
-| [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 105,017 | High-performance self-hosted solution for managing and backing up photos and videos. | `photo-management` `backup` `google-photos-alt` |
+| [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 105,018 | High-performance self-hosted solution for managing and backing up photos and videos. | `photo-management` `backup` `google-photos-alt` |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | JavaScript | 88,680 | A self-hosted monitoring tool with a beautiful UI for tracking service uptime. | `monitoring` `uptime` `dashboard` `status-page` |
 | [usememos/memos](https://github.com/usememos/memos) | Go | 61,211 | A lightweight, self-hosted note-taking solution for quick capture and markdown-native organization. | `note-taking` `markdown` `self-hosted` `microblog` |
 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | Ruby | 54,297 | An open-source personal finance and wealth management application for tracking net worth. | `finance` `personal-finance` `ruby-on-rails` `accounting` |

@@ -9,7 +9,7 @@ _General dev tooling not specific to one platform: code review, CI helpers, git 
 | Repository | Language | ★ | Summary | Tags |
 | --- | --- | --: | --- | --- |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | 186,967 | A powerful, extensible code editor developed by Microsoft for various programming languages. | `editor` `ide` `typescript` `electron` |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 93,537 | An extremely fast all-in-one JavaScript runtime, package manager, and bundler. | `runtime` `javascript` `typescript` `bundler` |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 93,538 | An extremely fast all-in-one JavaScript runtime, package manager, and bundler. | `runtime` `javascript` `typescript` `bundler` |
 | [microsoft/playwright](https://github.com/microsoft/playwright) | TypeScript | 92,117 | A framework for reliable end-to-end testing and automation across all modern web browsers. | `testing` `automation` `browser` `e2e` |
 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | JavaScript | 79,778 | Dynamically generated statistics cards for GitHub profile readmes. | `github` `readme` `stats` |
 | [coder/code-server](https://github.com/coder/code-server) | TypeScript | 78,160 | A platform that allows you to run VS Code in any browser on any machine. | `vscode` `ide` `remote-development` `browser-based` |

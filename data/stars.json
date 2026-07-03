@@ -1,7 +1,7 @@
 {
   "meta": {
     "user": "nyokinokonoko",
-    "generated_at": "2026-07-03T01:11:55+00:00",
+    "generated_at": "2026-07-03T01:16:10+00:00",
     "count": 351,
     "model": "google/gemini-3-flash-preview"
   },
@@ -103,7 +103,7 @@
       "url": "https://github.com/charmbracelet/bubbletea",
       "description": "A powerful little TUI framework 🏗",
       "language": "Go",
-      "stars": 43506,
+      "stars": 43507,
       "topics": [
         "cli",
         "elm-architecture",
@@ -1464,7 +1464,7 @@
       "url": "https://github.com/microsoft/playwright-mcp",
       "description": "Playwright MCP server",
       "language": "TypeScript",
-      "stars": 34633,
+      "stars": 34634,
       "topics": [
         "mcp",
         "playwright"
@@ -3153,7 +3153,7 @@
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars": 105017,
+      "stars": 105018,
       "topics": [
         "backup-tool",
         "flutter",
@@ -4271,7 +4271,7 @@
       "url": "https://github.com/vinta/awesome-python",
       "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
       "language": "Python",
-      "stars": 306009,
+      "stars": 306011,
       "topics": [
         "awesome",
         "collections",
@@ -5127,7 +5127,7 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars": 93537,
+      "stars": 93538,
       "topics": [
         "bun",
         "bundler",
@@ -6222,7 +6222,7 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 174792,
+      "stars": 174793,
       "topics": [
         "cli",
         "downloader",
@@ -7989,7 +7989,7 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "",
-      "stars": 302420,
+      "stars": 302422,
       "topics": [
         "awesome",
         "awesome-list",

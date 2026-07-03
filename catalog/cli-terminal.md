@@ -9,7 +9,7 @@ _Command-line tools, shells, TUIs, terminal utilities, prompt frameworks, and CL
 | Repository | Language | ★ | Summary | Tags |
 | --- | --- | --: | --- | --- |
 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | Shell | 188,327 | A popular community-driven framework for managing Zsh configurations with extensive plugins and themes. | `zsh` `shell` `framework` `productivity` |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | 174,792 | A powerful command-line utility for downloading audio and video from thousands of websites. | `downloader` `video` `cli` `youtube` |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | 174,793 | A powerful command-line utility for downloading audio and video from thousands of websites. | `downloader` `video` `cli` `youtube` |
 | [aria2/aria2](https://github.com/aria2/aria2) | C++ | 41,347 | A lightweight multi-protocol command-line download utility supporting HTTP, FTP, and BitTorrent. | `downloader` `bittorrent` `multi-protocol` |
 | [chubin/wttr.in](https://github.com/chubin/wttr.in) | Go | 30,033 | A console-oriented weather forecast service that works via curl and displays ASCII art. | `weather` `curl` `ascii-art` `terminal` |
 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | Rust | 29,319 | A comprehensive command-line tool for managing Google Workspace services with integrated AI skills. | `google-workspace` `rust` `automation` `ai-agent` |

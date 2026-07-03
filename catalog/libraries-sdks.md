@@ -14,7 +14,7 @@ _Reusable programming libraries, SDKs, serialization, networking, and language-l
 | [scrapy/scrapy](https://github.com/scrapy/scrapy) | Python | 62,864 | A high-level web crawling and scraping framework for Python developers. | `python` `web-scraping` `crawler` |
 | [Textualize/rich](https://github.com/Textualize/rich) | Python | 56,753 | A Python library for rich text, tables, and beautiful formatting in the terminal. | `python` `tui` `formatting` `terminal-ui` |
 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | JavaScript | 48,666 | A minimalist 2kB JavaScript library for parsing, validating, and formatting dates. | `javascript` `date-time` `utility` `immutable` |
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | Go | 43,506 | A powerful Go framework for building terminal user interface applications using functional paradigms. | `go` `tui` `framework` `elm-architecture` |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | Go | 43,507 | A powerful Go framework for building terminal user interface applications using functional paradigms. | `go` `tui` `framework` `elm-architecture` |
 | [discordjs/discord.js](https://github.com/discordjs/discord.js) | TypeScript | 26,739 | A powerful JavaScript library for interacting with the Discord API. | `discord-api` `bot-development` `nodejs` |
 | [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | Swift | 22,950 | A popular Swift library that simplifies the process of handling and parsing JSON data. | `json` `swift` `parsing` `ios` |
 | [typicode/lowdb](https://github.com/typicode/lowdb) | JavaScript | 22,560 | A simple, lightweight JSON-powered database for small projects and local storage. | `json-database` `embedded` `local-storage` |

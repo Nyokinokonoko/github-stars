@@ -9,8 +9,8 @@ _Cheat sheets, tutorials, guides, curated lists, datasets, and educational or re
 | Repository | Language | ★ | Summary | Tags |
 | --- | --- | --: | --- | --- |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 446,106 | A comprehensive collective list of free APIs for use in software development. | `api` `dataset` `resources` |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 306,009 | A comprehensive curated list of Python frameworks, libraries, and software. | `python` `awesome-list` `curated` |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | — | 302,420 | A comprehensive curated list of free software network services and web applications for self-hosting. | `self-hosted` `awesome-list` `privacy` `software-list` |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 306,011 | A comprehensive curated list of Python frameworks, libraries, and software. | `python` `awesome-list` `curated` |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | — | 302,422 | A comprehensive curated list of free software network services and web applications for self-hosting. | `self-hosted` `awesome-list` `privacy` `software-list` |
 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | JavaScript | 196,175 | A comprehensive collection of algorithms and data structures implemented in JavaScript with explanations. | `algorithms` `data-structures` `javascript` `education` |
 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | — | 101,004 | A comprehensive guide and cookbook specifically written for programmers learning to cook. | `cookbook` `recipes` `guide` `cooking` |
 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | JavaScript | 66,490 | A collection of 33 fundamental concepts every JavaScript developer should master. | `javascript` `education` `programming` |

@@ -1,0 +1,5520 @@
+{
+  "meta": {
+    "user": "nyokinokonoko",
+    "generated_at": "2026-07-03T01:11:55+00:00",
+    "count": 351,
+    "model": "google/gemini-3-flash-preview"
+  },
+  "repos": [
+    {
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "summary": "A comprehensive collective list of free APIs for use in software development.",
+      "language": "Python",
+      "stars": 446106,
+      "tags": [
+        "api",
+        "dataset",
+        "resources"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2023-03-13T08:23:31Z"
+    },
+    {
+      "full_name": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "summary": "A comprehensive curated list of Python frameworks, libraries, and software.",
+      "language": "Python",
+      "stars": 306009,
+      "tags": [
+        "python",
+        "awesome-list",
+        "curated"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2023-01-14T08:47:48Z"
+    },
+    {
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "summary": "A comprehensive curated list of free software network services and web applications for self-hosting.",
+      "language": "",
+      "stars": 302420,
+      "tags": [
+        "self-hosted",
+        "awesome-list",
+        "privacy",
+        "software-list"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-01-14T19:28:48Z"
+    },
+    {
+      "full_name": "trekhleb/javascript-algorithms",
+      "url": "https://github.com/trekhleb/javascript-algorithms",
+      "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "summary": "A comprehensive collection of algorithms and data structures implemented in JavaScript with explanations.",
+      "language": "JavaScript",
+      "stars": 196175,
+      "tags": [
+        "algorithms",
+        "data-structures",
+        "javascript",
+        "education"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-10-13T15:43:07Z"
+    },
+    {
+      "full_name": "ohmyzsh/ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "summary": "A popular community-driven framework for managing Zsh configurations with extensive plugins and themes.",
+      "language": "Shell",
+      "stars": 188327,
+      "tags": [
+        "zsh",
+        "shell",
+        "framework",
+        "productivity"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2025-10-24T17:26:25Z"
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "summary": "A powerful, extensible code editor developed by Microsoft for various programming languages.",
+      "language": "TypeScript",
+      "stars": 186967,
+      "tags": [
+        "editor",
+        "ide",
+        "typescript",
+        "electron"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-01-14T19:27:21Z"
+    },
+    {
+      "full_name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "summary": "A powerful command-line utility for downloading audio and video from thousands of websites.",
+      "language": "Python",
+      "stars": 174792,
+      "tags": [
+        "downloader",
+        "video",
+        "cli",
+        "youtube"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2021-11-05T00:26:21Z"
+    },
+    {
+      "full_name": "twbs/bootstrap",
+      "url": "https://github.com/twbs/bootstrap",
+      "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+      "summary": "The world's most popular front-end open source toolkit for responsive web development.",
+      "language": "MDX",
+      "stars": 174416,
+      "tags": [
+        "css-framework",
+        "responsive-design",
+        "frontend",
+        "ui-kit"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-21T00:31:39Z"
+    },
+    {
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "summary": "A high-performance tool to display and control Android devices from a desktop.",
+      "language": "C",
+      "stars": 144922,
+      "tags": [
+        "android-mirroring",
+        "screen-sharing",
+        "remote-control"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2025-11-06T14:00:29Z"
+    },
+    {
+      "full_name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "summary": "The leading React framework for building high-performance web applications with server-side rendering.",
+      "language": "JavaScript",
+      "stars": 140285,
+      "tags": [
+        "react",
+        "framework",
+        "ssr",
+        "serverless"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-14T19:28:03Z"
+    },
+    {
+      "full_name": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "summary": "A popular promise-based HTTP client for the browser and Node.js environments.",
+      "language": "JavaScript",
+      "stars": 109106,
+      "tags": [
+        "http-client",
+        "javascript",
+        "promises",
+        "api"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:26:59Z"
+    },
+    {
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "summary": "High-performance self-hosted solution for managing and backing up photos and videos.",
+      "language": "TypeScript",
+      "stars": 105017,
+      "tags": [
+        "photo-management",
+        "backup",
+        "google-photos-alt"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2024-02-03T16:39:32Z"
+    },
+    {
+      "full_name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "summary": "A robust, large-scale speech recognition model capable of multilingual transcription and translation.",
+      "language": "Python",
+      "stars": 104054,
+      "tags": [
+        "speech-recognition",
+        "transcription",
+        "ai",
+        "python"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-09-23T18:50:15Z"
+    },
+    {
+      "full_name": "react/create-react-app",
+      "url": "https://github.com/react/create-react-app",
+      "description": "Set up a modern web app by running one command.",
+      "summary": "The official tool to set up a modern React web application with one command.",
+      "language": "JavaScript",
+      "stars": 103320,
+      "tags": [
+        "react",
+        "build-tool",
+        "boilerplate",
+        "frontend"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-02-19T02:02:55Z"
+    },
+    {
+      "full_name": "Anduin2017/HowToCook",
+      "url": "https://github.com/Anduin2017/HowToCook",
+      "description": "Programmer's guide about how to cook at home.",
+      "summary": "A comprehensive guide and cookbook specifically written for programmers learning to cook.",
+      "language": "",
+      "stars": 101004,
+      "tags": [
+        "cookbook",
+        "recipes",
+        "guide",
+        "cooking"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2025-01-07T15:18:12Z"
+    },
+    {
+      "full_name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "summary": "An extremely fast all-in-one JavaScript runtime, package manager, and bundler.",
+      "language": "Rust",
+      "stars": 93537,
+      "tags": [
+        "runtime",
+        "javascript",
+        "typescript",
+        "bundler"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2022-07-19T08:22:24Z"
+    },
+    {
+      "full_name": "microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+      "summary": "A framework for reliable end-to-end testing and automation across all modern web browsers.",
+      "language": "TypeScript",
+      "stars": 92117,
+      "tags": [
+        "testing",
+        "automation",
+        "browser",
+        "e2e"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-10-13T15:42:51Z"
+    },
+    {
+      "full_name": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "summary": "A self-hosted monitoring tool with a beautiful UI for tracking service uptime.",
+      "language": "JavaScript",
+      "stars": 88680,
+      "tags": [
+        "monitoring",
+        "uptime",
+        "dashboard",
+        "status-page"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-02-20T07:05:26Z"
+    },
+    {
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "summary": "A multilingual OCR toolkit that converts images and PDFs into structured data for AI.",
+      "language": "Python",
+      "stars": 84558,
+      "tags": [
+        "ocr",
+        "paddlepaddle",
+        "computer-vision"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2023-02-01T07:46:14Z"
+    },
+    {
+      "full_name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "summary": "An open-source, cross-platform tool for sharing files and messages over a local network.",
+      "language": "Dart",
+      "stars": 84512,
+      "tags": [
+        "file-sharing",
+        "cross-platform",
+        "flutter",
+        "airdrop-alternative"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2024-11-09T17:52:28Z"
+    },
+    {
+      "full_name": "anuraghazra/github-readme-stats",
+      "url": "https://github.com/anuraghazra/github-readme-stats",
+      "description": ":zap: Dynamically generated stats for your github readmes",
+      "summary": "Dynamically generated statistics cards for GitHub profile readmes.",
+      "language": "JavaScript",
+      "stars": 79778,
+      "tags": [
+        "github",
+        "readme",
+        "stats"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-01-17T08:24:49Z"
+    },
+    {
+      "full_name": "coder/code-server",
+      "url": "https://github.com/coder/code-server",
+      "description": "VS Code in the browser",
+      "summary": "A platform that allows you to run VS Code in any browser on any machine.",
+      "language": "TypeScript",
+      "stars": 78160,
+      "tags": [
+        "vscode",
+        "ide",
+        "remote-development",
+        "browser-based"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-01-13T22:22:06Z"
+    },
+    {
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "summary": "A bloat-free immediate mode graphical user interface library for C++.",
+      "language": "C++",
+      "stars": 74241,
+      "tags": [
+        "gui",
+        "cpp",
+        "immediate-mode",
+        "gamedev"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-07-03T16:48:22Z"
+    },
+    {
+      "full_name": "strapi/strapi",
+      "url": "https://github.com/strapi/strapi",
+      "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+      "summary": "A leading open-source headless CMS for building customizable APIs and managing content.",
+      "language": "TypeScript",
+      "stars": 72581,
+      "tags": [
+        "headless-cms",
+        "api",
+        "typescript",
+        "backend-as-a-service"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2022-10-02T23:45:33Z"
+    },
+    {
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "summary": "Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.",
+      "language": "C++",
+      "stars": 71451,
+      "tags": [
+        "serialization",
+        "rpc",
+        "data-interchange"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2025-07-12T07:28:23Z"
+    },
+    {
+      "full_name": "leonardomso/33-js-concepts",
+      "url": "https://github.com/leonardomso/33-js-concepts",
+      "description": "📜 33 JavaScript concepts every developer should know.",
+      "summary": "A collection of 33 fundamental concepts every JavaScript developer should master.",
+      "language": "JavaScript",
+      "stars": 66490,
+      "tags": [
+        "javascript",
+        "education",
+        "programming"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-01-16T17:01:33Z"
+    },
+    {
+      "full_name": "sindresorhus/awesome-nodejs",
+      "url": "https://github.com/sindresorhus/awesome-nodejs",
+      "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+      "summary": "A curated list of essential Node.js packages, frameworks, and learning materials.",
+      "language": "",
+      "stars": 66118,
+      "tags": [
+        "nodejs",
+        "javascript",
+        "backend"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-02-18T01:49:57Z"
+    },
+    {
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "summary": "A brand new, truly independent web browser and engine built from scratch.",
+      "language": "C++",
+      "stars": 64415,
+      "tags": [
+        "browser",
+        "c-plus-plus",
+        "independent"
+      ],
+      "category": "Other",
+      "starred_at": "2025-04-02T16:16:32Z"
+    },
+    {
+      "full_name": "scrapy/scrapy",
+      "url": "https://github.com/scrapy/scrapy",
+      "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+      "summary": "A high-level web crawling and scraping framework for Python developers.",
+      "language": "Python",
+      "stars": 62864,
+      "tags": [
+        "python",
+        "web-scraping",
+        "crawler"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2023-02-01T07:45:08Z"
+    },
+    {
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "summary": "A lightweight, self-hosted note-taking solution for quick capture and markdown-native organization.",
+      "language": "Go",
+      "stars": 61211,
+      "tags": [
+        "note-taking",
+        "markdown",
+        "self-hosted",
+        "microblog"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-11-22T15:32:46Z"
+    },
+    {
+      "full_name": "Textualize/rich",
+      "url": "https://github.com/Textualize/rich",
+      "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+      "summary": "A Python library for rich text, tables, and beautiful formatting in the terminal.",
+      "language": "Python",
+      "stars": 56753,
+      "tags": [
+        "python",
+        "tui",
+        "formatting",
+        "terminal-ui"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2026-07-02T16:05:57Z"
+    },
+    {
+      "full_name": "firstcontributions/first-contributions",
+      "url": "https://github.com/firstcontributions/first-contributions",
+      "description": "🚀✨ Help beginners to contribute to open source projects",
+      "summary": "A hands-on tutorial to help beginners make their first contribution to open source.",
+      "language": "",
+      "stars": 54805,
+      "tags": [
+        "open-source",
+        "tutorial",
+        "beginner",
+        "git"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2025-10-20T14:54:57Z"
+    },
+    {
+      "full_name": "maybe-finance/maybe",
+      "url": "https://github.com/maybe-finance/maybe",
+      "description": "The personal finance app for everyone",
+      "summary": "An open-source personal finance and wealth management application for tracking net worth.",
+      "language": "Ruby",
+      "stars": 54297,
+      "tags": [
+        "finance",
+        "personal-finance",
+        "ruby-on-rails",
+        "accounting"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2024-02-03T01:55:11Z"
+    },
+    {
+      "full_name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "summary": "A free software media system for managing and streaming your own media collection.",
+      "language": "C#",
+      "stars": 53897,
+      "tags": [
+        "media-server",
+        "streaming",
+        "self-hosted",
+        "dotnet"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2021-01-14T19:27:27Z"
+    },
+    {
+      "full_name": "iamkun/dayjs",
+      "url": "https://github.com/iamkun/dayjs",
+      "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
+      "summary": "A minimalist 2kB JavaScript library for parsing, validating, and formatting dates.",
+      "language": "JavaScript",
+      "stars": 48666,
+      "tags": [
+        "javascript",
+        "date-time",
+        "utility",
+        "immutable"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:27:14Z"
+    },
+    {
+      "full_name": "upscayl/upscayl",
+      "url": "https://github.com/upscayl/upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "summary": "A cross-platform desktop application for upscaling images using advanced AI models.",
+      "language": "TypeScript",
+      "stars": 46594,
+      "tags": [
+        "image-upscaling",
+        "ai",
+        "desktop-app",
+        "electron"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2023-09-12T13:52:01Z"
+    },
+    {
+      "full_name": "google/zx",
+      "url": "https://github.com/google/zx",
+      "description": "A tool for writing better scripts",
+      "summary": "A tool for writing better shell scripts using JavaScript and Node.js.",
+      "language": "JavaScript",
+      "stars": 45583,
+      "tags": [
+        "scripting",
+        "javascript",
+        "shell"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2025-07-02T13:04:57Z"
+    },
+    {
+      "full_name": "9001/copyparty",
+      "url": "https://github.com/9001/copyparty",
+      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+      "summary": "Portable multi-protocol file server supporting resumable uploads, media indexing, and thumbnails.",
+      "language": "Python",
+      "stars": 45458,
+      "tags": [
+        "file-server",
+        "webdav",
+        "nas"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2025-07-31T13:48:33Z"
+    },
+    {
+      "full_name": "iina/iina",
+      "url": "https://github.com/iina/iina",
+      "description": "The modern video player for macOS.",
+      "summary": "A modern, open-source video player designed specifically for macOS using Swift.",
+      "language": "Swift",
+      "stars": 45419,
+      "tags": [
+        "macos",
+        "video-player",
+        "swift",
+        "mpv"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-01-14T19:27:47Z"
+    },
+    {
+      "full_name": "AykutSarac/jsoncrack.com",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
+      "summary": "Visualizes JSON, YAML, and CSV data into interactive, easy-to-read graphs.",
+      "language": "TypeScript",
+      "stars": 44198,
+      "tags": [
+        "visualization",
+        "json",
+        "data-tools",
+        "graph"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-11-09T17:53:10Z"
+    },
+    {
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "summary": "A powerful Go framework for building terminal user interface applications using functional paradigms.",
+      "language": "Go",
+      "stars": 43506,
+      "tags": [
+        "go",
+        "tui",
+        "framework",
+        "elm-architecture"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2026-06-26T18:34:49Z"
+    },
+    {
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "summary": "Self-hosted AI companion capable of real-time voice chat and playing games like Minecraft.",
+      "language": "TypeScript",
+      "stars": 41381,
+      "tags": [
+        "ai-companion",
+        "vtuber",
+        "voice-chat"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-08-18T13:08:02Z"
+    },
+    {
+      "full_name": "aria2/aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "summary": "A lightweight multi-protocol command-line download utility supporting HTTP, FTP, and BitTorrent.",
+      "language": "C++",
+      "stars": 41347,
+      "tags": [
+        "downloader",
+        "bittorrent",
+        "multi-protocol"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2023-02-01T07:46:49Z"
+    },
+    {
+      "full_name": "exelban/stats",
+      "url": "https://github.com/exelban/stats",
+      "description": "macOS system monitor in your menu bar",
+      "summary": "A comprehensive macOS system monitor that lives in the menu bar.",
+      "language": "Swift",
+      "stars": 40159,
+      "tags": [
+        "macos",
+        "menubar",
+        "system-monitor",
+        "swift"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2026-06-19T14:52:23Z"
+    },
+    {
+      "full_name": "novuhq/novu",
+      "url": "https://github.com/novuhq/novu",
+      "description": "The open-source communication infrastructure for agents and products",
+      "summary": "Open-source notification infrastructure for managing email, SMS, and push alerts across products.",
+      "language": "TypeScript",
+      "stars": 39235,
+      "tags": [
+        "notifications",
+        "infrastructure",
+        "email",
+        "sms"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2023-07-11T14:55:37Z"
+    },
+    {
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "summary": "A unified self-hosted dashboard for monitoring feeds, RSS, and various web services.",
+      "language": "Go",
+      "stars": 35566,
+      "tags": [
+        "dashboard",
+        "rss-reader",
+        "aggregator",
+        "homelab"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2025-01-22T16:19:25Z"
+    },
+    {
+      "full_name": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "summary": "A self-hostable AI personal assistant that searches your documents and the web.",
+      "language": "Python",
+      "stars": 35447,
+      "tags": [
+        "ai-agent",
+        "rag",
+        "self-hosted",
+        "search"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2026-06-26T18:32:15Z"
+    },
+    {
+      "full_name": "sorrycc/awesome-javascript",
+      "url": "https://github.com/sorrycc/awesome-javascript",
+      "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+      "summary": "A collection of popular browser-side JavaScript libraries and development resources.",
+      "language": "",
+      "stars": 34997,
+      "tags": [
+        "javascript",
+        "frontend",
+        "libraries"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-02-18T01:49:55Z"
+    },
+    {
+      "full_name": "microsoft/playwright-mcp",
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "description": "Playwright MCP server",
+      "summary": "A Model Context Protocol server implementation for browser automation using Playwright.",
+      "language": "TypeScript",
+      "stars": 34633,
+      "tags": [
+        "mcp",
+        "playwright",
+        "browser-automation"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-07-27T12:05:40Z"
+    },
+    {
+      "full_name": "utmapp/UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
+      "summary": "A full-featured system emulator and virtual machine host for iOS and macOS.",
+      "language": "Swift",
+      "stars": 34586,
+      "tags": [
+        "virtualization",
+        "ios",
+        "macos",
+        "qemu"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2022-09-20T15:56:30Z"
+    },
+    {
+      "full_name": "TheAlgorithms/JavaScript",
+      "url": "https://github.com/TheAlgorithms/JavaScript",
+      "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+      "summary": "A comprehensive collection of algorithms and data structures implemented in JavaScript for educational purposes.",
+      "language": "JavaScript",
+      "stars": 34199,
+      "tags": [
+        "algorithms",
+        "data-structures",
+        "javascript",
+        "education"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-01-14T19:26:37Z"
+    },
+    {
+      "full_name": "aristocratos/btop",
+      "url": "https://github.com/aristocratos/btop",
+      "description": "A monitor of resources",
+      "summary": "A stylish and interactive terminal-based resource monitor for CPU, memory, and disks.",
+      "language": "C++",
+      "stars": 33160,
+      "tags": [
+        "tui",
+        "resource-monitor",
+        "system-stats",
+        "cpp"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2022-06-03T06:32:40Z"
+    },
+    {
+      "full_name": "dgtlmoon/changedetection.io",
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "summary": "Self-hosted tool for monitoring website changes, price drops, and restock notifications.",
+      "language": "Python",
+      "stars": 32172,
+      "tags": [
+        "monitoring",
+        "web-alerts",
+        "scraping"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2024-02-03T16:41:45Z"
+    },
+    {
+      "full_name": "airbnb/lottie-web",
+      "url": "https://github.com/airbnb/lottie-web",
+      "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+      "summary": "A library for rendering Adobe After Effects animations natively on the web using JSON.",
+      "language": "JavaScript",
+      "stars": 31987,
+      "tags": [
+        "animation",
+        "after-effects",
+        "svg",
+        "json"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-14T19:28:01Z"
+    },
+    {
+      "full_name": "DevToys-app/DevToys",
+      "url": "https://github.com/DevToys-app/DevToys",
+      "description": "A Swiss Army knife for developers.",
+      "summary": "A comprehensive Swiss Army knife of offline tools for daily developer tasks.",
+      "language": "C#",
+      "stars": 31721,
+      "tags": [
+        "utility",
+        "csharp",
+        "cross-platform",
+        "productivity"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2022-01-26T00:12:13Z"
+    },
+    {
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "summary": "Send push notifications to desktop or mobile via simple HTTP PUT/POST requests.",
+      "language": "Go",
+      "stars": 31073,
+      "tags": [
+        "notifications",
+        "push-service",
+        "pubsub",
+        "rest-api"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2025-02-24T22:17:36Z"
+    },
+    {
+      "full_name": "transloadit/uppy",
+      "url": "https://github.com/transloadit/uppy",
+      "description": "The next open source file uploader for web browsers :dog: ",
+      "summary": "A modular, resumable file uploader for web browsers that integrates with various services.",
+      "language": "TypeScript",
+      "stars": 30864,
+      "tags": [
+        "uploader",
+        "file-upload",
+        "javascript",
+        "browser"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2025-10-20T15:14:50Z"
+    },
+    {
+      "full_name": "chubin/wttr.in",
+      "url": "https://github.com/chubin/wttr.in",
+      "description": ":partly_sunny: The right way to check the weather",
+      "summary": "A console-oriented weather forecast service that works via curl and displays ASCII art.",
+      "language": "Go",
+      "stars": 30033,
+      "tags": [
+        "weather",
+        "curl",
+        "ascii-art",
+        "terminal"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2021-11-10T17:51:53Z"
+    },
+    {
+      "full_name": "googleworkspace/cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "summary": "A comprehensive command-line tool for managing Google Workspace services with integrated AI skills.",
+      "language": "Rust",
+      "stars": 29319,
+      "tags": [
+        "google-workspace",
+        "rust",
+        "automation",
+        "ai-agent"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2026-03-30T13:11:14Z"
+    },
+    {
+      "full_name": "viatsko/awesome-vscode",
+      "url": "https://github.com/viatsko/awesome-vscode",
+      "description": "🎨 A curated list of delightful VS Code packages and resources.",
+      "summary": "A curated collection of high-quality extensions, themes, and resources for Visual Studio Code.",
+      "language": "JavaScript",
+      "stars": 28815,
+      "tags": [
+        "vscode",
+        "extensions",
+        "curated-list"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-02-18T01:50:28Z"
+    },
+    {
+      "full_name": "sharkdp/hyperfine",
+      "url": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "summary": "A command-line tool for benchmarking programs with statistical analysis and export options.",
+      "language": "Rust",
+      "stars": 28399,
+      "tags": [
+        "benchmarking",
+        "cli",
+        "performance",
+        "rust"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2026-07-02T16:07:17Z"
+    },
+    {
+      "full_name": "NvChad/NvChad",
+      "url": "https://github.com/NvChad/NvChad",
+      "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
+      "summary": "A fast Neovim framework providing solid defaults and a beautiful UI for developers.",
+      "language": "Lua",
+      "stars": 28303,
+      "tags": [
+        "neovim",
+        "lua",
+        "ide",
+        "editor"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2025-10-20T15:14:57Z"
+    },
+    {
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "summary": "A SAST tool for detecting and preventing hardcoded secrets like passwords and API keys.",
+      "language": "Go",
+      "stars": 27978,
+      "tags": [
+        "security",
+        "secrets-detection",
+        "git",
+        "devsecops"
+      ],
+      "category": "Security & Secrets",
+      "starred_at": "2023-06-04T10:26:18Z"
+    },
+    {
+      "full_name": "ArchiveBox/ArchiveBox",
+      "url": "https://github.com/ArchiveBox/ArchiveBox",
+      "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+      "summary": "A powerful self-hosted web archiving solution that saves local copies of websites and media.",
+      "language": "Python",
+      "stars": 27836,
+      "tags": [
+        "archiving",
+        "backup",
+        "web-history",
+        "self-hosted"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-06-23T06:42:40Z"
+    },
+    {
+      "full_name": "Infisical/infisical",
+      "url": "https://github.com/Infisical/infisical",
+      "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+      "summary": "An open-source platform for managing secrets, certificates, and privileged access.",
+      "language": "TypeScript",
+      "stars": 27615,
+      "tags": [
+        "secrets",
+        "pki",
+        "security",
+        "vault"
+      ],
+      "category": "Security & Secrets",
+      "starred_at": "2025-10-07T09:54:35Z"
+    },
+    {
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "summary": "A library that renders After Effects animations natively on iOS using JSON exports.",
+      "language": "Swift",
+      "stars": 26781,
+      "tags": [
+        "animation",
+        "ios",
+        "vector-graphics",
+        "swift"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2022-09-20T15:50:19Z"
+    },
+    {
+      "full_name": "discordjs/discord.js",
+      "url": "https://github.com/discordjs/discord.js",
+      "description": "A powerful JavaScript library for interacting with the Discord API",
+      "summary": "A powerful JavaScript library for interacting with the Discord API.",
+      "language": "TypeScript",
+      "stars": 26739,
+      "tags": [
+        "discord-api",
+        "bot-development",
+        "nodejs"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:29:22Z"
+    },
+    {
+      "full_name": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "summary": "AI-powered bookmarking app for saving links, notes, and images with automatic tagging.",
+      "language": "TypeScript",
+      "stars": 26442,
+      "tags": [
+        "bookmarks",
+        "ai-tagging",
+        "read-it-later",
+        "knowledge-base"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2025-01-21T17:23:56Z"
+    },
+    {
+      "full_name": "tayllan/awesome-algorithms",
+      "url": "https://github.com/tayllan/awesome-algorithms",
+      "description": "A curated list of awesome places to learn and/or practice algorithms.",
+      "summary": "A comprehensive list of resources for learning and practicing computer science algorithms.",
+      "language": "",
+      "stars": 25322,
+      "tags": [
+        "algorithms",
+        "education",
+        "computer-science"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-02-18T01:50:02Z"
+    },
+    {
+      "full_name": "terrastruct/d2",
+      "url": "https://github.com/terrastruct/d2",
+      "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+      "summary": "A modern declarative scripting language that converts text descriptions into professional software diagrams.",
+      "language": "Go",
+      "stars": 24597,
+      "tags": [
+        "diagramming",
+        "text-to-diagram",
+        "architecture",
+        "go"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2022-11-22T15:27:08Z"
+    },
+    {
+      "full_name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "summary": "A format specification for communicating visual identity and design systems to coding agents.",
+      "language": "TypeScript",
+      "stars": 24379,
+      "tags": [
+        "design-system",
+        "ai-agents",
+        "specification",
+        "markdown"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2026-06-25T15:00:55Z"
+    },
+    {
+      "full_name": "ScoopInstaller/Scoop",
+      "url": "https://github.com/ScoopInstaller/Scoop",
+      "description": "A command-line installer for Windows.",
+      "summary": "A command-line installer and package manager for Windows users.",
+      "language": "PowerShell",
+      "stars": 24352,
+      "tags": [
+        "windows",
+        "package-manager",
+        "powershell",
+        "cli"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2021-02-25T04:01:33Z"
+    },
+    {
+      "full_name": "mdbootstrap/mdb-ui-kit",
+      "url": "https://github.com/mdbootstrap/mdb-ui-kit",
+      "description": "Bootstrap 5 & Material Design UI KIT",
+      "summary": "A UI kit combining Bootstrap 5 with Material Design for web development.",
+      "language": "SCSS",
+      "stars": 24258,
+      "tags": [
+        "bootstrap",
+        "ui-kit",
+        "material-design"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-16T16:57:09Z"
+    },
+    {
+      "full_name": "chromium/chromium",
+      "url": "https://github.com/chromium/chromium",
+      "description": "The official GitHub mirror of the Chromium source",
+      "summary": "The open-source project behind the Google Chrome browser and its rendering engine.",
+      "language": "",
+      "stars": 24110,
+      "tags": [
+        "browser",
+        "open-source",
+        "engine",
+        "web-standards"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2023-03-26T23:02:15Z"
+    },
+    {
+      "full_name": "dubinc/dub",
+      "url": "https://github.com/dubinc/dub",
+      "description": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
+      "summary": "An open-source link management and attribution platform for marketing teams.",
+      "language": "TypeScript",
+      "stars": 23839,
+      "tags": [
+        "link-shortener",
+        "analytics",
+        "marketing"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-11-28T23:42:35Z"
+    },
+    {
+      "full_name": "processing/p5.js",
+      "url": "https://github.com/processing/p5.js",
+      "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+      "summary": "A client-side JavaScript library for creative coding, art, and visual design on the web.",
+      "language": "JavaScript",
+      "stars": 23766,
+      "tags": [
+        "creative-coding",
+        "graphics",
+        "canvas",
+        "javascript"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-14T19:28:53Z"
+    },
+    {
+      "full_name": "dylanaraps/neofetch",
+      "url": "https://github.com/dylanaraps/neofetch",
+      "description": "🖼️  A command-line system information tool written in bash 3.2+",
+      "summary": "A command-line tool that displays system information alongside an ASCII logo.",
+      "language": "Shell",
+      "stars": 23713,
+      "tags": [
+        "bash",
+        "system-info",
+        "terminal"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2021-01-19T22:08:33Z"
+    },
+    {
+      "full_name": "louislam/dockge",
+      "url": "https://github.com/louislam/dockge",
+      "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+      "summary": "A reactive self-hosted manager for Docker Compose stacks and YAML files.",
+      "language": "TypeScript",
+      "stars": 23649,
+      "tags": [
+        "docker",
+        "docker-compose",
+        "management",
+        "dashboard"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2026-06-12T18:32:36Z"
+    },
+    {
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "summary": "A high-performance, feature-rich system information tool similar to neofetch.",
+      "language": "C",
+      "stars": 23527,
+      "tags": [
+        "system-info",
+        "fetch",
+        "terminal",
+        "c"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2026-07-02T16:07:30Z"
+    },
+    {
+      "full_name": "SwiftyJSON/SwiftyJSON",
+      "url": "https://github.com/SwiftyJSON/SwiftyJSON",
+      "description": "The better way to deal with JSON data in Swift.",
+      "summary": "A popular Swift library that simplifies the process of handling and parsing JSON data.",
+      "language": "Swift",
+      "stars": 22950,
+      "tags": [
+        "json",
+        "swift",
+        "parsing",
+        "ios"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2022-09-01T20:50:20Z"
+    },
+    {
+      "full_name": "typicode/lowdb",
+      "url": "https://github.com/typicode/lowdb",
+      "description": "Simple and fast JSON database",
+      "summary": "A simple, lightweight JSON-powered database for small projects and local storage.",
+      "language": "JavaScript",
+      "stars": 22560,
+      "tags": [
+        "json-database",
+        "embedded",
+        "local-storage"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-03-08T15:41:20Z"
+    },
+    {
+      "full_name": "HeroTransitions/Hero",
+      "url": "https://github.com/HeroTransitions/Hero",
+      "description": "Elegant transition library for iOS & tvOS",
+      "summary": "A library for building elegant view controller transitions in iOS and tvOS applications.",
+      "language": "Swift",
+      "stars": 22466,
+      "tags": [
+        "ios",
+        "swift",
+        "animation"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-01-30T16:04:44Z"
+    },
+    {
+      "full_name": "t4t5/sweetalert",
+      "url": "https://github.com/t4t5/sweetalert",
+      "description": "A beautiful replacement for JavaScript's \"alert\"",
+      "summary": "A beautiful and customizable replacement for standard JavaScript alert and popup dialogs.",
+      "language": "TypeScript",
+      "stars": 22289,
+      "tags": [
+        "ui-components",
+        "modal",
+        "dialog",
+        "javascript"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-14T19:28:52Z"
+    },
+    {
+      "full_name": "karpathy/llm-council",
+      "url": "https://github.com/karpathy/llm-council",
+      "description": "LLM Council works together to answer your hardest questions",
+      "summary": "A framework where multiple LLMs collaborate to answer complex questions.",
+      "language": "Python",
+      "stars": 22018,
+      "tags": [
+        "multi-agent",
+        "llm",
+        "python",
+        "problem-solving"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-11-25T13:27:55Z"
+    },
+    {
+      "full_name": "nostalgic-css/NES.css",
+      "url": "https://github.com/nostalgic-css/NES.css",
+      "description": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+      "summary": "A NES-style CSS framework for creating retro 8-bit inspired web interfaces.",
+      "language": "SCSS",
+      "stars": 21778,
+      "tags": [
+        "css-framework",
+        "retro",
+        "nes-style"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-02-05T12:50:59Z"
+    },
+    {
+      "full_name": "SBoudrias/Inquirer.js",
+      "url": "https://github.com/SBoudrias/Inquirer.js",
+      "description": "A collection of common interactive command line user interfaces.",
+      "summary": "A collection of common interactive command-line user interfaces for Node.js applications.",
+      "language": "TypeScript",
+      "stars": 21594,
+      "tags": [
+        "cli",
+        "interactive",
+        "nodejs",
+        "prompt"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2025-10-24T16:36:22Z"
+    },
+    {
+      "full_name": "bloc97/Anime4K",
+      "url": "https://github.com/bloc97/Anime4K",
+      "description": "A High-Quality Real Time Upscaler for Anime Video",
+      "summary": "A high-quality real-time upscaler for anime video using neural networks.",
+      "language": "Jupyter Notebook",
+      "stars": 21112,
+      "tags": [
+        "upscaling",
+        "video-processing",
+        "cnn"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2021-01-14T19:29:30Z"
+    },
+    {
+      "full_name": "docmost/docmost",
+      "url": "https://github.com/docmost/docmost",
+      "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+      "summary": "Open-source collaborative wiki and documentation software for teams.",
+      "language": "TypeScript",
+      "stars": 20808,
+      "tags": [
+        "wiki",
+        "documentation",
+        "collaboration",
+        "notion-alternative"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2024-07-06T12:44:46Z"
+    },
+    {
+      "full_name": "w-okada/voice-changer",
+      "url": "https://github.com/w-okada/voice-changer",
+      "description": "リアルタイムボイスチェンジャー Realtime Voice Changer",
+      "summary": "A real-time AI voice changer supporting various models and low-latency conversion.",
+      "language": "Python",
+      "stars": 20538,
+      "tags": [
+        "voice-conversion",
+        "real-time",
+        "ai",
+        "audio-processing"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2023-04-10T13:45:47Z"
+    },
+    {
+      "full_name": "charmbracelet/vhs",
+      "url": "https://github.com/charmbracelet/vhs",
+      "description": "Your CLI home video recorder 📼",
+      "summary": "A CLI tool that allows you to record terminal sessions as high-quality GIFs.",
+      "language": "Go",
+      "stars": 20251,
+      "tags": [
+        "terminal",
+        "recorder",
+        "gif",
+        "automation"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2025-09-15T22:09:25Z"
+    },
+    {
+      "full_name": "githubnext/monaspace",
+      "url": "https://github.com/githubnext/monaspace",
+      "description": "An innovative superfamily of fonts for code",
+      "summary": "An innovative superfamily of variable fonts specifically designed for code and developers.",
+      "language": "Shell",
+      "stars": 19391,
+      "tags": [
+        "typography",
+        "fonts",
+        "coding-font"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-02-03T16:33:29Z"
+    },
+    {
+      "full_name": "FredKSchott/snowpack",
+      "url": "https://github.com/FredKSchott/snowpack",
+      "description": "ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️",
+      "summary": "A lightweight frontend build tool that leverages native ESM for instant development unbundling.",
+      "language": "JavaScript",
+      "stars": 19325,
+      "tags": [
+        "build-tool",
+        "esm",
+        "frontend",
+        "bundler"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-13T22:40:30Z"
+    },
+    {
+      "full_name": "ExistentialAudio/BlackHole",
+      "url": "https://github.com/ExistentialAudio/BlackHole",
+      "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+      "summary": "A virtual macOS audio driver for routing audio between different applications with zero latency.",
+      "language": "C",
+      "stars": 19284,
+      "tags": [
+        "macos",
+        "audio-driver",
+        "loopback"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-03-02T11:05:12Z"
+    },
+    {
+      "full_name": "wulkano/Kap",
+      "url": "https://github.com/wulkano/Kap",
+      "description": "An open-source screen recorder built with web technology",
+      "summary": "An open-source screen recorder for macOS built using web technologies.",
+      "language": "TypeScript",
+      "stars": 19264,
+      "tags": [
+        "screen-recorder",
+        "macos",
+        "electron",
+        "capture"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2025-10-20T15:15:32Z"
+    },
+    {
+      "full_name": "ppy/osu",
+      "url": "https://github.com/ppy/osu",
+      "description": "rhythm is just a *click* away!",
+      "summary": "The open-source code for the popular rhythm game osu!.",
+      "language": "C#",
+      "stars": 18609,
+      "tags": [
+        "rhythm-game",
+        "c-sharp",
+        "dotnet"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-11-30T11:11:43Z"
+    },
+    {
+      "full_name": "imputnet/helium",
+      "url": "https://github.com/imputnet/helium",
+      "description": "Private, fast, and honest web browser",
+      "summary": "A private and fast web browser built on top of the Chromium engine.",
+      "language": "C++",
+      "stars": 17955,
+      "tags": [
+        "browser",
+        "privacy",
+        "chromium",
+        "desktop-app"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2026-06-07T16:00:02Z"
+    },
+    {
+      "full_name": "upptime/upptime",
+      "url": "https://github.com/upptime/upptime",
+      "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
+      "summary": "A GitHub Actions powered uptime monitor and status page generator for tracking service availability.",
+      "language": "Markdown",
+      "stars": 17074,
+      "tags": [
+        "uptime",
+        "status-page",
+        "github-actions",
+        "monitoring"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2021-01-14T19:26:40Z"
+    },
+    {
+      "full_name": "lowlighter/metrics",
+      "url": "https://github.com/lowlighter/metrics",
+      "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
+      "summary": "An extensive infographics generator to display detailed GitHub account statistics.",
+      "language": "JavaScript",
+      "stars": 16867,
+      "tags": [
+        "github",
+        "infographics",
+        "metrics"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-01-16T17:08:25Z"
+    },
+    {
+      "full_name": "ccusage/ccusage",
+      "url": "https://github.com/ccusage/ccusage",
+      "description": "npx ccusage",
+      "summary": "A Rust-based command-line utility for checking resource or credit usage.",
+      "language": "Rust",
+      "stars": 16786,
+      "tags": [
+        "rust",
+        "usage-stats",
+        "cli"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2025-06-10T15:32:13Z"
+    },
+    {
+      "full_name": "hackiftekhar/IQKeyboardManager",
+      "url": "https://github.com/hackiftekhar/IQKeyboardManager",
+      "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
+      "summary": "A codeless drop-in library for iOS that prevents the keyboard from covering text fields.",
+      "language": "Swift",
+      "stars": 16624,
+      "tags": [
+        "ios",
+        "swift",
+        "ui-ux",
+        "keyboard"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2022-10-02T23:44:47Z"
+    },
+    {
+      "full_name": "jdg/MBProgressHUD",
+      "url": "https://github.com/jdg/MBProgressHUD",
+      "description": "MBProgressHUD + Customizations",
+      "summary": "An iOS activity indicator library for displaying translucent HUDs with indicators and labels.",
+      "language": "Objective-C",
+      "stars": 15948,
+      "tags": [
+        "ios",
+        "objective-c",
+        "ui-component",
+        "progress-hud"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-06-05T16:27:54Z"
+    },
+    {
+      "full_name": "rjsf-team/react-jsonschema-form",
+      "url": "https://github.com/rjsf-team/react-jsonschema-form",
+      "description": "A React component for building Web forms from JSON Schema.",
+      "summary": "A React component that automatically generates web forms from JSON Schema definitions.",
+      "language": "TypeScript",
+      "stars": 15818,
+      "tags": [
+        "react",
+        "json-schema",
+        "forms"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2023-01-14T10:47:48Z"
+    },
+    {
+      "full_name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "summary": "A menu bar utility to monitor usage statistics for OpenAI Codex and Claude Code.",
+      "language": "Swift",
+      "stars": 15696,
+      "tags": [
+        "openai-codex",
+        "claude-code",
+        "stats",
+        "macos"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2026-01-28T06:37:51Z"
+    },
+    {
+      "full_name": "mindverse/Second-Me",
+      "url": "https://github.com/mindverse/Second-Me",
+      "description": "Train your AI self, amplify you, bridge the world",
+      "summary": "A platform to train and deploy a personalized AI version of yourself.",
+      "language": "Python",
+      "stars": 15613,
+      "tags": [
+        "ai-agent",
+        "digital-twin",
+        "personal-ai",
+        "python"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-03-24T23:29:04Z"
+    },
+    {
+      "full_name": "gotify/server",
+      "url": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+      "summary": "A self-hosted server for sending and receiving real-time push notifications.",
+      "language": "Go",
+      "stars": 15215,
+      "tags": [
+        "notifications",
+        "websocket",
+        "self-hosted"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2021-01-16T16:51:42Z"
+    },
+    {
+      "full_name": "cachethq/cachet",
+      "url": "https://github.com/cachethq/cachet",
+      "description": "🚦 Cachet, the open-source, self-hosted status page system.",
+      "summary": "An open-source, self-hosted status page system for tracking service outages.",
+      "language": "PHP",
+      "stars": 15108,
+      "tags": [
+        "status-page",
+        "php",
+        "monitoring",
+        "dashboard"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2021-11-29T02:05:08Z"
+    },
+    {
+      "full_name": "tensorflow/tfjs-models",
+      "url": "https://github.com/tensorflow/tfjs-models",
+      "description": "Pretrained models for TensorFlow.js",
+      "summary": "A collection of pre-trained machine learning models optimized for use in the browser.",
+      "language": "TypeScript",
+      "stars": 14787,
+      "tags": [
+        "tensorflow-js",
+        "machine-learning",
+        "pretrained-models",
+        "javascript"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2021-01-24T13:00:48Z"
+    },
+    {
+      "full_name": "sqshq/sampler",
+      "url": "https://github.com/sqshq/sampler",
+      "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "summary": "A tool for shell command execution, visualization, and alerting via YAML configuration.",
+      "language": "Go",
+      "stars": 14580,
+      "tags": [
+        "visualization",
+        "monitoring",
+        "terminal-ui"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2025-08-18T14:13:56Z"
+    },
+    {
+      "full_name": "davidshimjs/qrcodejs",
+      "url": "https://github.com/davidshimjs/qrcodejs",
+      "description": "Cross-browser QRCode generator for javascript",
+      "summary": "A cross-browser JavaScript library for generating QR codes dynamically.",
+      "language": "JavaScript",
+      "stars": 14292,
+      "tags": [
+        "qrcode",
+        "javascript",
+        "frontend",
+        "browser"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2022-01-26T00:12:39Z"
+    },
+    {
+      "full_name": "adityatelange/hugo-PaperMod",
+      "url": "https://github.com/adityatelange/hugo-PaperMod",
+      "description": " A fast, clean, responsive Hugo theme.",
+      "summary": "A fast, clean, and responsive minimalist theme for the Hugo static site generator.",
+      "language": "HTML",
+      "stars": 13720,
+      "tags": [
+        "hugo",
+        "hugo-theme",
+        "minimalist",
+        "blog"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2024-05-25T16:09:07Z"
+    },
+    {
+      "full_name": "DrkSephy/es6-cheatsheet",
+      "url": "https://github.com/DrkSephy/es6-cheatsheet",
+      "description": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+      "summary": "A comprehensive guide and reference for ES2015 JavaScript features and best practices.",
+      "language": "JavaScript",
+      "stars": 13329,
+      "tags": [
+        "javascript",
+        "es6",
+        "cheatsheet"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-01-16T17:09:52Z"
+    },
+    {
+      "full_name": "primer/css",
+      "url": "https://github.com/primer/css",
+      "description": "Primer is GitHub's design system. This is the CSS implementation",
+      "summary": "The CSS implementation of GitHub's Primer design system for building consistent interfaces.",
+      "language": "SCSS",
+      "stars": 12981,
+      "tags": [
+        "design-system",
+        "css",
+        "github",
+        "ui-components"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-21T00:33:47Z"
+    },
+    {
+      "full_name": "catdad/canvas-confetti",
+      "url": "https://github.com/catdad/canvas-confetti",
+      "description": "🎉 performant confetti animation in the browser",
+      "summary": "A high-performance confetti animation library for web browsers using the Canvas API.",
+      "language": "JavaScript",
+      "stars": 12622,
+      "tags": [
+        "animation",
+        "canvas",
+        "confetti",
+        "javascript"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2022-06-28T08:15:30Z"
+    },
+    {
+      "full_name": "downshift-js/downshift",
+      "url": "https://github.com/downshift-js/downshift",
+      "description": "🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.",
+      "summary": "Accessible React primitives for building autocomplete and dropdown components.",
+      "language": "JavaScript",
+      "stars": 12299,
+      "tags": [
+        "react",
+        "accessibility",
+        "ui-primitives"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2022-12-05T12:47:19Z"
+    },
+    {
+      "full_name": "openai/shap-e",
+      "url": "https://github.com/openai/shap-e",
+      "description": "Generate 3D objects conditioned on text or images",
+      "summary": "A conditional generative model for creating 3D objects from text or image prompts.",
+      "language": "Python",
+      "stars": 12254,
+      "tags": [
+        "3d-generation",
+        "generative-ai",
+        "python",
+        "openai"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2023-05-08T23:16:26Z"
+    },
+    {
+      "full_name": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.",
+      "summary": "An AI-powered agent that automates pull request reviews and analysis.",
+      "language": "Python",
+      "stars": 11946,
+      "tags": [
+        "code-review",
+        "git-automation",
+        "llm",
+        "dev-productivity"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-11-17T16:17:08Z"
+    },
+    {
+      "full_name": "o2sh/onefetch",
+      "url": "https://github.com/o2sh/onefetch",
+      "description": "Command-line Git information tool",
+      "summary": "A command-line tool that displays summary information and statistics for Git repositories.",
+      "language": "Rust",
+      "stars": 11943,
+      "tags": [
+        "git",
+        "rust",
+        "cli-tool"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2023-03-18T07:52:55Z"
+    },
+    {
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "summary": "An extremely fast lossless compression algorithm focused on speed over ratio.",
+      "language": "C",
+      "stars": 11899,
+      "tags": [
+        "compression",
+        "algorithm",
+        "performance",
+        "c"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:26:45Z"
+    },
+    {
+      "full_name": "Nozbe/WatermelonDB",
+      "url": "https://github.com/Nozbe/WatermelonDB",
+      "description": "🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️",
+      "summary": "A high-performance reactive database for building powerful React and React Native applications.",
+      "language": "JavaScript",
+      "stars": 11739,
+      "tags": [
+        "database",
+        "react-native",
+        "persistence",
+        "reactive"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:27:44Z"
+    },
+    {
+      "full_name": "owncast/owncast",
+      "url": "https://github.com/owncast/owncast",
+      "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
+      "summary": "A self-hosted live video streaming and chat server for independent content creators.",
+      "language": "HTML",
+      "stars": 11386,
+      "tags": [
+        "streaming",
+        "video",
+        "self-hosted",
+        "broadcasting"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2021-01-14T19:26:24Z"
+    },
+    {
+      "full_name": "Templarian/MaterialDesign",
+      "url": "https://github.com/Templarian/MaterialDesign",
+      "description": "✒7000+ Material Design Icons from the Community",
+      "summary": "A massive collection of community-driven Material Design icons for web and mobile.",
+      "language": "",
+      "stars": 11281,
+      "tags": [
+        "icons",
+        "material-design",
+        "svg"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-16T16:58:20Z"
+    },
+    {
+      "full_name": "openai/openai-node",
+      "url": "https://github.com/openai/openai-node",
+      "description": "Official JavaScript / TypeScript library for the OpenAI API",
+      "summary": "The official Node.js library for integrating OpenAI's API into JavaScript and TypeScript applications.",
+      "language": "TypeScript",
+      "stars": 11006,
+      "tags": [
+        "openai",
+        "typescript",
+        "sdk"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2023-03-03T11:26:58Z"
+    },
+    {
+      "full_name": "Cysharp/UniTask",
+      "url": "https://github.com/Cysharp/UniTask",
+      "description": "Provides an efficient allocation free async/await integration for Unity.",
+      "summary": "Provides efficient, allocation-free async/await integration for Unity development.",
+      "language": "C#",
+      "stars": 10995,
+      "tags": [
+        "unity",
+        "async-await",
+        "performance",
+        "csharp"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-06-01T17:29:07Z"
+    },
+    {
+      "full_name": "thedevs-network/kutt",
+      "url": "https://github.com/thedevs-network/kutt",
+      "description": "Free Modern URL Shortener.",
+      "summary": "A modern, open-source URL shortener with support for custom domains and detailed analytics.",
+      "language": "JavaScript",
+      "stars": 10942,
+      "tags": [
+        "url-shortener",
+        "link-management",
+        "javascript"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-10-29T18:34:39Z"
+    },
+    {
+      "full_name": "sissbruecker/linkding",
+      "url": "https://github.com/sissbruecker/linkding",
+      "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
+      "summary": "A fast and minimal self-hosted bookmark manager designed for easy Docker deployment.",
+      "language": "Python",
+      "stars": 10795,
+      "tags": [
+        "bookmarks",
+        "docker",
+        "minimalist"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2024-02-03T16:48:03Z"
+    },
+    {
+      "full_name": "Fechin/reference",
+      "url": "https://github.com/Fechin/reference",
+      "description": "⭕ Share quick reference cheat sheet for developers.",
+      "summary": "A collection of quick reference cheat sheets for developers across various languages.",
+      "language": "EJS",
+      "stars": 10650,
+      "tags": [
+        "cheatsheet",
+        "developer-guide",
+        "snippets",
+        "reference"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2024-11-09T17:59:18Z"
+    },
+    {
+      "full_name": "blinkospace/blinko",
+      "url": "https://github.com/blinkospace/blinko",
+      "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+      "summary": "An open-source, self-hosted personal AI note-taking tool prioritizing user privacy.",
+      "language": "TypeScript",
+      "stars": 10630,
+      "tags": [
+        "notes",
+        "ai",
+        "self-hosted",
+        "privacy"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-10-20T12:07:03Z"
+    },
+    {
+      "full_name": "is-a-dev/register",
+      "url": "https://github.com/is-a-dev/register",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "summary": "A service for developers to register free .is-a.dev subdomains via GitHub.",
+      "language": "JavaScript",
+      "stars": 10628,
+      "tags": [
+        "dns",
+        "subdomain",
+        "free-for-dev",
+        "github-pages"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-09-18T15:49:13Z"
+    },
+    {
+      "full_name": "caelestia-dots/shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
+      "summary": "A fluid and morphing shell interface designed for Linux desktop environments.",
+      "language": "QML",
+      "stars": 10352,
+      "tags": [
+        "linux-shell",
+        "wayland",
+        "hyprland",
+        "desktop-environment"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2026-03-24T15:11:25Z"
+    },
+    {
+      "full_name": "reviewdog/reviewdog",
+      "url": "https://github.com/reviewdog/reviewdog",
+      "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+      "summary": "An automated code review tool that integrates analysis tool outputs into pull requests.",
+      "language": "Go",
+      "stars": 9424,
+      "tags": [
+        "code-review",
+        "linter",
+        "ci-cd",
+        "automation"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2026-06-17T17:39:36Z"
+    },
+    {
+      "full_name": "DevToys-app/DevToysMac",
+      "url": "https://github.com/DevToys-app/DevToysMac",
+      "description": "DevToys For mac",
+      "summary": "A native macOS version of the DevToys developer utility collection.",
+      "language": "Swift",
+      "stars": 9224,
+      "tags": [
+        "macos",
+        "swift",
+        "developer-tools",
+        "utility"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2022-02-05T06:19:00Z"
+    },
+    {
+      "full_name": "klaudiosinani/signale",
+      "url": "https://github.com/klaudiosinani/signale",
+      "description": "Highly configurable logging library",
+      "summary": "A highly configurable and beautiful logging library for Node.js applications.",
+      "language": "JavaScript",
+      "stars": 9177,
+      "tags": [
+        "logging",
+        "nodejs",
+        "cli",
+        "javascript"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2026-06-19T14:37:26Z"
+    },
+    {
+      "full_name": "mrdoob/stats.js",
+      "url": "https://github.com/mrdoob/stats.js",
+      "description": "JavaScript Performance Monitor",
+      "summary": "A lightweight JavaScript performance monitor for tracking frame rates and memory usage.",
+      "language": "JavaScript",
+      "stars": 9133,
+      "tags": [
+        "performance",
+        "fps",
+        "javascript",
+        "benchmarking"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2021-01-14T19:28:18Z"
+    },
+    {
+      "full_name": "Abdenasser/neohtop",
+      "url": "https://github.com/Abdenasser/neohtop",
+      "description": "💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",
+      "summary": "A fast, cross-platform system monitor built with Rust, Tauri, and Svelte.",
+      "language": "Svelte",
+      "stars": 9042,
+      "tags": [
+        "htop",
+        "rust",
+        "dashboard"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2025-04-19T05:22:54Z"
+    },
+    {
+      "full_name": "infinitered/nsfwjs",
+      "url": "https://github.com/infinitered/nsfwjs",
+      "description": "NSFW detection on the client-side via TensorFlow.js",
+      "summary": "A client-side library for detecting indecent content in images using machine learning.",
+      "language": "TypeScript",
+      "stars": 8918,
+      "tags": [
+        "tensorflow-js",
+        "content-moderation",
+        "computer-vision",
+        "javascript"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-08-23T13:48:52Z"
+    },
+    {
+      "full_name": "ellite/Wallos",
+      "url": "https://github.com/ellite/Wallos",
+      "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
+      "summary": "Self-hostable personal subscription tracker to manage recurring expenses and budgets.",
+      "language": "PHP",
+      "stars": 8150,
+      "tags": [
+        "finance",
+        "subscriptions",
+        "budgeting",
+        "expense-tracker"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2025-01-22T16:20:46Z"
+    },
+    {
+      "full_name": "jaywalnut310/vits",
+      "url": "https://github.com/jaywalnut310/vits",
+      "description": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+      "summary": "End-to-end text-to-speech model using variational autoencoders and adversarial learning.",
+      "language": "Python",
+      "stars": 7871,
+      "tags": [
+        "tts",
+        "pytorch",
+        "deep-learning",
+        "speech"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-03-25T13:04:46Z"
+    },
+    {
+      "full_name": "ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+      "url": "https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+      "description": "A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP",
+      "summary": "An educational example for writing custom toon lit shaders in Unity's Universal Render Pipeline.",
+      "language": "ShaderLab",
+      "stars": 7676,
+      "tags": [
+        "unity",
+        "urp",
+        "shader",
+        "toon-shading"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-14T19:26:26Z"
+    },
+    {
+      "full_name": "neuecc/UniRx",
+      "url": "https://github.com/neuecc/UniRx",
+      "description": "Reactive Extensions for Unity",
+      "summary": "A reimplementation of Reactive Extensions for the Unity game engine.",
+      "language": "C#",
+      "stars": 7327,
+      "tags": [
+        "unity",
+        "reactive-extensions",
+        "csharp",
+        "rx"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-06-01T17:29:08Z"
+    },
+    {
+      "full_name": "unjs/consola",
+      "url": "https://github.com/unjs/consola",
+      "description": "🐨 Elegant Console Logger for Node.js and Browser ",
+      "summary": "An elegant and feature-rich console logger for Node.js and browser environments.",
+      "language": "TypeScript",
+      "stars": 7291,
+      "tags": [
+        "logging",
+        "node-js",
+        "terminal-ui"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-04-02T13:13:19Z"
+    },
+    {
+      "full_name": "MikeMcl/decimal.js",
+      "url": "https://github.com/MikeMcl/decimal.js",
+      "description": "An arbitrary-precision Decimal type for JavaScript",
+      "summary": "An arbitrary-precision decimal type library for JavaScript applications.",
+      "language": "JavaScript",
+      "stars": 7210,
+      "tags": [
+        "javascript",
+        "math",
+        "arbitrary-precision",
+        "decimal"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-03-03T04:52:17Z"
+    },
+    {
+      "full_name": "googleapis/release-please",
+      "url": "https://github.com/googleapis/release-please",
+      "description": "generate release PRs based on the conventionalcommits.org spec",
+      "summary": "Automates GitHub releases and changelogs based on conventional commit messages.",
+      "language": "TypeScript",
+      "stars": 7131,
+      "tags": [
+        "automation",
+        "release-management",
+        "git-workflow"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-03-19T13:04:28Z"
+    },
+    {
+      "full_name": "apple/corenet",
+      "url": "https://github.com/apple/corenet",
+      "description": "CoreNet: A library for training deep neural networks",
+      "summary": "Apple's library for training deep neural networks across various computer vision tasks.",
+      "language": "Jupyter Notebook",
+      "stars": 6997,
+      "tags": [
+        "deep-learning",
+        "neural-networks",
+        "pytorch",
+        "training"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2024-04-27T15:50:26Z"
+    },
+    {
+      "full_name": "MessagePack-CSharp/MessagePack-CSharp",
+      "url": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
+      "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
+      "summary": "An extremely fast MessagePack serializer for C# supporting .NET and Unity.",
+      "language": "C#",
+      "stars": 6722,
+      "tags": [
+        "serialization",
+        "msgpack",
+        "csharp",
+        "performance"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-06-01T17:29:30Z"
+    },
+    {
+      "full_name": "Tokyo-Metro-Gov/covid19",
+      "url": "https://github.com/Tokyo-Metro-Gov/covid19",
+      "description": "東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website",
+      "summary": "The official open-source website for the Tokyo Metropolitan Government's COVID-19 task force.",
+      "language": "Vue",
+      "stars": 6192,
+      "tags": [
+        "vuejs",
+        "dashboard",
+        "public-data",
+        "covid-19"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-14T19:28:15Z"
+    },
+    {
+      "full_name": "timvisee/send",
+      "url": "https://github.com/timvisee/send",
+      "description": ":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send",
+      "summary": "A simple, private, and encrypted file-sharing service based on Firefox Send.",
+      "language": "JavaScript",
+      "stars": 5823,
+      "tags": [
+        "file-sharing",
+        "encryption",
+        "privacy",
+        "self-hosted"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2024-06-19T17:06:05Z"
+    },
+    {
+      "full_name": "jagrosh/MusicBot",
+      "url": "https://github.com/jagrosh/MusicBot",
+      "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+      "summary": "A self-hostable Discord music bot with support for multiple audio sources.",
+      "language": "Java",
+      "stars": 5746,
+      "tags": [
+        "discord-bot",
+        "music-player",
+        "java",
+        "self-hosted"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-01-14T17:27:49Z"
+    },
+    {
+      "full_name": "AppPear/ChartView",
+      "url": "https://github.com/AppPear/ChartView",
+      "description": "ChartView made in SwiftUI",
+      "summary": "A dedicated library for creating beautiful and interactive charts using SwiftUI.",
+      "language": "Swift",
+      "stars": 5635,
+      "tags": [
+        "swiftui",
+        "charts",
+        "ios",
+        "data-viz"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2022-09-01T19:27:12Z"
+    },
+    {
+      "full_name": "dotenvx/dotenvx",
+      "url": "https://github.com/dotenvx/dotenvx",
+      "description": "a secure dotenv–from the creator of `dotenv`",
+      "summary": "A secure version of dotenv that supports encrypted environment variables.",
+      "language": "JavaScript",
+      "stars": 5571,
+      "tags": [
+        "dotenv",
+        "secrets-management",
+        "encryption",
+        "env-vars"
+      ],
+      "category": "Security & Secrets",
+      "starred_at": "2024-06-30T10:36:34Z"
+    },
+    {
+      "full_name": "unjs/ofetch",
+      "url": "https://github.com/unjs/ofetch",
+      "description": "😱 A better fetch API. Works everywhere.",
+      "summary": "A versatile and improved fetch API wrapper that works across all JavaScript environments.",
+      "language": "TypeScript",
+      "stars": 5325,
+      "tags": [
+        "fetch-api",
+        "http-client",
+        "typescript"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-04-02T13:13:08Z"
+    },
+    {
+      "full_name": "wanasit/chrono",
+      "url": "https://github.com/wanasit/chrono",
+      "description": "A natural language date parser in Javascript",
+      "summary": "A natural language date parser that extracts date information from unstructured text.",
+      "language": "TypeScript",
+      "stars": 5255,
+      "tags": [
+        "javascript",
+        "date-parsing",
+        "nlp",
+        "typescript"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2023-12-24T15:09:56Z"
+    },
+    {
+      "full_name": "liriliri/aya",
+      "url": "https://github.com/liriliri/aya",
+      "description": "Android ADB desktop app",
+      "summary": "A desktop application providing a graphical interface for Android Debug Bridge (ADB).",
+      "language": "TypeScript",
+      "stars": 5185,
+      "tags": [
+        "android",
+        "adb",
+        "electron",
+        "desktop-tool"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2024-12-19T16:43:01Z"
+    },
+    {
+      "full_name": "ddddxxx/LyricsX",
+      "url": "https://github.com/ddddxxx/LyricsX",
+      "description": "🎶 Ultimate lyrics app for macOS.",
+      "summary": "A comprehensive lyrics application for macOS that integrates with various music players.",
+      "language": "Swift",
+      "stars": 5179,
+      "tags": [
+        "macos",
+        "lyrics",
+        "music",
+        "spotify"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-10-06T15:28:48Z"
+    },
+    {
+      "full_name": "rajnandan1/kener",
+      "url": "https://github.com/rajnandan1/kener",
+      "description": "Stunning status pages, batteries included!",
+      "summary": "A modern, self-hosted status page system with built-in monitoring and incident management.",
+      "language": "Svelte",
+      "stars": 5026,
+      "tags": [
+        "status-page",
+        "monitoring",
+        "svelte",
+        "observability"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2024-02-03T01:57:40Z"
+    },
+    {
+      "full_name": "papra-hq/papra",
+      "url": "https://github.com/papra-hq/papra",
+      "description": "The minimalistic document archiving platform.",
+      "summary": "A minimalistic self-hosted platform for document archiving and management.",
+      "language": "TypeScript",
+      "stars": 4882,
+      "tags": [
+        "archiving",
+        "documents",
+        "minimalist",
+        "self-hosted"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2026-06-13T13:27:39Z"
+    },
+    {
+      "full_name": "saicaca/fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro. ",
+      "summary": "A minimalist static blog template built with Astro and Tailwind CSS.",
+      "language": "Astro",
+      "stars": 4735,
+      "tags": [
+        "astro",
+        "blog",
+        "template",
+        "minimalist"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2025-08-26T14:39:55Z"
+    },
+    {
+      "full_name": "fent/node-ytdl-core",
+      "url": "https://github.com/fent/node-ytdl-core",
+      "description": "YouTube video downloader in javascript.",
+      "summary": "A core JavaScript library for downloading and processing YouTube videos in Node.js.",
+      "language": "JavaScript",
+      "stars": 4732,
+      "tags": [
+        "youtube",
+        "video-downloader",
+        "scraper",
+        "nodejs"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:28:32Z"
+    },
+    {
+      "full_name": "ThioJoe/YT-Spammer-Purge",
+      "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+      "description": "Allows you easily scan for and delete scam comments using several methods.",
+      "summary": "A tool to scan and delete scam comments on YouTube using various detection methods.",
+      "language": "Python",
+      "stars": 4643,
+      "tags": [
+        "youtube",
+        "spam-filter",
+        "python",
+        "moderation"
+      ],
+      "category": "Other",
+      "starred_at": "2022-02-05T08:41:53Z"
+    },
+    {
+      "full_name": "francisrstokes/super-expressive",
+      "url": "https://github.com/francisrstokes/super-expressive",
+      "description": "🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language",
+      "summary": "A JavaScript library for building complex regular expressions using a near-natural language API.",
+      "language": "JavaScript",
+      "stars": 4616,
+      "tags": [
+        "regex",
+        "javascript",
+        "natural-language",
+        "tooling"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2022-01-11T05:54:40Z"
+    },
+    {
+      "full_name": "szabodanika/microbin",
+      "url": "https://github.com/szabodanika/microbin",
+      "description": "A secure, configurable file-sharing and URL shortening web app written in Rust.",
+      "summary": "A secure and highly configurable self-hosted web application for sharing files and shortening URLs.",
+      "language": "Rust",
+      "stars": 4432,
+      "tags": [
+        "pastebin",
+        "file-sharing",
+        "rust",
+        "self-hosted"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2022-11-11T13:07:20Z"
+    },
+    {
+      "full_name": "Cysharp/MagicOnion",
+      "url": "https://github.com/Cysharp/MagicOnion",
+      "description": "Unified Realtime/API framework for .NET platform and Unity.",
+      "summary": "A unified realtime and API framework for .NET and Unity using gRPC.",
+      "language": "C#",
+      "stars": 4417,
+      "tags": [
+        "grpc",
+        "rpc",
+        "dotnet",
+        "realtime"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-06-01T17:29:56Z"
+    },
+    {
+      "full_name": "Dimillian/CodexMonitor",
+      "url": "https://github.com/Dimillian/CodexMonitor",
+      "description": "An app to monitor the (Codex) situation",
+      "summary": "A desktop application built with Tauri to monitor the status of AI Codex services.",
+      "language": "TypeScript",
+      "stars": 4117,
+      "tags": [
+        "ai-monitoring",
+        "tauri",
+        "cross-platform"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2026-01-20T12:20:32Z"
+    },
+    {
+      "full_name": "nagix/mini-tokyo-3d",
+      "url": "https://github.com/nagix/mini-tokyo-3d",
+      "description": "A real-time 3D digital map of Tokyo's public transport system",
+      "summary": "A real-time 3D digital map visualizing Tokyo's public transport system.",
+      "language": "JavaScript",
+      "stars": 4114,
+      "tags": [
+        "3d-map",
+        "visualization",
+        "tokyo"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-14T19:29:28Z"
+    },
+    {
+      "full_name": "unity3d-jp/UnityChanToonShaderVer2_Project",
+      "url": "https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project",
+      "description": "UnityChanToonShaderVer2 Project / v.2.0.9 Release",
+      "summary": "The official Unity-Chan toon shader project for achieving high-quality anime-style rendering.",
+      "language": "ShaderLab",
+      "stars": 4089,
+      "tags": [
+        "unity",
+        "toon-shader",
+        "anime-style"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-31T10:16:51Z"
+    },
+    {
+      "full_name": "exyte/PopupView",
+      "url": "https://github.com/exyte/PopupView",
+      "description": "Toasts and popups library written with SwiftUI",
+      "summary": "A SwiftUI library for easily displaying toasts, popups, and alerts in iOS apps.",
+      "language": "Swift",
+      "stars": 4051,
+      "tags": [
+        "swiftui",
+        "ios",
+        "toast",
+        "popup"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-06-11T11:29:36Z"
+    },
+    {
+      "full_name": "johnboiles/obs-mac-virtualcam",
+      "url": "https://github.com/johnboiles/obs-mac-virtualcam",
+      "description": "ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.",
+      "summary": "A macOS plugin for OBS that creates a virtual webcam output for video conferencing.",
+      "language": "Objective-C++",
+      "stars": 4036,
+      "tags": [
+        "obs-studio",
+        "macos",
+        "virtual-camera",
+        "streaming"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-01-14T19:27:51Z"
+    },
+    {
+      "full_name": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+      "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+      "description": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+      "summary": "An unofficial cross-platform desktop client for Google Assistant powered by the SDK.",
+      "language": "JavaScript",
+      "stars": 3632,
+      "tags": [
+        "desktop-app",
+        "google-assistant",
+        "electron",
+        "cross-platform"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-04-23T15:08:26Z"
+    },
+    {
+      "full_name": "openspeedtest/Speed-Test",
+      "url": "https://github.com/openspeedtest/Speed-Test",
+      "description": "SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.",
+      "summary": "A pure JavaScript HTML5 network performance and speed estimation tool.",
+      "language": "JavaScript",
+      "stars": 3622,
+      "tags": [
+        "speedtest",
+        "network",
+        "html5"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2022-11-22T15:49:00Z"
+    },
+    {
+      "full_name": "vn7n24fzkq/github-profile-summary-cards",
+      "url": "https://github.com/vn7n24fzkq/github-profile-summary-cards",
+      "description": "A tool to generate your GitHub summary card for profile README",
+      "summary": "Generates visual summary cards for GitHub profile READMEs using GitHub Actions.",
+      "language": "TypeScript",
+      "stars": 3559,
+      "tags": [
+        "github-profile",
+        "readme",
+        "stats",
+        "github-actions"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-01-14T19:27:02Z"
+    },
+    {
+      "full_name": "franciscop/server",
+      "url": "https://github.com/franciscop/server",
+      "description": ":desktop_computer: Simple and powerful server for Node.js",
+      "summary": "A simple and powerful server-side framework for building Node.js applications.",
+      "language": "JavaScript",
+      "stars": 3556,
+      "tags": [
+        "nodejs",
+        "backend",
+        "web-server",
+        "framework"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:28:36Z"
+    },
+    {
+      "full_name": "setchi/FancyScrollView",
+      "url": "https://github.com/setchi/FancyScrollView",
+      "description": "A versatile Unity scroll view component that enables highly flexible animations.",
+      "summary": "A flexible Unity component for creating highly customizable and animated scroll views.",
+      "language": "C#",
+      "stars": 3502,
+      "tags": [
+        "unity",
+        "ui-components",
+        "csharp",
+        "scrollview"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-10-04T14:11:41Z"
+    },
+    {
+      "full_name": "vrm-c/UniVRM",
+      "url": "https://github.com/vrm-c/UniVRM",
+      "description": "UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/",
+      "summary": "A Unity implementation of the VRM file format for 3D humanoid avatars.",
+      "language": "C#",
+      "stars": 3324,
+      "tags": [
+        "unity",
+        "vrm",
+        "avatar"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-31T10:16:38Z"
+    },
+    {
+      "full_name": "diced/zipline",
+      "url": "https://github.com/diced/zipline",
+      "description": "A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!",
+      "summary": "A feature-rich, easy-to-setup file upload server designed for ShareX and general use.",
+      "language": "TypeScript",
+      "stars": 3252,
+      "tags": [
+        "file-upload",
+        "sharex",
+        "self-hosted",
+        "image-host"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2025-01-22T16:20:55Z"
+    },
+    {
+      "full_name": "VOICEVOX/voicevox",
+      "url": "https://github.com/VOICEVOX/voicevox",
+      "description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター",
+      "summary": "A free, high-quality Japanese text-to-speech software editor for voice synthesis.",
+      "language": "TypeScript",
+      "stars": 3179,
+      "tags": [
+        "tts",
+        "audio",
+        "desktop-app"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-03-12T12:51:27Z"
+    },
+    {
+      "full_name": "lukeed/uvu",
+      "url": "https://github.com/lukeed/uvu",
+      "description": "uvu is an extremely fast and lightweight test runner for Node.js and the browser",
+      "summary": "An extremely fast and lightweight test runner for Node.js and browser environments.",
+      "language": "JavaScript",
+      "stars": 3033,
+      "tags": [
+        "testing",
+        "test-runner",
+        "javascript",
+        "nodejs"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-09-18T15:51:24Z"
+    },
+    {
+      "full_name": "RevenueCat/purchases-ios",
+      "url": "https://github.com/RevenueCat/purchases-ios",
+      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+      "summary": "A comprehensive SDK for implementing in-app purchases and subscription management on Apple platforms.",
+      "language": "Swift",
+      "stars": 3011,
+      "tags": [
+        "ios",
+        "subscriptions",
+        "iap",
+        "swift"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2022-10-02T23:42:07Z"
+    },
+    {
+      "full_name": "yoshiko-pg/difit",
+      "url": "https://github.com/yoshiko-pg/difit",
+      "description": "A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view",
+      "summary": "A CLI tool that renders Git diffs in a local web-based GitHub-style view.",
+      "language": "TypeScript",
+      "stars": 2912,
+      "tags": [
+        "git-diff",
+        "cli",
+        "code-review",
+        "web-ui"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2026-01-04T14:21:19Z"
+    },
+    {
+      "full_name": "ibelick/prompt-kit",
+      "url": "https://github.com/ibelick/prompt-kit",
+      "description": "Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.",
+      "summary": "High-quality UI building blocks and components specifically designed for AI applications.",
+      "language": "TypeScript",
+      "stars": 2893,
+      "tags": [
+        "ui-components",
+        "react",
+        "ai-interface"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-08-18T14:13:13Z"
+    },
+    {
+      "full_name": "nunocoracao/blowfish",
+      "url": "https://github.com/nunocoracao/blowfish",
+      "description": "Personal Website & Blog Theme for Hugo",
+      "summary": "A feature-rich and highly customizable personal website and blog theme for Hugo.",
+      "language": "HTML",
+      "stars": 2830,
+      "tags": [
+        "hugo",
+        "hugo-theme",
+        "blog",
+        "tailwind"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2024-05-25T16:09:10Z"
+    },
+    {
+      "full_name": "keijiro/KinoGlitch",
+      "url": "https://github.com/keijiro/KinoGlitch",
+      "description": "Video glitch effects for Unity",
+      "summary": "A collection of video glitch post-processing effects for the Unity game engine.",
+      "language": "C#",
+      "stars": 2799,
+      "tags": [
+        "unity",
+        "vfx",
+        "glitch",
+        "post-processing"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-14T19:26:52Z"
+    },
+    {
+      "full_name": "notAI-tech/NudeNet",
+      "url": "https://github.com/notAI-tech/NudeNet",
+      "description": "Lightweight nudity detection",
+      "summary": "A lightweight machine learning framework for nudity detection and content censorship.",
+      "language": "Python",
+      "stars": 2397,
+      "tags": [
+        "machine-learning",
+        "object-detection",
+        "nudity-detection",
+        "python"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2024-09-22T16:42:01Z"
+    },
+    {
+      "full_name": "snobu/destreamer",
+      "url": "https://github.com/snobu/destreamer",
+      "description": "Save Microsoft Stream videos for offline enjoyment.",
+      "summary": "A command-line tool to download and save Microsoft Stream videos for offline use.",
+      "language": "TypeScript",
+      "stars": 2366,
+      "tags": [
+        "downloader",
+        "microsoft-stream",
+        "video-tool",
+        "cli"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2021-01-14T19:27:10Z"
+    },
+    {
+      "full_name": "civitai/sd_civitai_extension",
+      "url": "https://github.com/civitai/sd_civitai_extension",
+      "description": "All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI",
+      "summary": "Integrates Civitai model browsing and downloading directly into the Stable Diffusion Web UI.",
+      "language": "Python",
+      "stars": 2364,
+      "tags": [
+        "stable-diffusion",
+        "civitai",
+        "automatic1111",
+        "extension"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2023-05-07T07:51:28Z"
+    },
+    {
+      "full_name": "DebugSwift/DebugSwift",
+      "url": "https://github.com/DebugSwift/DebugSwift",
+      "description": "A toolkit to make debugging iOS applications easier 🚀",
+      "summary": "A comprehensive toolkit for debugging and analyzing iOS applications during development.",
+      "language": "Swift",
+      "stars": 2337,
+      "tags": [
+        "ios-debug",
+        "swift",
+        "mobile-dev",
+        "profiling"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2026-02-13T15:08:27Z"
+    },
+    {
+      "full_name": "context-labs/mactop",
+      "url": "https://github.com/context-labs/mactop",
+      "description": "mactop - Apple Silicon Monitor Top",
+      "summary": "A terminal-based resource monitor specifically designed for Apple Silicon hardware.",
+      "language": "Go",
+      "stars": 2315,
+      "tags": [
+        "macos",
+        "apple-silicon",
+        "terminal",
+        "tui"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2024-06-02T15:51:31Z"
+    },
+    {
+      "full_name": "voidauth/voidauth",
+      "url": "https://github.com/voidauth/voidauth",
+      "description": "Single Sign-On for Your Self-Hosted Universe",
+      "summary": "A single sign-on solution designed specifically for self-hosted application ecosystems.",
+      "language": "TypeScript",
+      "stars": 2178,
+      "tags": [
+        "sso",
+        "authentication",
+        "oidc",
+        "self-hosted"
+      ],
+      "category": "Security & Secrets",
+      "starred_at": "2026-06-12T18:43:45Z"
+    },
+    {
+      "full_name": "owl4ce/dotfiles",
+      "url": "https://github.com/owl4ce/dotfiles",
+      "description": ":cherry_blossom: Aesthetic OpenboxWM Environment",
+      "summary": "Aesthetic configuration files for an Openbox window manager environment on Linux.",
+      "language": "CSS",
+      "stars": 2165,
+      "tags": [
+        "dotfiles",
+        "linux",
+        "openbox",
+        "customization"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2021-06-09T18:33:02Z"
+    },
+    {
+      "full_name": "0x2E/fusion",
+      "url": "https://github.com/0x2E/fusion",
+      "description": "A lightweight, self-hosted friendly RSS reader",
+      "summary": "A lightweight and self-hosted friendly RSS reader for staying updated with feeds.",
+      "language": "TypeScript",
+      "stars": 2122,
+      "tags": [
+        "rss",
+        "reader",
+        "aggregator",
+        "self-hosted"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2025-10-13T16:28:33Z"
+    },
+    {
+      "full_name": "sheepla/pingu",
+      "url": "https://github.com/sheepla/pingu",
+      "description": "🐧ping command but with pingu",
+      "summary": "A fun command-line ping utility that features Pingu character animations.",
+      "language": "Go",
+      "stars": 2080,
+      "tags": [
+        "ping",
+        "network",
+        "cli",
+        "go"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2022-06-12T03:44:08Z"
+    },
+    {
+      "full_name": "brabadu/awesome-fonts",
+      "url": "https://github.com/brabadu/awesome-fonts",
+      "description": "Curated list of fonts and everything",
+      "summary": "A curated list of high-quality fonts and typography resources.",
+      "language": "",
+      "stars": 2020,
+      "tags": [
+        "fonts",
+        "awesome-list",
+        "typography",
+        "design"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-02-18T01:50:49Z"
+    },
+    {
+      "full_name": "ppy/osu-framework",
+      "url": "https://github.com/ppy/osu-framework",
+      "description": "A game framework written with osu! in mind.",
+      "summary": "A powerful 2D game framework written in C# used to power osu!.",
+      "language": "C#",
+      "stars": 1982,
+      "tags": [
+        "game-engine",
+        "csharp",
+        "osu"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-30T15:19:12Z"
+    },
+    {
+      "full_name": "adobe-research/custom-diffusion",
+      "url": "https://github.com/adobe-research/custom-diffusion",
+      "description": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)",
+      "summary": "Multi-concept customization for text-to-image diffusion models.",
+      "language": "Python",
+      "stars": 1974,
+      "tags": [
+        "diffusion",
+        "text-to-image",
+        "fine-tuning"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-12-24T17:31:33Z"
+    },
+    {
+      "full_name": "Qexo/Qexo",
+      "url": "https://github.com/Qexo/Qexo",
+      "description": "A fast, powerful and beautiful online manager for all static blog frameworks. ",
+      "summary": "An online manager and CMS for various static blog frameworks like Hexo and Hugo.",
+      "language": "Python",
+      "stars": 1943,
+      "tags": [
+        "cms",
+        "static-blog",
+        "hexo",
+        "hugo"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2025-01-07T15:16:08Z"
+    },
+    {
+      "full_name": "psi-4ward/psitransfer",
+      "url": "https://github.com/psi-4ward/psitransfer",
+      "description": "Simple open source self-hosted file sharing solution.  ",
+      "summary": "A simple, open-source, self-hosted alternative to Dropbox or WeTransfer.",
+      "language": "JavaScript",
+      "stars": 1901,
+      "tags": [
+        "file-sharing",
+        "self-hosted",
+        "upload",
+        "transfer"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2022-06-07T00:56:53Z"
+    },
+    {
+      "full_name": "Mijick/Popups",
+      "url": "https://github.com/Mijick/Popups",
+      "description": "Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.",
+      "summary": "A comprehensive SwiftUI library for presenting popups, sheets, alerts, and banners easily.",
+      "language": "Swift",
+      "stars": 1808,
+      "tags": [
+        "swiftui",
+        "ios",
+        "ui-components",
+        "popups"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2024-06-07T17:35:15Z"
+    },
+    {
+      "full_name": "kirevdokimov/Unity-UI-Rounded-Corners",
+      "url": "https://github.com/kirevdokimov/Unity-UI-Rounded-Corners",
+      "description": "These components and shaders allow you to add rounded corners to UI elements!",
+      "summary": "Components and shaders to implement rounded corners for Unity UI elements.",
+      "language": "C#",
+      "stars": 1722,
+      "tags": [
+        "unity",
+        "ui",
+        "shaders",
+        "rounded-corners"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-08-23T02:00:10Z"
+    },
+    {
+      "full_name": "chrismwilliams/astro-theme-cactus",
+      "url": "https://github.com/chrismwilliams/astro-theme-cactus",
+      "description": "A simple Astro theme. Use it to create your blog or website.",
+      "summary": "A simple and clean Astro theme for creating personal blogs or websites.",
+      "language": "Astro",
+      "stars": 1669,
+      "tags": [
+        "astro",
+        "blog",
+        "theme",
+        "static-site"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2025-08-28T15:12:33Z"
+    },
+    {
+      "full_name": "CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+      "url": "https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+      "description": "Unity Performance Tuning knowledge book",
+      "summary": "A comprehensive technical guide for optimizing performance in Unity game development.",
+      "language": "C++",
+      "stars": 1668,
+      "tags": [
+        "unity",
+        "performance",
+        "optimization",
+        "guide"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-08-23T01:37:14Z"
+    },
+    {
+      "full_name": "exyte/ActivityIndicatorView",
+      "url": "https://github.com/exyte/ActivityIndicatorView",
+      "description": "A number of preset loading indicators created with SwiftUI",
+      "summary": "A collection of customizable loading and activity indicators built specifically for SwiftUI.",
+      "language": "Swift",
+      "stars": 1658,
+      "tags": [
+        "swiftui",
+        "ios",
+        "loading-indicator",
+        "ui-library"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-06-11T11:32:22Z"
+    },
+    {
+      "full_name": "Unity-Technologies/DOTS-training-samples",
+      "url": "https://github.com/Unity-Technologies/DOTS-training-samples",
+      "description": "Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours to Unity DOTS. ",
+      "summary": "Educational samples for porting Unity GameObjects to the Data-Oriented Technology Stack.",
+      "language": "C#",
+      "stars": 1647,
+      "tags": [
+        "unity",
+        "dots",
+        "ecs"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2025-07-12T07:29:00Z"
+    },
+    {
+      "full_name": "henrywhitaker3/Speedtest-Tracker",
+      "url": "https://github.com/henrywhitaker3/Speedtest-Tracker",
+      "description": "Continuously track your internet speed",
+      "summary": "A self-hosted application that continuously tracks and graphs internet connection speeds.",
+      "language": "PHP",
+      "stars": 1646,
+      "tags": [
+        "speedtest",
+        "network",
+        "monitoring",
+        "dashboard"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2022-06-21T17:06:42Z"
+    },
+    {
+      "full_name": "poiyomi/PoiyomiToonShader",
+      "url": "https://github.com/poiyomi/PoiyomiToonShader",
+      "description": "A feature rich toon shader for unity and VR Chat",
+      "summary": "A feature-rich toon shader designed for Unity and VRChat avatars and environments.",
+      "language": "ShaderLab",
+      "stars": 1626,
+      "tags": [
+        "shader",
+        "unity",
+        "vrchat",
+        "toon-shading"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-06-30T01:44:19Z"
+    },
+    {
+      "full_name": "mrishab/google-photos-delete-tool",
+      "url": "https://github.com/mrishab/google-photos-delete-tool",
+      "description": "Tool for deleting all photos from the Google Photos",
+      "summary": "A browser-based automation tool to bulk delete photos from a Google Photos account.",
+      "language": "JavaScript",
+      "stars": 1541,
+      "tags": [
+        "google-photos",
+        "automation",
+        "javascript",
+        "cleanup"
+      ],
+      "category": "Other",
+      "starred_at": "2023-09-10T23:23:11Z"
+    },
+    {
+      "full_name": "jmhobbs/cultofthepartyparrot.com",
+      "url": "https://github.com/jmhobbs/cultofthepartyparrot.com",
+      "description": "PARTY OR DIE",
+      "summary": "The official repository for the Cult of the Party Parrot website and assets.",
+      "language": "HTML",
+      "stars": 1539,
+      "tags": [
+        "party-parrot",
+        "assets",
+        "slack-emojis",
+        "fun"
+      ],
+      "category": "Other",
+      "starred_at": "2021-01-14T19:27:18Z"
+    },
+    {
+      "full_name": "digital-standard/ThreeDPoseUnityBarracuda",
+      "url": "https://github.com/digital-standard/ThreeDPoseUnityBarracuda",
+      "description": "Unity sample of 3D pose estimation using Barracuda",
+      "summary": "Unity sample project for real-time 3D pose estimation using the Barracuda inference engine.",
+      "language": "C#",
+      "stars": 1520,
+      "tags": [
+        "unity",
+        "pose-estimation",
+        "barracuda"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2021-01-30T13:42:22Z"
+    },
+    {
+      "full_name": "Unity-Technologies/com.unity.toonshader",
+      "url": "https://github.com/Unity-Technologies/com.unity.toonshader",
+      "description": "Unity Toon Shader",
+      "summary": "Official Unity toon shader for achieving stylized, non-photorealistic rendering.",
+      "language": "C#",
+      "stars": 1518,
+      "tags": [
+        "unity",
+        "shader",
+        "rendering",
+        "toon-shading"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-12-07T06:44:44Z"
+    },
+    {
+      "full_name": "Equim-chan/Mortal",
+      "url": "https://github.com/Equim-chan/Mortal",
+      "description": "🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.",
+      "summary": "A high-performance Riichi Mahjong AI powered by deep reinforcement learning and Rust.",
+      "language": "Rust",
+      "stars": 1481,
+      "tags": [
+        "mahjong",
+        "reinforcement-learning",
+        "rust",
+        "game-ai"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-07-26T06:34:31Z"
+    },
+    {
+      "full_name": "puleos/object-hash",
+      "url": "https://github.com/puleos/object-hash",
+      "description": "Generate hashes from javascript objects in node and the browser.",
+      "summary": "Generates consistent hashes from JavaScript objects in Node.js and browsers.",
+      "language": "JavaScript",
+      "stars": 1474,
+      "tags": [
+        "hashing",
+        "javascript",
+        "data-structures"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:29:02Z"
+    },
+    {
+      "full_name": "alelievr/HDRP-Custom-Passes",
+      "url": "https://github.com/alelievr/HDRP-Custom-Passes",
+      "description": "A bunch of custom passes made for HDRP",
+      "summary": "A collection of custom rendering passes designed for Unity's High Definition Render Pipeline.",
+      "language": "C#",
+      "stars": 1433,
+      "tags": [
+        "unity",
+        "hdrp",
+        "shaders"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-02-06T15:55:47Z"
+    },
+    {
+      "full_name": "XPoet/hexo-theme-keep",
+      "url": "https://github.com/XPoet/hexo-theme-keep",
+      "description": ":rainbow: A simple and light theme for Hexo. It makes you more focused on writing.",
+      "summary": "A lightweight and simple theme for the Hexo static site generator.",
+      "language": "Stylus",
+      "stars": 1429,
+      "tags": [
+        "hexo",
+        "theme",
+        "blogging"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2021-01-19T08:01:41Z"
+    },
+    {
+      "full_name": "standard/semistandard",
+      "url": "https://github.com/standard/semistandard",
+      "description": ":icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.",
+      "summary": "A JavaScript style linter based on Standard but requiring semicolons.",
+      "language": "JavaScript",
+      "stars": 1416,
+      "tags": [
+        "linter",
+        "javascript",
+        "style-guide",
+        "semicolons"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-03-31T14:12:34Z"
+    },
+    {
+      "full_name": "unjs/destr",
+      "url": "https://github.com/unjs/destr",
+      "description": "🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs",
+      "summary": "A faster and more secure alternative to JSON.parse for handling arbitrary inputs.",
+      "language": "TypeScript",
+      "stars": 1369,
+      "tags": [
+        "json-parser",
+        "security",
+        "performance"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-04-02T13:13:02Z"
+    },
+    {
+      "full_name": "MaxLeiter/Drift",
+      "url": "https://github.com/MaxLeiter/Drift",
+      "description": "Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.",
+      "summary": "A modern, self-hostable alternative to GitHub Gist built with Next.js.",
+      "language": "TypeScript",
+      "stars": 1363,
+      "tags": [
+        "gist",
+        "pastebin",
+        "nextjs",
+        "self-hosted"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-06-13T02:21:36Z"
+    },
+    {
+      "full_name": "litagin02/Style-Bert-VITS2",
+      "url": "https://github.com/litagin02/Style-Bert-VITS2",
+      "description": "Style-Bert-VITS2: Bert-VITS2 with more controllable voice styles.",
+      "summary": "An enhanced Bert-VITS2 implementation for highly controllable and expressive text-to-speech synthesis.",
+      "language": "Python",
+      "stars": 1315,
+      "tags": [
+        "text-to-speech",
+        "vits2",
+        "voice-synthesis"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2024-04-20T13:26:55Z"
+    },
+    {
+      "full_name": "eddiesigner/liebling",
+      "url": "https://github.com/eddiesigner/liebling",
+      "description": "Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼",
+      "summary": "A beautiful, clean, and responsive theme designed for the Ghost blogging platform.",
+      "language": "SCSS",
+      "stars": 1314,
+      "tags": [
+        "ghost-theme",
+        "blogging",
+        "ui-design"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2024-06-16T16:21:03Z"
+    },
+    {
+      "full_name": "yysskk/SwipeMenuViewController",
+      "url": "https://github.com/yysskk/SwipeMenuViewController",
+      "description": "Swipable tab and menu View and ViewController.",
+      "summary": "A customizable swipable tab and menu controller for iOS applications.",
+      "language": "Swift",
+      "stars": 1278,
+      "tags": [
+        "ios",
+        "swift",
+        "ui-component",
+        "navigation"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-07-02T15:29:59Z"
+    },
+    {
+      "full_name": "desmondmorris/node-twitter",
+      "url": "https://github.com/desmondmorris/node-twitter",
+      "description": "Client library for the Twitter REST and Streaming API's.",
+      "summary": "A Node.js client library for interacting with Twitter REST and Streaming APIs.",
+      "language": "JavaScript",
+      "stars": 1260,
+      "tags": [
+        "twitter-api",
+        "nodejs",
+        "streaming-api",
+        "sdk"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:28:19Z"
+    },
+    {
+      "full_name": "bemusic/bemuse",
+      "url": "https://github.com/bemusic/bemuse",
+      "description": "⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.",
+      "summary": "A web-based rhythm action game built with modern HTML5 and React technologies.",
+      "language": "TypeScript",
+      "stars": 1231,
+      "tags": [
+        "rhythm-game",
+        "pixi-js",
+        "web-game"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2024-02-10T13:49:25Z"
+    },
+    {
+      "full_name": "olvvier/apple-silicon-accelerometer",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "summary": "A utility to read undocumented accelerometer and gyroscope data on Apple Silicon MacBooks.",
+      "language": "Python",
+      "stars": 1192,
+      "tags": [
+        "apple-silicon",
+        "sensors",
+        "macos",
+        "hardware"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2026-02-24T16:48:42Z"
+    },
+    {
+      "full_name": "OpenWonderLabs/SwitchBotAPI",
+      "url": "https://github.com/OpenWonderLabs/SwitchBotAPI",
+      "description": "SwitchBot Open API Documents",
+      "summary": "Official documentation for the SwitchBot Open API to control smart home devices.",
+      "language": "",
+      "stars": 1183,
+      "tags": [
+        "api-docs",
+        "iot",
+        "switchbot",
+        "smart-home"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2021-10-28T11:22:05Z"
+    },
+    {
+      "full_name": "Siv3D/OpenSiv3D",
+      "url": "https://github.com/Siv3D/OpenSiv3D",
+      "description": "C++20 framework for creative coding 🎮🎨🎹 / Cross-platform support (Windows, macOS, Linux, and the Web) ",
+      "summary": "A C++20 framework designed for creative coding and cross-platform game development.",
+      "language": "C++",
+      "stars": 1177,
+      "tags": [
+        "cpp",
+        "game-engine",
+        "creative-coding",
+        "cross-platform"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-09-16T13:05:18Z"
+    },
+    {
+      "full_name": "ciro-unity/UnityRoyale-Public",
+      "url": "https://github.com/ciro-unity/UnityRoyale-Public",
+      "description": "Public release of the Unity Royale project. All of the assets are redistributable.",
+      "summary": "A public release of the Unity Royale project including redistributable game assets.",
+      "language": "C#",
+      "stars": 1166,
+      "tags": [
+        "unity",
+        "c-sharp",
+        "game-assets"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-02-22T00:35:53Z"
+    },
+    {
+      "full_name": "online-judge-tools/oj",
+      "url": "https://github.com/online-judge-tools/oj",
+      "description": "Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.",
+      "summary": "Tools for competitive programming to download samples, test code, and submit to online judges.",
+      "language": "Python",
+      "stars": 1160,
+      "tags": [
+        "competitive-programming",
+        "testing",
+        "automation",
+        "python"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-11-04T21:26:52Z"
+    },
+    {
+      "full_name": "denho/faved",
+      "url": "https://github.com/denho/faved",
+      "description": "Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.",
+      "summary": "A fast, open-source bookmark manager with nested tags and local data storage.",
+      "language": "TypeScript",
+      "stars": 1156,
+      "tags": [
+        "bookmarks",
+        "manager",
+        "self-hosted",
+        "tags"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2025-10-12T15:52:26Z"
+    },
+    {
+      "full_name": "taku910/mecab",
+      "url": "https://github.com/taku910/mecab",
+      "description": "Yet another Japanese morphological analyzer",
+      "summary": "A high-performance Japanese morphological analyzer for part-of-speech tagging and segmentation.",
+      "language": "C++",
+      "stars": 1102,
+      "tags": [
+        "nlp",
+        "japanese",
+        "morphology",
+        "c-plus-plus"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-29T18:26:01Z"
+    },
+    {
+      "full_name": "textlint-ja/textlint-rule-preset-ai-writing",
+      "url": "https://github.com/textlint-ja/textlint-rule-preset-ai-writing",
+      "description": "textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集",
+      "summary": "Textlint rules to detect AI-like writing patterns and encourage natural Japanese expressions.",
+      "language": "TypeScript",
+      "stars": 1087,
+      "tags": [
+        "textlint",
+        "japanese",
+        "linting"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2025-06-30T05:38:16Z"
+    },
+    {
+      "full_name": "fontworks-fonts/Klee",
+      "url": "https://github.com/fontworks-fonts/Klee",
+      "description": "",
+      "summary": "A high-quality Japanese font with a clean, handwritten aesthetic.",
+      "language": "Python",
+      "stars": 1081,
+      "tags": [
+        "typography",
+        "fonts",
+        "japanese",
+        "handwriting"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-20T00:23:42Z"
+    },
+    {
+      "full_name": "line/line-bot-sdk-nodejs",
+      "url": "https://github.com/line/line-bot-sdk-nodejs",
+      "description": "LINE Messaging API SDK for Node.js",
+      "summary": "Official Node.js SDK for building bots using the LINE Messaging API.",
+      "language": "TypeScript",
+      "stars": 1071,
+      "tags": [
+        "line-api",
+        "nodejs",
+        "sdk",
+        "typescript"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2022-05-30T07:05:50Z"
+    },
+    {
+      "full_name": "atilika/kuromoji",
+      "url": "https://github.com/atilika/kuromoji",
+      "description": "Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search",
+      "summary": "A self-contained Japanese morphological analyzer designed for easy integration into search applications.",
+      "language": "Java",
+      "stars": 1048,
+      "tags": [
+        "java",
+        "nlp",
+        "japanese",
+        "search"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-29T18:25:17Z"
+    },
+    {
+      "full_name": "tegnike/aituber-kit",
+      "url": "https://github.com/tegnike/aituber-kit",
+      "description": "A web application for chatting with AI characters that anyone can easily set up and deploy.",
+      "summary": "A web application for easily setting up and chatting with AI-powered characters.",
+      "language": "TypeScript",
+      "stars": 1036,
+      "tags": [
+        "ai-character",
+        "web-app",
+        "chat"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-08-01T12:51:00Z"
+    },
+    {
+      "full_name": "SharzyL/pastebin-worker",
+      "url": "https://github.com/SharzyL/pastebin-worker",
+      "description": "Pastebin on Cloudflare worker, with friendly CLI usage and rich features",
+      "summary": "A feature-rich pastebin service built on Cloudflare Workers with CLI support.",
+      "language": "TypeScript",
+      "stars": 1032,
+      "tags": [
+        "cloudflare-workers",
+        "pastebin",
+        "serverless",
+        "cli"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2023-05-05T17:01:18Z"
+    },
+    {
+      "full_name": "takuyaa/kuromoji.js",
+      "url": "https://github.com/takuyaa/kuromoji.js",
+      "description": "JavaScript implementation of Japanese morphological analyzer",
+      "summary": "A pure JavaScript implementation of the Kuromoji Japanese morphological analyzer.",
+      "language": "JavaScript",
+      "stars": 992,
+      "tags": [
+        "javascript",
+        "nlp",
+        "japanese",
+        "morphology"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-29T18:25:22Z"
+    },
+    {
+      "full_name": "ddPn08/Radiata",
+      "url": "https://github.com/ddPn08/Radiata",
+      "description": "Stable diffusion webui based on diffusers.",
+      "summary": "A web interface for Stable Diffusion based on the diffusers library and TensorRT.",
+      "language": "Python",
+      "stars": 965,
+      "tags": [
+        "stable-diffusion",
+        "diffusers",
+        "image-generation"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2023-02-07T03:49:52Z"
+    },
+    {
+      "full_name": "isletennos/MMVC_Trainer",
+      "url": "https://github.com/isletennos/MMVC_Trainer",
+      "description": "AIを使ったリアルタイムボイスチェンジャー(Trainer)",
+      "summary": "Training tools for an AI-powered real-time voice changer system.",
+      "language": "Jupyter Notebook",
+      "stars": 931,
+      "tags": [
+        "voice-conversion",
+        "ai-voice",
+        "training",
+        "machine-learning"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2023-04-16T23:35:27Z"
+    },
+    {
+      "full_name": "madjin/awesome-vrchat",
+      "url": "https://github.com/madjin/awesome-vrchat",
+      "description": "One-stop shop for people interested in developing content for VRchat",
+      "summary": "A curated list of resources, tools, and tutorials for VRChat content creation.",
+      "language": "",
+      "stars": 916,
+      "tags": [
+        "vrchat",
+        "awesome-list",
+        "unity",
+        "3d-modeling"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2022-07-12T01:27:15Z"
+    },
+    {
+      "full_name": "NVIDIA/mellotron",
+      "url": "https://github.com/NVIDIA/mellotron",
+      "description": "Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data",
+      "summary": "A multispeaker voice synthesis model that can generate emotive and singing voices.",
+      "language": "Jupyter Notebook",
+      "stars": 870,
+      "tags": [
+        "voice-synthesis",
+        "speech-ai",
+        "pytorch",
+        "nvidia"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2021-05-25T01:33:34Z"
+    },
+    {
+      "full_name": "openai/openai-responses-starter-app",
+      "url": "https://github.com/openai/openai-responses-starter-app",
+      "description": "Starter app to build with the OpenAI Responses API",
+      "summary": "A starter application for building projects using the OpenAI Responses API.",
+      "language": "TypeScript",
+      "stars": 850,
+      "tags": [
+        "openai",
+        "starter-kit",
+        "api",
+        "ai-app"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-08-24T13:04:10Z"
+    },
+    {
+      "full_name": "decomoji/decomoji",
+      "url": "https://github.com/decomoji/decomoji",
+      "description": "Custom icon collection for slack reaction",
+      "summary": "A large collection of custom icons designed for use as Slack reactions.",
+      "language": "JavaScript",
+      "stars": 824,
+      "tags": [
+        "slack",
+        "emoji",
+        "icons"
+      ],
+      "category": "Other",
+      "starred_at": "2021-01-30T16:06:16Z"
+    },
+    {
+      "full_name": "sumimakito/hexo-theme-typography",
+      "url": "https://github.com/sumimakito/hexo-theme-typography",
+      "description": "Rediscover the beauty of typography.",
+      "summary": "A clean, typography-focused theme for the Hexo static site generator.",
+      "language": "JavaScript",
+      "stars": 803,
+      "tags": [
+        "hexo",
+        "blog-theme",
+        "typography",
+        "static-site"
+      ],
+      "category": "Blogs, Themes & Static Sites",
+      "starred_at": "2021-06-02T19:48:57Z"
+    },
+    {
+      "full_name": "geolonia/japanese-addresses",
+      "url": "https://github.com/geolonia/japanese-addresses",
+      "description": "全国の町丁目レベル（277,191件）の住所データのオープンデータ",
+      "summary": "Open data containing over 270,000 Japanese address records at the town level.",
+      "language": "JavaScript",
+      "stars": 767,
+      "tags": [
+        "japan",
+        "dataset",
+        "address-data"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2023-01-12T10:28:56Z"
+    },
+    {
+      "full_name": "MerlinVR/UdonSharp",
+      "url": "https://github.com/MerlinVR/UdonSharp",
+      "description": "An experimental compiler for compiling C# to Udon assembly",
+      "summary": "An experimental compiler that allows writing C# for VRChat's Udon VM.",
+      "language": "C#",
+      "stars": 743,
+      "tags": [
+        "csharp",
+        "vrchat",
+        "compiler",
+        "udon"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-10-13T15:39:39Z"
+    },
+    {
+      "full_name": "nnsvs/nnsvs",
+      "url": "https://github.com/nnsvs/nnsvs",
+      "description": "Neural network-based singing voice synthesis library for research",
+      "summary": "Neural network-based singing voice synthesis library for research and development.",
+      "language": "Python",
+      "stars": 743,
+      "tags": [
+        "singing-synthesis",
+        "pytorch",
+        "research",
+        "dnn"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-03-24T04:25:47Z"
+    },
+    {
+      "full_name": "electron/update.electronjs.org",
+      "url": "https://github.com/electron/update.electronjs.org",
+      "description": "📡 A free service that makes it easy for open-source Electron apps to update themselves.",
+      "summary": "A free update service for open-source Electron applications.",
+      "language": "TypeScript",
+      "stars": 697,
+      "tags": [
+        "electron",
+        "auto-update",
+        "deployment"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2023-01-14T09:42:03Z"
+    },
+    {
+      "full_name": "spoiledcat/git-for-unity",
+      "url": "https://github.com/spoiledcat/git-for-unity",
+      "description": "",
+      "summary": "A Git integration tool specifically designed for the Unity game engine.",
+      "language": "JavaScript",
+      "stars": 678,
+      "tags": [
+        "git",
+        "unity",
+        "version-control"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-06-01T17:28:50Z"
+    },
+    {
+      "full_name": "joshuaavalon/SynologyCloudflareDDNS",
+      "url": "https://github.com/joshuaavalon/SynologyCloudflareDDNS",
+      "description": "📜 Cloudflare DDNS script for Synology",
+      "summary": "A shell script to enable Cloudflare Dynamic DNS support on Synology NAS devices.",
+      "language": "Shell",
+      "stars": 667,
+      "tags": [
+        "ddns",
+        "synology",
+        "cloudflare",
+        "nas"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2021-11-22T05:49:01Z"
+    },
+    {
+      "full_name": "mattrighetti/envelope",
+      "url": "https://github.com/mattrighetti/envelope",
+      "description": "An environment variables cli tool backed by SQLite",
+      "summary": "A CLI tool for managing environment variables backed by a SQLite database.",
+      "language": "Rust",
+      "stars": 656,
+      "tags": [
+        "cli",
+        "env-vars",
+        "sqlite",
+        "rust"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2024-06-30T09:41:41Z"
+    },
+    {
+      "full_name": "Tatamo/atcoder-cli",
+      "url": "https://github.com/Tatamo/atcoder-cli",
+      "description": "AtCoder command line tools",
+      "summary": "Command-line tools to streamline the workflow for AtCoder competitive programming contests.",
+      "language": "TypeScript",
+      "stars": 647,
+      "tags": [
+        "competitive-programming",
+        "atcoder",
+        "cli-tool",
+        "automation"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2023-03-21T13:49:39Z"
+    },
+    {
+      "full_name": "amate/UmaUmaCruise",
+      "url": "https://github.com/amate/UmaUmaCruise",
+      "description": "このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました",
+      "summary": "A helper tool for the DMM version of Uma Musume to identify event choices.",
+      "language": "C++",
+      "stars": 627,
+      "tags": [
+        "umamusume",
+        "ocr",
+        "game-tool"
+      ],
+      "category": "Other",
+      "starred_at": "2022-02-27T10:28:58Z"
+    },
+    {
+      "full_name": "kennss/SiliconScope",
+      "url": "https://github.com/kennss/SiliconScope",
+      "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
+      "summary": "A native SwiftUI system monitor for Apple Silicon tracking bandwidth and neural engines.",
+      "language": "Swift",
+      "stars": 615,
+      "tags": [
+        "apple-silicon",
+        "macos",
+        "gpu-monitor",
+        "swiftui"
+      ],
+      "category": "System Monitoring",
+      "starred_at": "2026-06-19T13:03:42Z"
+    },
+    {
+      "full_name": "keijiro/UnityMLStableDiffusion",
+      "url": "https://github.com/keijiro/UnityMLStableDiffusion",
+      "description": "Core ML Stable Diffusion on Unity",
+      "summary": "Implementation of Core ML Stable Diffusion for local image generation within Unity.",
+      "language": "C#",
+      "stars": 606,
+      "tags": [
+        "unity",
+        "stable-diffusion",
+        "coreml",
+        "ai-art"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-04-01T11:20:51Z"
+    },
+    {
+      "full_name": "ycarowr/UiCard",
+      "url": "https://github.com/ycarowr/UiCard",
+      "description": "Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire...",
+      "summary": "Generic UI framework for building card games like Hearthstone and Slay the Spire in Unity.",
+      "language": "C#",
+      "stars": 558,
+      "tags": [
+        "unity",
+        "card-game",
+        "ui-components"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-02-12T08:31:49Z"
+    },
+    {
+      "full_name": "TokyoYoshida/ExampleOfiOSLiDAR",
+      "url": "https://github.com/TokyoYoshida/ExampleOfiOSLiDAR",
+      "description": "Example Of iOS ARKit LiDAR",
+      "summary": "Sample code and examples for using ARKit LiDAR features on iOS.",
+      "language": "Swift",
+      "stars": 550,
+      "tags": [
+        "ios",
+        "arkit",
+        "lidar",
+        "swift"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-05-01T05:57:44Z"
+    },
+    {
+      "full_name": "Haruma-K/UnityDebugSheet",
+      "url": "https://github.com/Haruma-K/UnityDebugSheet",
+      "description": "Hierarchical debug menu system for Unity that makes it easy to create intuitive and organized debug menus.",
+      "summary": "A hierarchical debug menu system for Unity to organize in-game development tools.",
+      "language": "C#",
+      "stars": 549,
+      "tags": [
+        "unity",
+        "debug-menu",
+        "gamedev-tool",
+        "csharp"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-12-02T08:37:05Z"
+    },
+    {
+      "full_name": "shapoco/calctus",
+      "url": "https://github.com/shapoco/calctus",
+      "description": "エンジニア向け Windows 用電卓アプリ",
+      "summary": "A specialized calculator application designed for engineers on the Windows platform.",
+      "language": "C#",
+      "stars": 549,
+      "tags": [
+        "windows",
+        "calculator",
+        "utility",
+        "c-sharp"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-06-03T15:47:44Z"
+    },
+    {
+      "full_name": "CraigChat/craig",
+      "url": "https://github.com/CraigChat/craig",
+      "description": "Craig is a multi-track voice recorder for Discord.",
+      "summary": "A multi-track voice recording bot for Discord designed for podcasts and interviews.",
+      "language": "TypeScript",
+      "stars": 537,
+      "tags": [
+        "discord-bot",
+        "audio-recording",
+        "podcast-tool",
+        "typescript"
+      ],
+      "category": "Other",
+      "starred_at": "2021-01-14T19:26:43Z"
+    },
+    {
+      "full_name": "Unity-Technologies/Megacity-2019",
+      "url": "https://github.com/Unity-Technologies/Megacity-2019",
+      "description": "Megacity is a sample showcasing streaming a large scale environment. It also contains an action-packed, multiplayer shooter mode. It leverages the power of Netcode for Entities for an immersive, multiplayer experience that can support 64+ players simultaneously.",
+      "summary": "A massive Unity sample project demonstrating large-scale environment streaming and multiplayer networking.",
+      "language": "C#",
+      "stars": 534,
+      "tags": [
+        "unity",
+        "dots",
+        "multiplayer",
+        "sample-project"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-08-25T01:08:36Z"
+    },
+    {
+      "full_name": "ShikemokuMK/tyranoscript",
+      "url": "https://github.com/ShikemokuMK/tyranoscript",
+      "description": "novel game engine for Browser, iOS, Android , etc ",
+      "summary": "A visual novel game engine for browsers and mobile platforms.",
+      "language": "JavaScript",
+      "stars": 528,
+      "tags": [
+        "visual-novel",
+        "game-engine",
+        "javascript"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-14T19:28:57Z"
+    },
+    {
+      "full_name": "mantinedev/next-pages-template",
+      "url": "https://github.com/mantinedev/next-pages-template",
+      "description": "Mantine + Next.js pages router template",
+      "summary": "A starter template for Next.js using the Pages router and Mantine UI.",
+      "language": "TypeScript",
+      "stars": 509,
+      "tags": [
+        "nextjs",
+        "mantine",
+        "react-template"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2023-01-03T06:41:10Z"
+    },
+    {
+      "full_name": "vrchat-community/UdonSharp",
+      "url": "https://github.com/vrchat-community/UdonSharp",
+      "description": "A compiler for compiling C# to Udon assembly",
+      "summary": "A compiler that translates C# code into Udon assembly for VRChat scripting.",
+      "language": "C#",
+      "stars": 506,
+      "tags": [
+        "compiler",
+        "csharp",
+        "udon",
+        "vrchat"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-02-05T12:06:13Z"
+    },
+    {
+      "full_name": "Cysharp/YetAnotherHttpHandler",
+      "url": "https://github.com/Cysharp/YetAnotherHttpHandler",
+      "description": "YetAnotherHttpHandler brings the power of HTTP/2 (and gRPC) to Unity and .NET Standard.",
+      "summary": "Brings high-performance HTTP/2 and gRPC support to Unity and .NET Standard environments.",
+      "language": "C#",
+      "stars": 502,
+      "tags": [
+        "csharp",
+        "grpc",
+        "unity",
+        "networking"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-06-18T06:27:19Z"
+    },
+    {
+      "full_name": "AndrewPaglusch/FlashPaper",
+      "url": "https://github.com/AndrewPaglusch/FlashPaper",
+      "description": "One-time encrypted password/secret sharing",
+      "summary": "A self-hosted web application for sharing one-time encrypted secrets and passwords.",
+      "language": "PHP",
+      "stars": 501,
+      "tags": [
+        "encryption",
+        "secrets",
+        "one-time-pad",
+        "privacy"
+      ],
+      "category": "Security & Secrets",
+      "starred_at": "2022-06-14T08:56:53Z"
+    },
+    {
+      "full_name": "fontworks-fonts/DotGothic16",
+      "url": "https://github.com/fontworks-fonts/DotGothic16",
+      "description": "A font file available from Google Fonts.",
+      "summary": "A pixel-art style Gothic font file available via Google Fonts.",
+      "language": "Python",
+      "stars": 493,
+      "tags": [
+        "typography",
+        "fonts",
+        "japanese",
+        "google-fonts"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-20T00:23:49Z"
+    },
+    {
+      "full_name": "AnIdiotsGuide/guidebot",
+      "url": "https://github.com/AnIdiotsGuide/guidebot",
+      "description": "A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community",
+      "summary": "A boilerplate Discord bot template featuring a command handler and reloadable commands.",
+      "language": "JavaScript",
+      "stars": 473,
+      "tags": [
+        "discord-bot",
+        "template",
+        "javascript",
+        "nodejs"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2022-02-16T23:45:58Z"
+    },
+    {
+      "full_name": "komodojp/tinyld",
+      "url": "https://github.com/komodojp/tinyld",
+      "description": "Simple and Performant Language detection library for NodeJS",
+      "summary": "A lightweight and fast language detection library for Node.js and JavaScript environments.",
+      "language": "TypeScript",
+      "stars": 471,
+      "tags": [
+        "language-detection",
+        "nlp",
+        "nodejs",
+        "typescript"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2023-12-10T22:19:14Z"
+    },
+    {
+      "full_name": "llealloo/audiolink",
+      "url": "https://github.com/llealloo/audiolink",
+      "description": "Audio reactive prefabs for VRChat",
+      "summary": "A system for creating audio-reactive effects and prefabs within VRChat worlds.",
+      "language": "ShaderLab",
+      "stars": 468,
+      "tags": [
+        "vrchat",
+        "unity",
+        "audio-reactive",
+        "shaders"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-10-13T15:39:40Z"
+    },
+    {
+      "full_name": "oneVR/VRWorldToolkit",
+      "url": "https://github.com/oneVR/VRWorldToolkit",
+      "description": "Unity Editor extension for making VRChat worlds",
+      "summary": "A Unity Editor extension designed to streamline the creation of VRChat worlds.",
+      "language": "C#",
+      "stars": 464,
+      "tags": [
+        "unity",
+        "vrchat",
+        "editor-extension",
+        "sdk"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-07-18T13:53:42Z"
+    },
+    {
+      "full_name": "BasisVR/Basis",
+      "url": "https://github.com/BasisVR/Basis",
+      "description": "Basis is an open-source social framework for VR and Desktop usage.",
+      "summary": "An open-source social framework for building virtual reality and desktop interactive experiences.",
+      "language": "C#",
+      "stars": 454,
+      "tags": [
+        "vr",
+        "social-framework",
+        "gamedev",
+        "unity"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-06-09T10:40:56Z"
+    },
+    {
+      "full_name": "gpsnmeajp/EasyVirtualMotionCaptureForUnity",
+      "url": "https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity",
+      "description": "VMCProtocol Receiver asset for Unity. Easy to use! / バーチャルモーションキャプチャーなどVMCProtocolを受信してUnityに反映するスクリプトです。",
+      "summary": "Unity asset for receiving VMCProtocol data to animate virtual avatars in real-time.",
+      "language": "C#",
+      "stars": 445,
+      "tags": [
+        "unity",
+        "vmc-protocol",
+        "vtuber",
+        "motion-capture"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2025-01-18T16:59:36Z"
+    },
+    {
+      "full_name": "ttrace/vscode-language-japanese-novel",
+      "url": "https://github.com/ttrace/vscode-language-japanese-novel",
+      "description": "Visual Studio Code で小説を執筆する時に使う言語拡張です。",
+      "summary": "A Visual Studio Code extension specifically for writing Japanese novels.",
+      "language": "TypeScript",
+      "stars": 443,
+      "tags": [
+        "vscode-extension",
+        "writing",
+        "japanese",
+        "novel"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-04-12T01:11:17Z"
+    },
+    {
+      "full_name": "setchi/NoteEditor",
+      "url": "https://github.com/setchi/NoteEditor",
+      "description": "Note editor for rhythm games.",
+      "summary": "A specialized editor tool for creating and managing music notes in rhythm games.",
+      "language": "C#",
+      "stars": 441,
+      "tags": [
+        "rhythm-game",
+        "gamedev",
+        "unity",
+        "editor-tool"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-10-04T14:09:00Z"
+    },
+    {
+      "full_name": "interaapps/pastefy",
+      "url": "https://github.com/interaapps/pastefy",
+      "description": "Pastefy is an feature-rich Open Source self-hostable Pastebin.",
+      "summary": "A feature-rich, open-source, and self-hostable pastebin alternative with Markdown and Mermaid support.",
+      "language": "Vue",
+      "stars": 438,
+      "tags": [
+        "pastebin",
+        "self-hosted",
+        "markdown",
+        "vue"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2021-11-29T02:03:07Z"
+    },
+    {
+      "full_name": "neon-izm/EasyMotionRecorder",
+      "url": "https://github.com/neon-izm/EasyMotionRecorder",
+      "description": "Unityエディタ上でVRIKなどのモーションキャプチャをしたHumanoidキャラクターのモーションを記録, 再生をするスクリプト",
+      "summary": "Unity scripts for recording and playing back humanoid character motions in the editor.",
+      "language": "C#",
+      "stars": 423,
+      "tags": [
+        "unity",
+        "motion-capture",
+        "animation"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-30T13:42:26Z"
+    },
+    {
+      "full_name": "geekdrums/MusicEngine",
+      "url": "https://github.com/geekdrums/MusicEngine",
+      "description": "make music synced game with Unity / ADX2 / Wwise",
+      "summary": "A Unity library for creating games with music-synced gameplay using various audio engines.",
+      "language": "C#",
+      "stars": 421,
+      "tags": [
+        "unity",
+        "audio-sync",
+        "rhythm-game"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-01-19T23:02:05Z"
+    },
+    {
+      "full_name": "MerlinVR/USharpVideo",
+      "url": "https://github.com/MerlinVR/USharpVideo",
+      "description": "A basic video player made for VRChat using Udon and UdonSharp",
+      "summary": "A video player implementation for VRChat using Udon and UdonSharp.",
+      "language": "C#",
+      "stars": 406,
+      "tags": [
+        "vrchat",
+        "udon",
+        "video-player",
+        "csharp"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-06-02T11:12:40Z"
+    },
+    {
+      "full_name": "yui540/comimi",
+      "url": "https://github.com/yui540/comimi",
+      "description": "Open-source comic reader library for JS/TS",
+      "summary": "An open-source library for building comic and manga readers in JavaScript and TypeScript.",
+      "language": "TypeScript",
+      "stars": 391,
+      "tags": [
+        "comic-reader",
+        "typescript",
+        "frontend-library"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2026-05-24T17:47:51Z"
+    },
+    {
+      "full_name": "adobe/USD-Fileformat-plugins",
+      "url": "https://github.com/adobe/USD-Fileformat-plugins",
+      "description": "A collection of USD fileformat plugins",
+      "summary": "A collection of plugins for extending Universal Scene Description (USD) file format support.",
+      "language": "C++",
+      "stars": 387,
+      "tags": [
+        "usd",
+        "graphics",
+        "file-formats"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-03-01T15:37:01Z"
+    },
+    {
+      "full_name": "JLyne/LiveAtlas",
+      "url": "https://github.com/JLyne/LiveAtlas",
+      "description": "A Dynmap, Squaremap, Pl3xmap and Overviewer frontend for the modern web",
+      "summary": "Modern web frontend for Minecraft map plugins like Dynmap and Squaremap.",
+      "language": "TypeScript",
+      "stars": 377,
+      "tags": [
+        "minecraft",
+        "map-viewer",
+        "dynmap",
+        "vue"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2022-02-21T11:34:01Z"
+    },
+    {
+      "full_name": "go-vikunja/frontend",
+      "url": "https://github.com/go-vikunja/frontend",
+      "description": "Mirror of vikunja from https://code.vikunja.io/frontend",
+      "summary": "The frontend web application for the Vikunja to-do platform.",
+      "language": "Vue",
+      "stars": 365,
+      "tags": [
+        "todo-list",
+        "vue",
+        "productivity"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2022-11-24T22:10:46Z"
+    },
+    {
+      "full_name": "Danziger/slotjs",
+      "url": "https://github.com/Danziger/slotjs",
+      "description": "🎰 Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!",
+      "summary": "A mobile-first circular slot machine game built using JavaScript and CSS variables.",
+      "language": "JavaScript",
+      "stars": 363,
+      "tags": [
+        "javascript",
+        "game-dev",
+        "spa",
+        "animation"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2026-02-10T11:34:15Z"
+    },
+    {
+      "full_name": "lifemate-ai/embodied-claude",
+      "url": "https://github.com/lifemate-ai/embodied-claude",
+      "description": "Claudeに身体性を与えるMCP群",
+      "summary": "A collection of MCP servers designed to provide physical embodiment capabilities to Claude.",
+      "language": "Python",
+      "stars": 362,
+      "tags": [
+        "mcp",
+        "claude",
+        "robotics",
+        "embodiment"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2026-02-21T10:48:19Z"
+    },
+    {
+      "full_name": "exyte/ProgressIndicatorView",
+      "url": "https://github.com/exyte/ProgressIndicatorView",
+      "description": "An iOS progress indicator view library written in SwiftUI",
+      "summary": "A library of progress indicator views and bars for iOS development using SwiftUI.",
+      "language": "Swift",
+      "stars": 355,
+      "tags": [
+        "swiftui",
+        "ios",
+        "progress-bar",
+        "ui-component"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2023-06-11T11:30:19Z"
+    },
+    {
+      "full_name": "clipable/clipable",
+      "url": "https://github.com/clipable/clipable",
+      "description": "A simple, self-hosted, alternative to Streamable",
+      "summary": "A simple, self-hosted alternative to Streamable for video hosting and playback.",
+      "language": "Go",
+      "stars": 348,
+      "tags": [
+        "video",
+        "streaming",
+        "self-hosted",
+        "media"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2025-10-20T15:16:48Z"
+    },
+    {
+      "full_name": "yahoojapan/JGLUE",
+      "url": "https://github.com/yahoojapan/JGLUE",
+      "description": "JGLUE: Japanese General Language Understanding Evaluation",
+      "summary": "A benchmark dataset for evaluating Japanese general language understanding capabilities.",
+      "language": "Python",
+      "stars": 345,
+      "tags": [
+        "nlp",
+        "japanese",
+        "benchmark",
+        "dataset"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2024-09-18T15:49:39Z"
+    },
+    {
+      "full_name": "software-mansion-labs/react-native-bottom-sheet",
+      "url": "https://github.com/software-mansion-labs/react-native-bottom-sheet",
+      "description": "Provides bottom-sheet components for React Native.",
+      "summary": "A highly performant and customizable bottom sheet component for React Native.",
+      "language": "TypeScript",
+      "stars": 341,
+      "tags": [
+        "react-native",
+        "ui-components",
+        "mobile-dev",
+        "bottom-sheet"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2026-05-28T15:25:40Z"
+    },
+    {
+      "full_name": "Qriva/MonoBehaviourTree",
+      "url": "https://github.com/Qriva/MonoBehaviourTree",
+      "description": "Simple event driven Behaviour tree for Unity projects",
+      "summary": "An event-driven behavior tree implementation for creating AI in Unity projects.",
+      "language": "C#",
+      "stars": 328,
+      "tags": [
+        "unity",
+        "ai",
+        "behavior-tree",
+        "game-ai"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-12-25T13:17:45Z"
+    },
+    {
+      "full_name": "hai-vr/combo-gesture-expressions-av3",
+      "url": "https://github.com/hai-vr/combo-gesture-expressions-av3",
+      "description": "Attach face expressions to hand gestures, and make it react to Avatars 3.0's features, including Contacts, PhysBones and OSC. (🗨️ VRC Required)",
+      "summary": "Unity tool for mapping facial expressions to hand gestures in VRChat avatars.",
+      "language": "C#",
+      "stars": 309,
+      "tags": [
+        "vrchat",
+        "avatars-3.0",
+        "unity",
+        "expressions"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-02-26T18:37:53Z"
+    },
+    {
+      "full_name": "fontworks-fonts/RocknRoll",
+      "url": "https://github.com/fontworks-fonts/RocknRoll",
+      "description": "A font file available from Google Fonts.",
+      "summary": "A dynamic and rhythmic Japanese font file available via Google Fonts.",
+      "language": "Python",
+      "stars": 301,
+      "tags": [
+        "typography",
+        "fonts",
+        "japanese",
+        "google-fonts"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-20T00:23:47Z"
+    },
+    {
+      "full_name": "vrchat-community/osc",
+      "url": "https://github.com/vrchat-community/osc",
+      "description": "Files and Info on using OSC to communicate with VRChat",
+      "summary": "Documentation and files for using Open Sound Control to communicate with VRChat.",
+      "language": "C#",
+      "stars": 245,
+      "tags": [
+        "vrchat",
+        "osc",
+        "networking",
+        "csharp"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-02-17T10:57:38Z"
+    },
+    {
+      "full_name": "google-gemini/gemini-cli-action",
+      "url": "https://github.com/google-gemini/gemini-cli-action",
+      "description": "",
+      "summary": "GitHub Action for interacting with Google Gemini models via the command line.",
+      "language": "JavaScript",
+      "stars": 244,
+      "tags": [
+        "gemini",
+        "github-actions",
+        "cli"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2025-07-27T12:05:39Z"
+    },
+    {
+      "full_name": "mmorise/ita-corpus",
+      "url": "https://github.com/mmorise/ita-corpus",
+      "description": "ITAコーパスの文章リスト",
+      "summary": "A standardized list of Japanese sentences for speech synthesis and research.",
+      "language": "",
+      "stars": 238,
+      "tags": [
+        "corpus",
+        "japanese",
+        "speech-synthesis"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2022-03-25T13:18:14Z"
+    },
+    {
+      "full_name": "autofix-ci/action",
+      "url": "https://github.com/autofix-ci/action",
+      "description": "The autofix.ci GitHub Action.",
+      "summary": "The official GitHub Action for autofix.ci to automatically fix code quality issues.",
+      "language": "TypeScript",
+      "stars": 236,
+      "tags": [
+        "github-actions",
+        "linting",
+        "automation"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2025-08-01T12:49:31Z"
+    },
+    {
+      "full_name": "fontworks-fonts/Rampart",
+      "url": "https://github.com/fontworks-fonts/Rampart",
+      "description": "",
+      "summary": "A blocky, 3D-effect Japanese display font for bold headlines.",
+      "language": "Python",
+      "stars": 226,
+      "tags": [
+        "typography",
+        "fonts",
+        "japanese",
+        "display-font"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-20T00:23:41Z"
+    },
+    {
+      "full_name": "Unity-Technologies/com.unity.search.extensions",
+      "url": "https://github.com/Unity-Technologies/com.unity.search.extensions",
+      "description": "This package contains a bunch of examples, samples and queries to be used with Unity Search.",
+      "summary": "A collection of examples and queries to extend Unity Search functionality.",
+      "language": "C#",
+      "stars": 225,
+      "tags": [
+        "unity",
+        "search",
+        "editor-extension",
+        "csharp"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-09-18T15:49:20Z"
+    },
+    {
+      "full_name": "paralleltree/Ched",
+      "url": "https://github.com/paralleltree/Ched",
+      "description": "いわゆる本家のアプリケーションソフトウェアに対して直接的に出力を食わせることに使うのは絶対にやめてください。本家のアセットを直接流用するのもやめてください。",
+      "summary": "A score editor for rhythm games designed for creating custom chart data.",
+      "language": "C#",
+      "stars": 210,
+      "tags": [
+        "rhythm-game",
+        "editor",
+        "c-sharp"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-05-22T03:13:06Z"
+    },
+    {
+      "full_name": "MosasoM/inappropriate-words-ja",
+      "url": "https://github.com/MosasoM/inappropriate-words-ja",
+      "description": "日本語における不適切表現を収集します。自然言語処理の時のデータクリーニング用等に使えると思います。",
+      "summary": "A collection of inappropriate Japanese words for NLP data cleaning.",
+      "language": "Python",
+      "stars": 207,
+      "tags": [
+        "nlp",
+        "japanese",
+        "dataset"
+      ],
+      "category": "Learning & Reference",
+      "starred_at": "2022-12-24T14:33:24Z"
+    },
+    {
+      "full_name": "fontworks-fonts/Stick",
+      "url": "https://github.com/fontworks-fonts/Stick",
+      "description": "A font file available from Google Fonts.",
+      "summary": "A straight-line based Japanese font file available via Google Fonts.",
+      "language": "Python",
+      "stars": 205,
+      "tags": [
+        "typography",
+        "fonts",
+        "japanese",
+        "google-fonts"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-20T00:23:45Z"
+    },
+    {
+      "full_name": "walfie/gbf-raidfinder",
+      "url": "https://github.com/walfie/gbf-raidfinder",
+      "description": "Granblue Raid Finder (Archived: Granblue no longer has raid tweets)",
+      "summary": "An archived tool formerly used to find Granblue Fantasy raids via Twitter.",
+      "language": "Scala",
+      "stars": 204,
+      "tags": [
+        "scala",
+        "granblue-fantasy",
+        "archived"
+      ],
+      "category": "Other",
+      "starred_at": "2023-01-21T08:28:03Z"
+    },
+    {
+      "full_name": "orels1/UdonToolkit",
+      "url": "https://github.com/orels1/UdonToolkit",
+      "description": "A set of purpose-built Udon Behaviours and tools to make your own",
+      "summary": "A collection of tools and custom behaviors for VRChat Udon development.",
+      "language": "C#",
+      "stars": 193,
+      "tags": [
+        "unity",
+        "vrchat",
+        "udon",
+        "behaviours"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-01-26T00:11:06Z"
+    },
+    {
+      "full_name": "kokushin/exia",
+      "url": "https://github.com/kokushin/exia",
+      "description": "Next.js, Electronベースのノベルゲームエンジン (開発中)",
+      "summary": "A novel game engine built on Next.js and Electron, currently under development.",
+      "language": "TypeScript",
+      "stars": 175,
+      "tags": [
+        "novel-game",
+        "electron",
+        "nextjs",
+        "engine"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-06-05T17:25:20Z"
+    },
+    {
+      "full_name": "hakatashi/japanese.js",
+      "url": "https://github.com/hakatashi/japanese.js",
+      "description": "Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.",
+      "summary": "A utility collection for processing Japanese text, including Romanization and Kana conversion.",
+      "language": "JavaScript",
+      "stars": 167,
+      "tags": [
+        "japanese",
+        "text-processing",
+        "linguistics"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:29:05Z"
+    },
+    {
+      "full_name": "yamatoiizuka/gen-interface-jp",
+      "url": "https://github.com/yamatoiizuka/gen-interface-jp",
+      "description": "Typeface harmonizing Inter and Noto Sans JP",
+      "summary": "A typeface that harmonizes the Inter font with Noto Sans JP for better readability.",
+      "language": "Python",
+      "stars": 163,
+      "tags": [
+        "typography",
+        "font",
+        "japanese",
+        "design"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2026-05-06T04:40:15Z"
+    },
+    {
+      "full_name": "togucchi/HDToon",
+      "url": "https://github.com/togucchi/HDToon",
+      "description": "Simple toon shader for Unity HDRP (High Definition Render Pipeline)",
+      "summary": "A simple toon shader implementation for Unity's High Definition Render Pipeline.",
+      "language": "Mathematica",
+      "stars": 159,
+      "tags": [
+        "unity",
+        "hdrp",
+        "toon-shader",
+        "graphics"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-14T19:27:41Z"
+    },
+    {
+      "full_name": "feles-ao42/EVA_countdown",
+      "url": "https://github.com/feles-ao42/EVA_countdown",
+      "description": "",
+      "summary": "A countdown timer styled after the Evangelion anime interface using CSS.",
+      "language": "CSS",
+      "stars": 152,
+      "tags": [
+        "css",
+        "countdown",
+        "evangelion",
+        "ui-design"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2025-01-17T01:08:16Z"
+    },
+    {
+      "full_name": "Varneon/WorldCreatorAssistant",
+      "url": "https://github.com/Varneon/WorldCreatorAssistant",
+      "description": "Discontinued Unity Editor extension for automating VRChat world project package management",
+      "summary": "A Unity Editor extension for automating VRChat world project package management.",
+      "language": "C#",
+      "stars": 147,
+      "tags": [
+        "unity-extension",
+        "vrchat",
+        "package-management",
+        "automation"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-02-15T14:30:36Z"
+    },
+    {
+      "full_name": "hakatashi/RictyDiminished-with-FiraCode",
+      "url": "https://github.com/hakatashi/RictyDiminished-with-FiraCode",
+      "description": "日本一美しいプログラミングフォント Ricty Diminished に、FiraCodeのプログラミング合字をミックス。",
+      "summary": "A programming font combining Ricty Diminished aesthetics with FiraCode's functional ligatures.",
+      "language": "Python",
+      "stars": 142,
+      "tags": [
+        "fonts",
+        "programming",
+        "ligatures",
+        "typography"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2023-03-25T02:07:22Z"
+    },
+    {
+      "full_name": "hfcRed/Among-Us-Follower",
+      "url": "https://github.com/hfcRed/Among-Us-Follower",
+      "description": "Among Us companion for your VRChat Avatar",
+      "summary": "A VRChat avatar companion prefab inspired by Among Us crewmates.",
+      "language": "C#",
+      "stars": 134,
+      "tags": [
+        "vrchat",
+        "avatar",
+        "unity",
+        "prefab"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-05-02T04:03:07Z"
+    },
+    {
+      "full_name": "Cysharp/SlnMerge",
+      "url": "https://github.com/Cysharp/SlnMerge",
+      "description": "SlnMerge merges the solution files when generating solution file by Unity Editor.",
+      "summary": "A utility to merge solution files generated by the Unity Editor.",
+      "language": "C#",
+      "stars": 132,
+      "tags": [
+        "unity",
+        "csharp",
+        "visual-studio"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-02-17T15:38:52Z"
+    },
+    {
+      "full_name": "azu/kuromojin",
+      "url": "https://github.com/azu/kuromojin",
+      "description": "Provide a high-level wrapper for kuromoji.js. Cache/Promise API",
+      "summary": "A high-level wrapper for the kuromoji.js Japanese morphological analyzer with Promise support.",
+      "language": "CSS",
+      "stars": 112,
+      "tags": [
+        "japanese",
+        "nlp",
+        "tokenizer",
+        "javascript"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-14T19:28:10Z"
+    },
+    {
+      "full_name": "theepicsnail/Marker",
+      "url": "https://github.com/theepicsnail/Marker",
+      "description": "VRC Marker for presentation room like drawing anywhere",
+      "summary": "A drawing marker tool for VRChat presentation rooms and world interaction.",
+      "language": "C#",
+      "stars": 108,
+      "tags": [
+        "vrchat",
+        "unity",
+        "drawing",
+        "tools"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-08-30T19:14:26Z"
+    },
+    {
+      "full_name": "oatsu-gh/ENUNU",
+      "url": "https://github.com/oatsu-gh/ENUNU",
+      "description": "NNSVSのモデルをUTAUで使えるようにするツール (UTAU plugin software powered by NNSVS)",
+      "summary": "A UTAU plugin that enables the use of NNSVS singing models.",
+      "language": "Python",
+      "stars": 106,
+      "tags": [
+        "utau-plugin",
+        "nnsvs",
+        "singing-synthesis"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-03-24T04:24:34Z"
+    },
+    {
+      "full_name": "lifemate-ai/familiar-ai",
+      "url": "https://github.com/lifemate-ai/familiar-ai",
+      "description": "",
+      "summary": "An AI-powered tool developed by Lifemate AI for personal or assistant use.",
+      "language": "Python",
+      "stars": 89,
+      "tags": [
+        "ai-assistant",
+        "python",
+        "llm"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2026-02-26T12:35:58Z"
+    },
+    {
+      "full_name": "lilxyzw/lilMaterialConverter",
+      "url": "https://github.com/lilxyzw/lilMaterialConverter",
+      "description": "Unity C# script for material conversion",
+      "summary": "A Unity C# script for converting materials between different shaders.",
+      "language": "C#",
+      "stars": 88,
+      "tags": [
+        "unity",
+        "c-sharp",
+        "materials"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-12-03T12:51:27Z"
+    },
+    {
+      "full_name": "right2sky/UnityChanToonShaderVer2_EmissiveScroll",
+      "url": "https://github.com/right2sky/UnityChanToonShaderVer2_EmissiveScroll",
+      "description": "UnityChanToonShaderVer2 with EmissiveScroll",
+      "summary": "A modified UnityChanToonShader featuring emissive scrolling effects for Unity projects.",
+      "language": "C#",
+      "stars": 88,
+      "tags": [
+        "unity",
+        "shader",
+        "toon-shading",
+        "vrc-effects"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-14T19:27:42Z"
+    },
+    {
+      "full_name": "Moebytes/waifu2x",
+      "url": "https://github.com/Moebytes/waifu2x",
+      "description": "waifu2x image upscaling in Node.js",
+      "summary": "A Node.js implementation of the waifu2x image upscaling algorithm for anime-style art.",
+      "language": "TypeScript",
+      "stars": 84,
+      "tags": [
+        "image-upscaling",
+        "waifu2x",
+        "node-js",
+        "computer-vision"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2021-01-26T09:31:16Z"
+    },
+    {
+      "full_name": "Varneon/UdonExplorer",
+      "url": "https://github.com/Varneon/UdonExplorer",
+      "description": "Unity Editor extension for easily exploring all VRCSDK3 UdonBehaviours in your Unity scene",
+      "summary": "Unity editor extension for managing and exploring UdonBehaviours in VRChat scenes.",
+      "language": "C#",
+      "stars": 80,
+      "tags": [
+        "unity-editor",
+        "vrchat",
+        "udon",
+        "vrcsdk"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-04-22T13:38:44Z"
+    },
+    {
+      "full_name": "kyoheiu/era",
+      "url": "https://github.com/kyoheiu/era",
+      "description": "A rainy clock in your terminal.",
+      "summary": "A terminal-based clock application featuring a rainy aesthetic and TUI interface.",
+      "language": "TypeScript",
+      "stars": 77,
+      "tags": [
+        "tui",
+        "clock",
+        "deno",
+        "terminal-art"
+      ],
+      "category": "CLI & Terminal",
+      "starred_at": "2023-05-23T23:15:30Z"
+    },
+    {
+      "full_name": "lukehorvat/screenshot-tweet",
+      "url": "https://github.com/lukehorvat/screenshot-tweet",
+      "description": "Screenshot a tweet.",
+      "summary": "A utility tool designed to capture and save screenshots of specific tweets.",
+      "language": "JavaScript",
+      "stars": 67,
+      "tags": [
+        "twitter",
+        "screenshot",
+        "utility",
+        "image"
+      ],
+      "category": "Other",
+      "starred_at": "2021-01-14T19:28:22Z"
+    },
+    {
+      "full_name": "alessandrojean/tankobon",
+      "url": "https://github.com/alessandrojean/tankobon",
+      "description": "[WIP] Self-hosted physical book collection manager.",
+      "summary": "A self-hosted application designed to manage and track physical book and manga collections.",
+      "language": "Vue",
+      "stars": 57,
+      "tags": [
+        "book-manager",
+        "manga",
+        "collection-tracker"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2024-04-06T05:24:06Z"
+    },
+    {
+      "full_name": "SCRN-VRC/SVM-Face-and-Object-Detection-Shader",
+      "url": "https://github.com/SCRN-VRC/SVM-Face-and-Object-Detection-Shader",
+      "description": "SVM using HOG descriptors implemented in fragment shaders",
+      "summary": "Implementation of SVM face and object detection using HOG descriptors in fragment shaders.",
+      "language": "GLSL",
+      "stars": 56,
+      "tags": [
+        "shaders",
+        "computer-vision",
+        "unity",
+        "vrchat"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-12-18T04:37:57Z"
+    },
+    {
+      "full_name": "m-hayabusa/VRChat-Exif-Writer",
+      "url": "https://github.com/m-hayabusa/VRChat-Exif-Writer",
+      "description": "add EXIF tag to VRChat Pics",
+      "summary": "A utility tool to add EXIF metadata tags to photos taken within VRChat.",
+      "language": "TypeScript",
+      "stars": 52,
+      "tags": [
+        "vrchat",
+        "exif",
+        "metadata",
+        "photography"
+      ],
+      "category": "Other",
+      "starred_at": "2022-07-26T03:50:49Z"
+    },
+    {
+      "full_name": "Thryrallo/UdonPrefabs",
+      "url": "https://github.com/Thryrallo/UdonPrefabs",
+      "description": "",
+      "summary": "A collection of Udon-based prefabs for VRChat world development.",
+      "language": "ShaderLab",
+      "stars": 52,
+      "tags": [
+        "vrchat",
+        "udon",
+        "unity-prefabs"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-05-31T20:30:27Z"
+    },
+    {
+      "full_name": "miu200521358/motion_trace_colab",
+      "url": "https://github.com/miu200521358/motion_trace_colab",
+      "description": "colab版MMD自動トレース",
+      "summary": "A Google Colab notebook for automatic MMD motion tracing using AI.",
+      "language": "Jupyter Notebook",
+      "stars": 49,
+      "tags": [
+        "mmd",
+        "pose-estimation",
+        "colab",
+        "animation"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2021-02-21T02:39:11Z"
+    },
+    {
+      "full_name": "ksasao/PlateauCityGmlSharp",
+      "url": "https://github.com/ksasao/PlateauCityGmlSharp",
+      "description": "Project PLATEAU の CityGML を .obj に変換するツールです",
+      "summary": "A tool for converting Project PLATEAU CityGML data into OBJ format.",
+      "language": "C#",
+      "stars": 47,
+      "tags": [
+        "citygml",
+        "3d-data",
+        "converter"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2023-01-17T12:30:37Z"
+    },
+    {
+      "full_name": "vrMarimo/mmd_cameraload",
+      "url": "https://github.com/vrMarimo/mmd_cameraload",
+      "description": "MMDカメラモーション(vmd)を読み込みカメラに反映するスクリプト",
+      "summary": "A C# script to load MMD camera motion files into Unity camera objects.",
+      "language": "C#",
+      "stars": 39,
+      "tags": [
+        "unity",
+        "mmd",
+        "vmd",
+        "animation"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2021-01-24T13:51:09Z"
+    },
+    {
+      "full_name": "mikito/unity-voicevox-bridge",
+      "url": "https://github.com/mikito/unity-voicevox-bridge",
+      "description": "",
+      "summary": "A bridge library to integrate VOICEVOX text-to-speech capabilities into Unity projects.",
+      "language": "C#",
+      "stars": 30,
+      "tags": [
+        "unity",
+        "voicevox",
+        "tts",
+        "bridge"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-03-27T14:06:37Z"
+    },
+    {
+      "full_name": "Rguarnizo/Evangelion-Theme-VS-Code",
+      "url": "https://github.com/Rguarnizo/Evangelion-Theme-VS-Code",
+      "description": "A extension to Visual Studio Code to contains a Evangelion themes.",
+      "summary": "A Visual Studio Code extension providing color themes inspired by Neon Genesis Evangelion.",
+      "language": "JavaScript",
+      "stars": 30,
+      "tags": [
+        "vscode",
+        "theme",
+        "evangelion",
+        "ui"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2022-07-19T08:22:16Z"
+    },
+    {
+      "full_name": "cri-middleware/cri_adx_le_for_csharp",
+      "url": "https://github.com/cri-middleware/cri_adx_le_for_csharp",
+      "description": "",
+      "summary": "C# bindings and middleware for the CRI ADX audio engine.",
+      "language": "C#",
+      "stars": 29,
+      "tags": [
+        "csharp",
+        "audio-middleware",
+        "adx",
+        "sdk"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2024-09-18T15:50:59Z"
+    },
+    {
+      "full_name": "Goropocha/UniSafeAreaAdjuster",
+      "url": "https://github.com/Goropocha/UniSafeAreaAdjuster",
+      "description": "Unity plugin that adjust canvas to safe area of iOS.",
+      "summary": "A Unity plugin that automatically adjusts UI canvases to fit iOS device safe areas.",
+      "language": "C#",
+      "stars": 27,
+      "tags": [
+        "unity",
+        "ios",
+        "ui-scaling",
+        "mobile-dev"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-03-24T15:19:13Z"
+    },
+    {
+      "full_name": "SSShooter/PSN-node-displayer",
+      "url": "https://github.com/SSShooter/PSN-node-displayer",
+      "description": "Come on! Show your PSN trophy!",
+      "summary": "A Vue-based tool to display PlayStation Network trophies on the web.",
+      "language": "Vue",
+      "stars": 26,
+      "tags": [
+        "playstation",
+        "vue",
+        "trophy-display"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2022-12-19T13:24:32Z"
+    },
+    {
+      "full_name": "gpsnmeajp/Oredayo4V",
+      "url": "https://github.com/gpsnmeajp/Oredayo4V",
+      "description": "Oredayo4Vは、Waidayoから送信されるVMCProcotolモーションデータを、PC上で強力に表示する非公式クライアントです。",
+      "summary": "An unofficial PC client for displaying VMCProtocol motion data sent from Waidayo.",
+      "language": "C#",
+      "stars": 25,
+      "tags": [
+        "vtuber",
+        "vmc-protocol",
+        "motion-data",
+        "desktop-app"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-01-14T19:27:48Z"
+    },
+    {
+      "full_name": "kg0r0/twitter-oauth2",
+      "url": "https://github.com/kg0r0/twitter-oauth2",
+      "description": ":baby_chick: Express.js middleware implementation for Twitter OAuth2 Client.",
+      "summary": "Express.js middleware for implementing Twitter OAuth2 client authentication.",
+      "language": "TypeScript",
+      "stars": 25,
+      "tags": [
+        "oauth2",
+        "twitter-api",
+        "express-middleware"
+      ],
+      "category": "Security & Secrets",
+      "starred_at": "2023-01-07T16:22:03Z"
+    },
+    {
+      "full_name": "oatsu-gh/enunu_training_kit",
+      "url": "https://github.com/oatsu-gh/enunu_training_kit",
+      "description": "UST入りの歌唱DBからENUNU用モデルを生成するツール",
+      "summary": "Tool for generating ENUNU singing models from UTAU-compatible databases.",
+      "language": "Python",
+      "stars": 25,
+      "tags": [
+        "enunu",
+        "training",
+        "singing-voice",
+        "utau"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2022-03-24T04:24:54Z"
+    },
+    {
+      "full_name": "YoshihideShirai/Hp2Fit",
+      "url": "https://github.com/YoshihideShirai/Hp2Fit",
+      "description": "HealthPlanet → Google fit/Fitbit 連携ツール",
+      "summary": "A synchronization tool to transfer health data from HealthPlanet to Google Fit or Fitbit.",
+      "language": "JavaScript",
+      "stars": 23,
+      "tags": [
+        "health",
+        "google-fit",
+        "fitbit",
+        "automation"
+      ],
+      "category": "Other",
+      "starred_at": "2022-07-24T08:52:14Z"
+    },
+    {
+      "full_name": "VOICEVOX/voicevox_nemo_engine",
+      "url": "https://github.com/VOICEVOX/voicevox_nemo_engine",
+      "description": "キャラクターのいない無料の音声合成ソフトウェア、VOICEVOX Nemoのエンジン",
+      "summary": "The core speech synthesis engine for the character-neutral VOICEVOX Nemo software.",
+      "language": "Python",
+      "stars": 19,
+      "tags": [
+        "speech-synthesis",
+        "voicevox",
+        "audio-engine"
+      ],
+      "category": "AI & LLM Tools",
+      "starred_at": "2024-03-19T09:39:44Z"
+    },
+    {
+      "full_name": "syskentokyo/unitylicensemaster",
+      "url": "https://github.com/syskentokyo/unitylicensemaster",
+      "description": "Unity上で使うライブラリなどのライセンスを管理できるEditor拡張です。",
+      "summary": "Unity editor extension for managing third-party library licenses within a project.",
+      "language": "C#",
+      "stars": 18,
+      "tags": [
+        "unity",
+        "license-management",
+        "editor-extension",
+        "csharp"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-12-02T08:36:51Z"
+    },
+    {
+      "full_name": "VeyronSakai/GhaUnityBuildReporter",
+      "url": "https://github.com/VeyronSakai/GhaUnityBuildReporter",
+      "description": "Automatically reflects build report in GitHub Job Summary when building with Unity on GitHub Actions",
+      "summary": "Automatically generates Unity build reports within GitHub Actions job summaries.",
+      "language": "C#",
+      "stars": 18,
+      "tags": [
+        "github-actions",
+        "unity",
+        "ci-cd"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2024-04-28T04:02:36Z"
+    },
+    {
+      "full_name": "tdtds/takuhai_tracker",
+      "url": "https://github.com/tdtds/takuhai_tracker",
+      "description": "宅配トラッカー",
+      "summary": "A web-based application for tracking package deliveries.",
+      "language": "JavaScript",
+      "stars": 16,
+      "tags": [
+        "tracking",
+        "delivery",
+        "web-app"
+      ],
+      "category": "Self-Hosted Apps",
+      "starred_at": "2021-07-20T03:26:01Z"
+    },
+    {
+      "full_name": "mantinedev/mantine-cra-template",
+      "url": "https://github.com/mantinedev/mantine-cra-template",
+      "description": "create-react-app with Mantine template",
+      "summary": "A Create React App template integrated with the Mantine component library.",
+      "language": "TypeScript",
+      "stars": 15,
+      "tags": [
+        "react",
+        "mantine",
+        "cra"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2023-01-03T06:40:59Z"
+    },
+    {
+      "full_name": "nkjzm/UniBuildNumber",
+      "url": "https://github.com/nkjzm/UniBuildNumber",
+      "description": "Build number getter at runtime on iOS and Android",
+      "summary": "A Unity utility to retrieve application build numbers at runtime for mobile platforms.",
+      "language": "C#",
+      "stars": 15,
+      "tags": [
+        "unity",
+        "ios",
+        "android",
+        "build-tool"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2023-08-14T13:31:05Z"
+    },
+    {
+      "full_name": "cognitom/coder2-docker",
+      "url": "https://github.com/cognitom/coder2-docker",
+      "description": "",
+      "summary": "Docker configuration for running Coder, a remote development environment platform.",
+      "language": "Dockerfile",
+      "stars": 11,
+      "tags": [
+        "docker",
+        "coder",
+        "ide",
+        "workspace"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2022-02-27T12:46:50Z"
+    },
+    {
+      "full_name": "k3zi/ktaccent-js",
+      "url": "https://github.com/k3zi/ktaccent-js",
+      "description": "A library for guessing sentence pitch accent in Japanese・アクセントを推測しようとするライブラリ",
+      "summary": "A JavaScript library for estimating pitch accents in Japanese sentences.",
+      "language": "JavaScript",
+      "stars": 11,
+      "tags": [
+        "japanese",
+        "linguistics",
+        "javascript"
+      ],
+      "category": "Libraries & SDKs",
+      "starred_at": "2021-01-29T22:19:06Z"
+    },
+    {
+      "full_name": "jfix/npm-random-file",
+      "url": "https://github.com/jfix/npm-random-file",
+      "description": "Selects a random file from a directory",
+      "summary": "A simple utility to select a random file from a specified directory.",
+      "language": "JavaScript",
+      "stars": 10,
+      "tags": [
+        "npm",
+        "file-utility",
+        "javascript",
+        "cli"
+      ],
+      "category": "Developer Tools",
+      "starred_at": "2021-01-20T08:18:36Z"
+    },
+    {
+      "full_name": "waffs702/mv_to_ios",
+      "url": "https://github.com/waffs702/mv_to_ios",
+      "description": "RPGツクールMV/RPGツクールMZプロジェクトをiOSアプリ化",
+      "summary": "A tool to convert RPG Maker MV and MZ projects into native iOS applications.",
+      "language": "Swift",
+      "stars": 10,
+      "tags": [
+        "rpg-maker",
+        "ios",
+        "swift",
+        "game-deployment"
+      ],
+      "category": "Mobile & Desktop Apps",
+      "starred_at": "2021-01-24T09:17:55Z"
+    },
+    {
+      "full_name": "Kantouzin/gkmas-rank-calculator",
+      "url": "https://github.com/Kantouzin/gkmas-rank-calculator",
+      "description": "Calculate the evaluation rank for \"Gakuen IDOLM@STER\"",
+      "summary": "A Svelte-based web application to calculate evaluation ranks for Gakuen IDOLM@STER.",
+      "language": "Svelte",
+      "stars": 8,
+      "tags": [
+        "svelte",
+        "game-tool",
+        "calculator",
+        "idolmaster"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2024-09-22T15:22:45Z"
+    },
+    {
+      "full_name": "hakatashi/human-or-vocaloid-quiz",
+      "url": "https://github.com/hakatashi/human-or-vocaloid-quiz",
+      "description": "",
+      "summary": "A web-based quiz application to distinguish between human and Vocaloid voices.",
+      "language": "TypeScript",
+      "stars": 7,
+      "tags": [
+        "quiz",
+        "typescript",
+        "web-app"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2023-03-02T23:27:06Z"
+    },
+    {
+      "full_name": "momoma-null/MomomaPrefabs",
+      "url": "https://github.com/momoma-null/MomomaPrefabs",
+      "description": "Prefabs for VRChat made by momoma",
+      "summary": "A collection of custom Unity prefabs specifically designed for VRChat world creation.",
+      "language": "",
+      "stars": 6,
+      "tags": [
+        "vrchat",
+        "unity",
+        "prefabs"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2022-04-15T16:11:55Z"
+    },
+    {
+      "full_name": "momo-lab/kurooby",
+      "url": "https://github.com/momo-lab/kurooby",
+      "description": "柔道をモチーフにしたプログラミング言語「クロオビー」",
+      "summary": "An esoteric programming language inspired by Judo.",
+      "language": "Ruby",
+      "stars": 4,
+      "tags": [
+        "esolang",
+        "ruby",
+        "programming-language"
+      ],
+      "category": "Other",
+      "starred_at": "2021-08-31T04:52:15Z"
+    },
+    {
+      "full_name": "steve-taylor/node-download-server",
+      "url": "https://github.com/steve-taylor/node-download-server",
+      "description": "Simple download server for Node.js with API-based access control",
+      "summary": "A Node.js-based download server featuring API-based access control for file distribution.",
+      "language": "JavaScript",
+      "stars": 3,
+      "tags": [
+        "file-server",
+        "nodejs",
+        "api-control",
+        "download"
+      ],
+      "category": "File Sharing & Transfer",
+      "starred_at": "2021-01-14T19:28:34Z"
+    },
+    {
+      "full_name": "matzoka/yamato-tracker-withmap",
+      "url": "https://github.com/matzoka/yamato-tracker-withmap",
+      "description": "クロネコヤマトの荷物お問い合わせ Streamlit 版です。経路一覧と地図も表示されます。",
+      "summary": "A Streamlit-based package tracker for Yamato Transport with integrated map visualization.",
+      "language": "Python",
+      "stars": 1,
+      "tags": [
+        "tracking",
+        "streamlit",
+        "python",
+        "mapping"
+      ],
+      "category": "Other",
+      "starred_at": "2022-01-25T19:24:07Z"
+    },
+    {
+      "full_name": "munierujp/hatenablog-embed-widget",
+      "url": "https://github.com/munierujp/hatenablog-embed-widget",
+      "description": "",
+      "summary": "An embeddable widget utility specifically designed for Hatena Blog integration.",
+      "language": "",
+      "stars": 1,
+      "tags": [
+        "widget",
+        "blogging",
+        "embed",
+        "frontend"
+      ],
+      "category": "Web & Frontend",
+      "starred_at": "2021-01-14T19:28:42Z"
+    },
+    {
+      "full_name": "tatmos/Mds714Monitor",
+      "url": "https://github.com/tatmos/Mds714Monitor",
+      "description": "CRI ADX2用のUnityスクリプト 7.1.4chのレベルモニターを画面にオーバーレイ表示",
+      "summary": "A Unity script for overlaying 7.1.4ch audio level monitors using CRI ADX2.",
+      "language": "C#",
+      "stars": 1,
+      "tags": [
+        "unity",
+        "audio",
+        "monitoring",
+        "adx2"
+      ],
+      "category": "Game Dev & Unity",
+      "starred_at": "2024-08-22T01:13:35Z"
+    }
+  ]
+}

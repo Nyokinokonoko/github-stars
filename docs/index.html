@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>⭐ GitHub Stars Catalog</title>
+  <meta name="description" content="Searchable, categorized catalog of GitHub stars." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%AD%90%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="style.css" />
+  <script>
+    // Apply saved/system theme before paint to avoid a flash.
+    (function () {
+      try {
+        var saved = localStorage.getItem('theme');
+        var dark = saved ? saved === 'dark'
+          : window.matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">★</span>
+        <div class="brand-text">
+          <h1>GitHub&nbsp;Stars</h1>
+          <p class="tagline" id="tagline">Loading catalog…</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <a class="btn ghost" id="repo-link"
+           href="https://github.com/Nyokinokonoko/github-stars"
+           target="_blank" rel="noopener">Repo ↗</a>
+        <button class="btn icon" id="theme-toggle" type="button"
+                aria-label="Toggle dark mode" title="Toggle theme">◐</button>
+      </div>
+    </div>
+  </header>
+
+  <section class="controls">
+    <div class="wrap">
+      <div class="controls-top">
+        <div class="search-wrap">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="search" type="search" autocomplete="off" spellcheck="false"
+                 placeholder="Search name, summary, tag, language…" aria-label="Search repositories" />
+        </div>
+        <label class="select">
+          <span>Language</span>
+          <select id="language" aria-label="Filter by language"></select>
+        </label>
+        <label class="select">
+          <span>Sort</span>
+          <select id="sort" aria-label="Sort order">
+            <option value="stars">Most stars</option>
+            <option value="recent">Recently starred</option>
+            <option value="name">Name (A–Z)</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="pills" id="categories" role="group" aria-label="Filter by category"></div>
+      <div class="active-tags" id="active-tags" hidden></div>
+
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <div class="results" id="results"></div>
+    <div class="empty" id="empty" hidden>
+      <p>No repositories match your filters.</p>
+      <button class="btn" id="clear-filters" type="button">Clear all filters</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span id="footer-meta"></span>
+      <span>·</span>
+      <a href="https://github.com/Nyokinokonoko/github-stars" target="_blank" rel="noopener">source</a>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

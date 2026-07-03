@@ -219,6 +219,11 @@ function wireEvents() {
     render();
   });
 
+  els.filtersToggle.addEventListener("click", () => {
+    const collapsed = els.controls.classList.toggle("filters-collapsed");
+    els.filtersToggle.setAttribute("aria-expanded", String(!collapsed));
+  });
+
   els.themeToggle.addEventListener("click", () => {
     const dark = document.documentElement.dataset.theme !== "dark";
     document.documentElement.dataset.theme = dark ? "dark" : "light";
@@ -246,13 +251,13 @@ function computeCategoryOrder() {
 
 /* ===== Init ===== */
 async function init() {
-  ["categories", "activeTags", "results", "empty", "resultCount", "search",
-   "language", "sort", "themeToggle", "clearFilters", "tagline", "footerMeta"]
+  ["controls", "categories", "activeTags", "results", "empty", "resultCount", "search",
+   "language", "sort", "themeToggle", "filtersToggle", "clearFilters", "tagline", "footerMeta"]
     .forEach((k) => {
       const idMap = {
         activeTags: "active-tags", resultCount: "result-count",
-        themeToggle: "theme-toggle", clearFilters: "clear-filters",
-        footerMeta: "footer-meta",
+        themeToggle: "theme-toggle", filtersToggle: "filters-toggle",
+        clearFilters: "clear-filters", footerMeta: "footer-meta",
       };
       els[k] = $(idMap[k] || k);
     });
@@ -274,6 +279,12 @@ async function init() {
   els.search.placeholder = `Search ${fmt.format(count)} repos… (name, summary, tag, language)`;
   const updated = (META.generated_at || "").slice(0, 10);
   els.footerMeta.textContent = `${fmt.format(count)} repos · updated ${updated || "—"} · model ${META.model || "—"}`;
+
+  // Collapse the filters by default on small screens; expanded on larger ones.
+  if (window.matchMedia("(max-width: 560px)").matches) {
+    els.controls.classList.add("filters-collapsed");
+    els.filtersToggle.setAttribute("aria-expanded", "false");
+  }
 
   computeCategoryOrder();
   populateLanguages();

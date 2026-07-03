@@ -117,6 +117,9 @@ a { color: inherit; }
 }
 .btn.ghost:hover { background: rgba(255, 255, 255, .1); }
 .btn.icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   background: transparent;
   color: #fff;
   border-color: rgba(255, 255, 255, .3);
@@ -125,6 +128,7 @@ a { color: inherit; }
   font-size: 16px;
 }
 .btn.icon:hover { background: rgba(255, 255, 255, .1); }
+.btn.icon svg { display: block; }
 
 /* ===== Controls ===== */
 .controls {
@@ -144,8 +148,8 @@ a { color: inherit; }
 }
 .search-wrap {
   position: relative;
-  flex: 1 1 340px;
-  min-width: 220px;
+  flex: 1 1 260px;
+  min-width: 200px;
 }
 .search-icon {
   position: absolute;
@@ -172,7 +176,46 @@ a { color: inherit; }
   box-shadow: 0 0 0 3px color-mix(in srgb, var(--lime) 45%, transparent);
 }
 
+/* Filters toggle (collapses dropdowns + category pills) */
+.filters-toggle {
+  flex-shrink: 0;
+  align-self: flex-end;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  color: var(--text);
+  background: var(--surface);
+  border: 1.5px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background .12s, border-color .12s, color .12s;
+}
+.filters-toggle svg { display: block; }
+.filters-toggle:hover { background: var(--surface-2); }
+.filters-toggle[aria-expanded="true"] {
+  background: var(--lime);
+  border-color: var(--lime);
+  color: var(--accent-text);
+}
+.filters-toggle:focus-visible {
+  outline: none;
+  border-color: var(--focus);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--lime) 40%, transparent);
+}
+
+.select-group {
+  display: flex;
+  gap: 12px;
+  flex: 0 1 320px;
+}
+.controls.filters-collapsed .select-group,
+.controls.filters-collapsed .pills { display: none; }
+
 .select {
+  flex: 1 1 140px;
+  min-width: 0;
   display: flex;
   flex-direction: column;
   gap: 4px;
@@ -193,7 +236,8 @@ a { color: inherit; }
   border: 1.5px solid var(--border-strong);
   border-radius: var(--radius-sm);
   padding: 8px 10px;
-  min-width: 150px;
+  min-width: 0;
+  width: 100%;
   cursor: pointer;
 }
 .select select:focus {
@@ -415,11 +459,16 @@ a { color: inherit; }
   color: var(--text-dim);
 }
 
+/* Narrow: drop the dropdowns onto their own full-width row so they never
+   get crushed beside the search box. */
+@media (max-width: 700px) {
+  .controls-top { gap: 10px; }
+  .search-wrap { flex: 1 1 200px; }
+  .select-group { flex: 1 1 100%; }
+}
+
 @media (max-width: 560px) {
   .results { grid-template-columns: 1fr; }
-  .controls-top { gap: 10px; }
-  .select { flex: 1; }
-  .select select { min-width: 0; width: 100%; }
   .brand-text h1 { font-size: 18px; }
 }
 

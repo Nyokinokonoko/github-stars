@@ -2,12 +2,26 @@
 
 from __future__ import annotations
 
+import json
 import re
 from collections import Counter
 from pathlib import Path
 
 UNCATEGORIZED = "Uncategorized"
 RECENT_COUNT = 15
+
+# Fields the web UI needs; keeps docs/data.json slim.
+SITE_FIELDS = (
+    "full_name",
+    "url",
+    "description",
+    "summary",
+    "language",
+    "stars",
+    "tags",
+    "category",
+    "starred_at",
+)
 
 
 def slugify(name: str) -> str:
@@ -122,8 +136,6 @@ def generate(
     user: str,
     generated_at: str,
 ) -> None:
-    import json
-
     data = json.loads(stars_path.read_text())
     repos: dict[str, dict] = data.get("repos", {})
     groups = _group(repos)
@@ -145,3 +157,27 @@ def generate(
 
     index = _index_page(user, generated_at, repos, categories, groups)
     (catalog_dir / "README.md").write_text(index)
+
+
+def write_site_data(stars_path: Path, docs_dir: Path, meta: dict) -> None:
+    """Write docs/data.json — a slim, UI-only payload for the Pages site.
+
+    Pure and network-free. Repos are emitted as a list (easier to consume in JS),
+    sorted by stars desc so the default render is stable. Only SITE_FIELDS are kept.
+    """
+    data = json.loads(stars_path.read_text())
+    repos = data.get("repos", {})
+
+    slim = []
+    for repo in repos.values():
+        entry = {k: repo.get(k) for k in SITE_FIELDS}
+        entry["category"] = entry.get("category") or UNCATEGORIZED
+        entry["tags"] = entry.get("tags") or []
+        slim.append(entry)
+    slim.sort(key=lambda r: (-(r.get("stars") or 0), (r.get("full_name") or "").lower()))
+
+    payload = {"meta": meta, "repos": slim}
+    docs_dir.mkdir(parents=True, exist_ok=True)
+    (docs_dir / "data.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+    )

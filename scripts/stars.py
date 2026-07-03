@@ -135,6 +135,9 @@ def main() -> int:
     # Rebuild catalog from the fresh database.
     catalog_mod.generate(STARS_PATH, categories, CATALOG_DIR, user, now)
 
+    # Refresh the Pages site data (docs/data.json).
+    catalog_mod.write_site_data(STARS_PATH, ROOT / "docs", db["meta"])
+
     print(
         f"Done. total={len(repos)} new={len(new_names)} pruned={len(removed_names)}",
         file=sys.stderr,

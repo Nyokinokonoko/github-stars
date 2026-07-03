@@ -19,6 +19,7 @@ scripts/stars.py (orchestrator)
   5. refresh mutable metadata (stars/desc/topics) on existing entries (no LLM)
   6. write data/stars.json
   7. regenerate catalog/ via scripts/catalog.py (pure, no LLM)
+  8. write docs/data.json for the Pages site (catalog.write_site_data, pure)
 ```
 
 Key invariant: **the LLM is only ever called on repos not already in `stars.json`.**
@@ -33,8 +34,13 @@ re-categorize everything (use after editing the taxonomy).
 - `scripts/catalog.py` — markdown generation from `stars.json`. No network.
 - `data/stars.json` — canonical database, keyed by `owner/name`. **Source of truth.**
 - `data/categories.json` — editable taxonomy (category list + descriptions for the LLM).
+- `scripts/catalog.py` also has `write_site_data()` → emits `docs/data.json`.
 - `catalog/` — **generated**; never hand-edit (overwritten every run).
-- `.github/workflows/update-stars.yml` — weekly cron + `workflow_dispatch`.
+- `docs/` — GitHub Pages site (Pages source = `main` `/docs`). Static, zero-dependency
+  vanilla JS; no build step. `docs/data.json` is **generated** (do not hand-edit);
+  `index.html` / `app.js` / `style.css` / `.nojekyll` are hand-authored.
+- `.github/workflows/update-stars.yml` — weekly cron + `workflow_dispatch`; commits
+  `data/`, `catalog/`, and `docs/data.json`.
 
 ## Running locally
 

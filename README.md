@@ -42,6 +42,38 @@ python scripts/stars.py --no-llm     # refresh metadata + rebuild catalog, no AP
 python scripts/stars.py --force      # re-categorize everything (after editing the taxonomy)
 ```
 
+## Working on the site locally
+
+The site (`docs/`) is **static with no build step** — `index.html`, `app.js`, and
+`style.css` are served as-is; they just read `docs/data.json`.
+
+**1. Regenerate `docs/data.json`** (only needed after the star data changes):
+
+```bash
+python scripts/stars.py --no-llm     # refreshes stars.json + catalog + docs/data.json (no LLM cost)
+```
+
+Or rebuild just the site payload from the existing `data/stars.json`, fully offline:
+
+```bash
+python -c "import json,sys; sys.path.insert(0,'scripts'); import catalog; \
+d=json.load(open('data/stars.json')); \
+catalog.write_site_data(__import__('pathlib').Path('data/stars.json'), __import__('pathlib').Path('docs'), d['meta'])"
+```
+
+**2. Serve `docs/` and open it** (an HTTP server is required — `fetch('data.json')`
+does not work from a `file://` URL):
+
+```bash
+python -m http.server 8000 -d docs
+# then open http://localhost:8000/
+```
+
+**3. Validate:** search, toggle category/language/tag filters and sorting, reload with a
+populated URL hash (e.g. `#q=cli&cat=CLI+%26+Terminal`), and switch dark/light. The
+browser DevTools **Network** tab should show only `data.json` fetched — no external
+requests (no CDNs, no third-party JS).
+
 ## Automation
 
 `.github/workflows/update-stars.yml` runs **weekly** (and on manual

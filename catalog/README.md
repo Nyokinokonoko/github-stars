@@ -2,13 +2,13 @@
 
 **351** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
 
-_Last updated: 2026-07-03T01:16:10+00:00_
+_Last updated: 2026-07-06T10:26:35+00:00_
 
 ## Categories
 
 | Category | Count |
 | --- | --: |
-| [AI & LLM Tools](ai-llm-tools.md) | 39 |
+| [AI & LLM Tools](ai-llm-tools.md) | 40 |
 | [CLI & Terminal](cli-terminal.md) | 19 |
 | [System Monitoring](system-monitoring.md) | 12 |
 | [Self-Hosted Apps](self-hosted-apps.md) | 33 |
@@ -21,18 +21,18 @@ _Last updated: 2026-07-03T01:16:10+00:00_
 | [Blogs, Themes & Static Sites](blogs-themes-static-sites.md) | 8 |
 | [File Sharing & Transfer](file-sharing-transfer.md) | 8 |
 | [Learning & Reference](learning-reference.md) | 21 |
-| [Other](other.md) | 13 |
+| [Other](other.md) | 12 |
 
 ## Top languages
 
-- **TypeScript** — 67
+- **TypeScript** — 68
 - **JavaScript** — 57
 - **C#** — 55
 - **Python** — 43
 - **Swift** — 21
 - **Go** — 14
 - **—** — 14
-- **C++** — 11
+- **C++** — 10
 - **Rust** — 8
 - **Jupyter Notebook** — 5
 - **Vue** — 5
@@ -40,6 +40,7 @@ _Last updated: 2026-07-03T01:16:10+00:00_
 
 ## Recently starred (latest 15)
 
+- `2026-07-05` [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) — AI & LLM Tools
 - `2026-07-02` [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) — CLI & Terminal
 - `2026-07-02` [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) — CLI & Terminal
 - `2026-07-02` [Textualize/rich](https://github.com/Textualize/rich) — Libraries & SDKs
@@ -54,4 +55,3 @@ _Last updated: 2026-07-03T01:16:10+00:00_
 - `2026-06-12` [voidauth/voidauth](https://github.com/voidauth/voidauth) — Security & Secrets
 - `2026-06-12` [louislam/dockge](https://github.com/louislam/dockge) — Self-Hosted Apps
 - `2026-06-07` [imputnet/helium](https://github.com/imputnet/helium) — Mobile & Desktop Apps
-- `2026-05-28` [software-mansion-labs/react-native-bottom-sheet](https://github.com/software-mansion-labs/react-native-bottom-sheet) — Web & Frontend

@@ -2,18 +2,17 @@
 
 _Anything that does not clearly fit another category._
 
-**13** repositories.
+**12** repositories.
 
 [← Back to index](README.md)
 
 | Repository | Language | ★ | Summary | Tags |
 | --- | --- | --: | --- | --- |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 64,415 | A brand new, truly independent web browser and engine built from scratch. | `browser` `c-plus-plus` `independent` |
-| [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Python | 4,643 | A tool to scan and delete scam comments on YouTube using various detection methods. | `youtube` `spam-filter` `python` `moderation` |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 64,479 | A brand new, truly independent web browser and engine built from scratch. | `browser` `c-plus-plus` `independent` |
+| [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Python | 4,642 | A tool to scan and delete scam comments on YouTube using various detection methods. | `youtube` `spam-filter` `python` `moderation` |
 | [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) | JavaScript | 1,541 | A browser-based automation tool to bulk delete photos from a Google Photos account. | `google-photos` `automation` `javascript` `cleanup` |
 | [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) | HTML | 1,539 | The official repository for the Cult of the Party Parrot website and assets. | `party-parrot` `assets` `slack-emojis` `fun` |
-| [decomoji/decomoji](https://github.com/decomoji/decomoji) | JavaScript | 824 | A large collection of custom icons designed for use as Slack reactions. | `slack` `emoji` `icons` |
-| [amate/UmaUmaCruise](https://github.com/amate/UmaUmaCruise) | C++ | 627 | A helper tool for the DMM version of Uma Musume to identify event choices. | `umamusume` `ocr` `game-tool` |
+| [decomoji/decomoji](https://github.com/decomoji/decomoji) | JavaScript | 825 | A large collection of custom icons designed for use as Slack reactions. | `slack` `emoji` `icons` |
 | [CraigChat/craig](https://github.com/CraigChat/craig) | TypeScript | 537 | A multi-track voice recording bot for Discord designed for podcasts and interviews. | `discord-bot` `audio-recording` `podcast-tool` `typescript` |
 | [walfie/gbf-raidfinder](https://github.com/walfie/gbf-raidfinder) | Scala | 204 | An archived tool formerly used to find Granblue Fantasy raids via Twitter. | `scala` `granblue-fantasy` `archived` |
 | [lukehorvat/screenshot-tweet](https://github.com/lukehorvat/screenshot-tweet) | JavaScript | 67 | A utility tool designed to capture and save screenshots of specific tweets. | `twitter` `screenshot` `utility` `image` |

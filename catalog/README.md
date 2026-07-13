@@ -1,14 +1,14 @@
 # ⭐ Stars Catalog Index
 
-**351** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
+**352** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
 
-_Last updated: 2026-07-06T10:26:35+00:00_
+_Last updated: 2026-07-13T09:30:41+00:00_
 
 ## Categories
 
 | Category | Count |
 | --- | --: |
-| [AI & LLM Tools](ai-llm-tools.md) | 40 |
+| [AI & LLM Tools](ai-llm-tools.md) | 41 |
 | [CLI & Terminal](cli-terminal.md) | 19 |
 | [System Monitoring](system-monitoring.md) | 12 |
 | [Self-Hosted Apps](self-hosted-apps.md) | 33 |
@@ -30,9 +30,9 @@ _Last updated: 2026-07-06T10:26:35+00:00_
 - **C#** — 55
 - **Python** — 43
 - **Swift** — 21
-- **Go** — 14
-- **—** — 14
-- **C++** — 10
+- **Go** — 16
+- **—** — 13
+- **C++** — 11
 - **Rust** — 8
 - **Jupyter Notebook** — 5
 - **Vue** — 5
@@ -40,6 +40,7 @@ _Last updated: 2026-07-06T10:26:35+00:00_
 
 ## Recently starred (latest 15)
 
+- `2026-07-06` [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) — AI & LLM Tools
 - `2026-07-05` [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) — AI & LLM Tools
 - `2026-07-02` [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) — CLI & Terminal
 - `2026-07-02` [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) — CLI & Terminal
@@ -54,4 +55,3 @@ _Last updated: 2026-07-06T10:26:35+00:00_
 - `2026-06-13` [papra-hq/papra](https://github.com/papra-hq/papra) — Self-Hosted Apps
 - `2026-06-12` [voidauth/voidauth](https://github.com/voidauth/voidauth) — Security & Secrets
 - `2026-06-12` [louislam/dockge](https://github.com/louislam/dockge) — Self-Hosted Apps
-- `2026-06-07` [imputnet/helium](https://github.com/imputnet/helium) — Mobile & Desktop Apps

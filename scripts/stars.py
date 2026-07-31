@@ -120,20 +120,36 @@ def main() -> int:
             print(f"  {len(missed)} repo(s) left uncategorized (retried next run).",
                   file=sys.stderr)
 
-    # Persist.
+    # Persist. A polling run with identical visible data should be a true no-op so
+    # it does not create a commit and trigger an unnecessary Pages deployment.
+    previous_meta = db.get("meta", {})
+    visible_meta = {
+        "user": user,
+        "count": len(repos),
+        "model": model,
+    }
+    visible_meta_changed = any(previous_meta.get(key) != value
+                               for key, value in visible_meta.items())
+    generated_at = (
+        now if repos != stored or visible_meta_changed
+        else previous_meta.get("generated_at", now)
+    )
+    meta = {
+        "user": user,
+        "generated_at": generated_at,
+        "count": len(repos),
+        "model": model,
+    }
     db = {
-        "meta": {
-            "user": user,
-            "generated_at": now,
-            "count": len(repos),
-            "model": model,
-        },
+        "meta": meta,
         "repos": repos,
     }
     write_stars(db)
 
     # Rebuild catalog from the fresh database.
-    catalog_mod.generate(STARS_PATH, categories, CATALOG_DIR, user, now)
+    catalog_mod.generate(
+        STARS_PATH, categories, CATALOG_DIR, user, meta["generated_at"]
+    )
 
     # Refresh the Pages site data (docs/data.json).
     catalog_mod.write_site_data(STARS_PATH, ROOT / "docs", db["meta"])

@@ -8,15 +8,15 @@ _System/hardware monitors, resource dashboards, menu-bar stats, benchmarking, an
 
 | Repository | Language | ★ | Summary | Tags |
 | --- | --- | --: | --- | --- |
-| [exelban/stats](https://github.com/exelban/stats) | Swift | 40,803 | A comprehensive macOS system monitor that lives in the menu bar. | `macos` `menubar` `system-monitor` `swift` |
-| [aristocratos/btop](https://github.com/aristocratos/btop) | C++ | 33,656 | A stylish and interactive terminal-based resource monitor for CPU, memory, and disks. | `tui` `resource-monitor` `system-stats` `cpp` |
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | 19,149 | A menu bar utility to monitor usage statistics for OpenAI Codex and Claude Code. | `openai-codex` `claude-code` `stats` `macos` |
-| [upptime/upptime](https://github.com/upptime/upptime) | Markdown | 17,104 | A GitHub Actions powered uptime monitor and status page generator for tracking service availability. | `uptime` `status-page` `github-actions` `monitoring` |
-| [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) | Svelte | 9,192 | A fast, cross-platform system monitor built with Rust, Tauri, and Svelte. | `htop` `rust` `dashboard` |
-| [mrdoob/stats.js](https://github.com/mrdoob/stats.js) | JavaScript | 9,137 | A lightweight JavaScript performance monitor for tracking frame rates and memory usage. | `performance` `fps` `javascript` `benchmarking` |
-| [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | 4,184 | A desktop application built with Tauri to monitor the status of AI Codex services. | `ai-monitoring` `tauri` `cross-platform` |
-| [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) | JavaScript | 3,669 | A pure JavaScript HTML5 network performance and speed estimation tool. | `speedtest` `network` `html5` |
-| [context-labs/mactop](https://github.com/context-labs/mactop) | Go | 2,320 | A terminal-based resource monitor specifically designed for Apple Silicon hardware. | `macos` `apple-silicon` `terminal` `tui` |
+| [exelban/stats](https://github.com/exelban/stats) | Swift | 40,947 | A comprehensive macOS system monitor that lives in the menu bar. | `macos` `menubar` `system-monitor` `swift` |
+| [aristocratos/btop](https://github.com/aristocratos/btop) | C++ | 33,785 | A stylish and interactive terminal-based resource monitor for CPU, memory, and disks. | `tui` `resource-monitor` `system-stats` `cpp` |
+| [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | 19,558 | A menu bar utility to monitor usage statistics for OpenAI Codex and Claude Code. | `openai-codex` `claude-code` `stats` `macos` |
+| [upptime/upptime](https://github.com/upptime/upptime) | Markdown | 17,109 | A GitHub Actions powered uptime monitor and status page generator for tracking service availability. | `uptime` `status-page` `github-actions` `monitoring` |
+| [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) | Svelte | 9,215 | A fast, cross-platform system monitor built with Rust, Tauri, and Svelte. | `htop` `rust` `dashboard` |
+| [mrdoob/stats.js](https://github.com/mrdoob/stats.js) | JavaScript | 9,141 | A lightweight JavaScript performance monitor for tracking frame rates and memory usage. | `performance` `fps` `javascript` `benchmarking` |
+| [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) | TypeScript | 4,202 | A desktop application built with Tauri to monitor the status of AI Codex services. | `ai-monitoring` `tauri` `cross-platform` |
+| [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) | JavaScript | 3,687 | A pure JavaScript HTML5 network performance and speed estimation tool. | `speedtest` `network` `html5` |
+| [context-labs/mactop](https://github.com/context-labs/mactop) | Go | 2,324 | A terminal-based resource monitor specifically designed for Apple Silicon hardware. | `macos` `apple-silicon` `terminal` `tui` |
 | [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) | PHP | 1,646 | A self-hosted application that continuously tracks and graphs internet connection speeds. | `speedtest` `network` `monitoring` `dashboard` |
-| [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) | Python | 1,200 | A utility to read undocumented accelerometer and gyroscope data on Apple Silicon MacBooks. | `apple-silicon` `sensors` `macos` `hardware` |
-| [kennss/SiliconScope](https://github.com/kennss/SiliconScope) | Swift | 801 | A native SwiftUI system monitor for Apple Silicon tracking bandwidth and neural engines. | `apple-silicon` `macos` `gpu-monitor` `swiftui` |
+| [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) | Python | 1,202 | A utility to read undocumented accelerometer and gyroscope data on Apple Silicon MacBooks. | `apple-silicon` `sensors` `macos` `hardware` |
+| [kennss/SiliconScope](https://github.com/kennss/SiliconScope) | Swift | 810 | A native SwiftUI system monitor for Apple Silicon tracking bandwidth and neural engines. | `apple-silicon` `macos` `gpu-monitor` `swiftui` |

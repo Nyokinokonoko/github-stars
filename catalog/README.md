@@ -2,7 +2,7 @@
 
 **352** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
 
-_Last updated: 2026-07-27T09:54:59+00:00_
+_Last updated: 2026-08-03T09:48:24+00:00_
 
 ## Categories
 
@@ -31,8 +31,8 @@ _Last updated: 2026-07-27T09:54:59+00:00_
 - **Python** — 43
 - **Swift** — 21
 - **Go** — 16
-- **—** — 13
-- **C++** — 11
+- **—** — 14
+- **C++** — 10
 - **Rust** — 8
 - **Jupyter Notebook** — 5
 - **Vue** — 5

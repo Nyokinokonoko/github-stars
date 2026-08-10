@@ -1,8 +1,8 @@
 # ⭐ Stars Catalog Index
 
-**352** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
+**353** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
 
-_Last updated: 2026-08-03T09:48:24+00:00_
+_Last updated: 2026-08-10T06:34:22+00:00_
 
 ## Categories
 
@@ -15,7 +15,7 @@ _Last updated: 2026-08-03T09:48:24+00:00_
 | [Developer Tools](developer-tools.md) | 35 |
 | [Web & Frontend](web-frontend.md) | 34 |
 | [Mobile & Desktop Apps](mobile-desktop-apps.md) | 26 |
-| [Game Dev & Unity](game-dev-unity.md) | 57 |
+| [Game Dev & Unity](game-dev-unity.md) | 58 |
 | [Libraries & SDKs](libraries-sdks.md) | 40 |
 | [Security & Secrets](security-secrets.md) | 6 |
 | [Blogs, Themes & Static Sites](blogs-themes-static-sites.md) | 8 |
@@ -25,7 +25,7 @@ _Last updated: 2026-08-03T09:48:24+00:00_
 
 ## Top languages
 
-- **TypeScript** — 68
+- **TypeScript** — 69
 - **JavaScript** — 57
 - **C#** — 55
 - **Python** — 43
@@ -40,6 +40,7 @@ _Last updated: 2026-08-03T09:48:24+00:00_
 
 ## Recently starred (latest 15)
 
+- `2026-08-03` [arita-yuto/unity-buildlayout-viewer](https://github.com/arita-yuto/unity-buildlayout-viewer) — Game Dev & Unity
 - `2026-07-06` [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) — AI & LLM Tools
 - `2026-07-05` [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) — AI & LLM Tools
 - `2026-07-02` [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) — CLI & Terminal
@@ -54,4 +55,3 @@ _Last updated: 2026-08-03T09:48:24+00:00_
 - `2026-06-17` [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) — Developer Tools
 - `2026-06-13` [papra-hq/papra](https://github.com/papra-hq/papra) — Self-Hosted Apps
 - `2026-06-12` [voidauth/voidauth](https://github.com/voidauth/voidauth) — Security & Secrets
-- `2026-06-12` [louislam/dockge](https://github.com/louislam/dockge) — Self-Hosted Apps

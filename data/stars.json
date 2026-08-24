@@ -1,7 +1,7 @@
 {
   "meta": {
     "user": "nyokinokonoko",
-    "generated_at": "2026-08-17T06:57:24+00:00",
+    "generated_at": "2026-08-24T07:00:19+00:00",
     "count": 353,
     "model": "google/gemini-3-flash-preview"
   },
@@ -30,7 +30,7 @@
       "url": "https://github.com/tomasz-tomczyk/crit",
       "description": "Your feedback loop with the agent",
       "language": "Go",
-      "stars": 906,
+      "stars": 939,
       "topics": [
         "agentic-coding",
         "ai-agents",
@@ -58,7 +58,7 @@
       "url": "https://github.com/MrLesk/Backlog.md",
       "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
       "language": "TypeScript",
-      "stars": 6478,
+      "stars": 6531,
       "topics": [
         "agent",
         "agentic-ai",
@@ -85,7 +85,7 @@
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
-      "stars": 24229,
+      "stars": 24347,
       "topics": [
         "bsdfetch",
         "command-line",
@@ -115,7 +115,7 @@
       "url": "https://github.com/sharkdp/hyperfine",
       "description": "A command-line benchmarking tool",
       "language": "Rust",
-      "stars": 28662,
+      "stars": 28716,
       "topics": [
         "benchmark",
         "cli",
@@ -141,7 +141,7 @@
       "url": "https://github.com/Textualize/rich",
       "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
       "language": "Python",
-      "stars": 57074,
+      "stars": 57141,
       "topics": [
         "ansi-colors",
         "emoji",
@@ -177,7 +177,7 @@
       "url": "https://github.com/charmbracelet/bubbletea",
       "description": "A powerful little TUI framework 🏗",
       "language": "Go",
-      "stars": 44400,
+      "stars": 44514,
       "topics": [
         "cli",
         "elm-architecture",
@@ -205,7 +205,7 @@
       "url": "https://github.com/khoj-ai/khoj",
       "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
       "language": "Python",
-      "stars": 36519,
+      "stars": 36686,
       "topics": [
         "agent",
         "ai",
@@ -245,7 +245,7 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 27287,
+      "stars": 27468,
       "topics": [],
       "starred_at": "2026-06-25T15:00:55Z",
       "category": "AI & LLM Tools",
@@ -264,7 +264,7 @@
       "url": "https://github.com/exelban/stats",
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
-      "stars": 41231,
+      "stars": 41394,
       "topics": [
         "battery",
         "bluetooth",
@@ -298,7 +298,7 @@
       "url": "https://github.com/klaudiosinani/signale",
       "description": "Highly configurable logging library",
       "language": "JavaScript",
-      "stars": 9177,
+      "stars": 9176,
       "topics": [
         "cli",
         "console",
@@ -324,7 +324,7 @@
       "url": "https://github.com/kennss/SiliconScope",
       "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
       "language": "Swift",
-      "stars": 835,
+      "stars": 885,
       "topics": [
         "apple-silicon",
         "gpu",
@@ -359,7 +359,7 @@
       "url": "https://github.com/reviewdog/reviewdog",
       "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
       "language": "Go",
-      "stars": 9527,
+      "stars": 9548,
       "topics": [
         "bitbucket",
         "ci",
@@ -392,7 +392,7 @@
       "url": "https://github.com/papra-hq/papra",
       "description": "The minimalistic document archiving platform.",
       "language": "TypeScript",
-      "stars": 5204,
+      "stars": 5233,
       "topics": [
         "app",
         "archive",
@@ -417,7 +417,7 @@
       "url": "https://github.com/voidauth/voidauth",
       "description": "Single Sign-On for Your Self-Hosted Universe",
       "language": "TypeScript",
-      "stars": 2465,
+      "stars": 2473,
       "topics": [
         "authentication",
         "docker",
@@ -445,7 +445,7 @@
       "url": "https://github.com/louislam/dockge",
       "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
       "language": "TypeScript",
-      "stars": 24083,
+      "stars": 24138,
       "topics": [
         "docker",
         "docker-compose",
@@ -478,7 +478,7 @@
       "url": "https://github.com/imputnet/helium",
       "description": "Private, fast, and honest web browser",
       "language": "C++",
-      "stars": 19477,
+      "stars": 19807,
       "topics": [
         "browser",
         "chromium",
@@ -502,7 +502,7 @@
       "url": "https://github.com/software-mansion-labs/react-native-bottom-sheet",
       "description": "Provides bottom-sheet components for React Native.",
       "language": "TypeScript",
-      "stars": 424,
+      "stars": 429,
       "topics": [],
       "starred_at": "2026-05-28T15:25:40Z",
       "category": "Web & Frontend",
@@ -521,7 +521,7 @@
       "url": "https://github.com/yui540/comimi",
       "description": "Open-source comic reader library for JS/TS",
       "language": "TypeScript",
-      "stars": 419,
+      "stars": 451,
       "topics": [],
       "starred_at": "2026-05-24T17:47:51Z",
       "category": "Libraries & SDKs",
@@ -563,7 +563,7 @@
       "url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
       "language": "Rust",
-      "stars": 30408,
+      "stars": 30528,
       "topics": [
         "agent-skills",
         "ai-agent",
@@ -599,7 +599,7 @@
       "url": "https://github.com/caelestia-dots/shell",
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
-      "stars": 11330,
+      "stars": 11593,
       "topics": [
         "caelestia",
         "dotfiles",
@@ -646,7 +646,7 @@
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
       "language": "Python",
-      "stars": 1214,
+      "stars": 1219,
       "topics": [
         "accelerometer",
         "apple",
@@ -681,7 +681,7 @@
       "url": "https://github.com/lifemate-ai/embodied-claude",
       "description": "Claudeに身体性を与えるMCP群",
       "language": "Python",
-      "stars": 376,
+      "stars": 377,
       "topics": [],
       "starred_at": "2026-02-21T10:48:19Z",
       "category": "AI & LLM Tools",
@@ -700,7 +700,7 @@
       "url": "https://github.com/DebugSwift/DebugSwift",
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
-      "stars": 2375,
+      "stars": 2381,
       "topics": [
         "analysis",
         "analytics",
@@ -772,7 +772,7 @@
       "url": "https://github.com/steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
-      "stars": 20198,
+      "stars": 20514,
       "topics": [
         "ai",
         "claude-code",
@@ -796,7 +796,7 @@
       "url": "https://github.com/Dimillian/CodexMonitor",
       "description": "An app to monitor the (Codex) situation",
       "language": "TypeScript",
-      "stars": 4234,
+      "stars": 4250,
       "topics": [
         "ai",
         "codex",
@@ -820,7 +820,7 @@
       "url": "https://github.com/yoshiko-pg/difit",
       "description": "A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view",
       "language": "TypeScript",
-      "stars": 3066,
+      "stars": 3093,
       "topics": [],
       "starred_at": "2026-01-04T14:21:19Z",
       "category": "Developer Tools",
@@ -839,7 +839,7 @@
       "url": "https://github.com/karpathy/llm-council",
       "description": "LLM Council works together to answer your hardest questions",
       "language": "Python",
-      "stars": 24095,
+      "stars": 24292,
       "topics": [],
       "starred_at": "2025-11-25T13:27:55Z",
       "category": "AI & LLM Tools",
@@ -858,13 +858,14 @@
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "language": "Python",
-      "stars": 12568,
+      "stars": 12677,
       "topics": [
+        "ai",
+        "anthropic",
         "code-review",
-        "codereview",
         "coding-assistant",
         "devtools",
-        "gpt-4",
+        "ollama",
         "openai",
         "pull-request",
         "pull-requests"
@@ -886,7 +887,7 @@
       "url": "https://github.com/Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "language": "C",
-      "stars": 147787,
+      "stars": 148158,
       "topics": [
         "android",
         "c",
@@ -913,7 +914,7 @@
       "url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
-      "stars": 189227,
+      "stars": 189338,
       "topics": [
         "cli",
         "cli-app",
@@ -948,7 +949,7 @@
       "url": "https://github.com/SBoudrias/Inquirer.js",
       "description": "A collection of common interactive command line user interfaces.",
       "language": "TypeScript",
-      "stars": 21615,
+      "stars": 21616,
       "topics": [
         "cli",
         "command-line",
@@ -1001,7 +1002,7 @@
       "url": "https://github.com/wulkano/Kap",
       "description": "An open-source screen recorder built with web technology",
       "language": "TypeScript",
-      "stars": 19326,
+      "stars": 19334,
       "topics": [
         "aperture",
         "app",
@@ -1037,7 +1038,7 @@
       "url": "https://github.com/NvChad/NvChad",
       "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
       "language": "Lua",
-      "stars": 28440,
+      "stars": 28439,
       "topics": [
         "dotfiles",
         "hacktoberfest",
@@ -1076,7 +1077,7 @@
       "url": "https://github.com/transloadit/uppy",
       "description": "The next open source file uploader for web browsers :dog: ",
       "language": "TypeScript",
-      "stars": 30923,
+      "stars": 30928,
       "topics": [
         "dropbox",
         "encoding",
@@ -1113,7 +1114,7 @@
       "url": "https://github.com/firstcontributions/first-contributions",
       "description": "🚀✨ Help beginners to contribute to open source projects",
       "language": "",
-      "stars": 55527,
+      "stars": 55642,
       "topics": [
         "beginner",
         "beginner-friendly",
@@ -1143,7 +1144,7 @@
       "url": "https://github.com/blinkospace/blinko",
       "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
       "language": "TypeScript",
-      "stars": 10877,
+      "stars": 10943,
       "topics": [
         "markdown",
         "memos",
@@ -1171,7 +1172,7 @@
       "url": "https://github.com/0x2E/fusion",
       "description": "A lightweight, self-hosted friendly RSS reader",
       "language": "TypeScript",
-      "stars": 2156,
+      "stars": 2168,
       "topics": [
         "rss",
         "rss-aggregator",
@@ -1195,7 +1196,7 @@
       "url": "https://github.com/denho/faved",
       "description": "Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.",
       "language": "TypeScript",
-      "stars": 1263,
+      "stars": 1276,
       "topics": [
         "bookmark-manager",
         "bookmarking",
@@ -1231,7 +1232,7 @@
       "url": "https://github.com/Infisical/infisical",
       "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
       "language": "TypeScript",
-      "stars": 28801,
+      "stars": 28918,
       "topics": [
         "acme",
         "certificate-management",
@@ -1271,7 +1272,7 @@
       "url": "https://github.com/charmbracelet/vhs",
       "description": "Your CLI home video recorder 📼",
       "language": "Go",
-      "stars": 20650,
+      "stars": 20700,
       "topics": [
         "ascii",
         "cli",
@@ -1299,7 +1300,7 @@
       "url": "https://github.com/chrismwilliams/astro-theme-cactus",
       "description": "A simple Astro theme. Use it to create your blog or website.",
       "language": "Astro",
-      "stars": 1712,
+      "stars": 1719,
       "topics": [
         "astro",
         "astro-template",
@@ -1332,7 +1333,7 @@
       "url": "https://github.com/saicaca/fuwari",
       "description": "✨A static blog template built with Astro. ",
       "language": "Astro",
-      "stars": 4919,
+      "stars": 4940,
       "topics": [
         "astro",
         "astro-theme",
@@ -1362,7 +1363,7 @@
       "url": "https://github.com/openai/openai-responses-starter-app",
       "description": "Starter app to build with the OpenAI Responses API",
       "language": "TypeScript",
-      "stars": 859,
+      "stars": 860,
       "topics": [],
       "starred_at": "2025-08-24T13:04:10Z",
       "category": "AI & LLM Tools",
@@ -1381,7 +1382,7 @@
       "url": "https://github.com/sqshq/sampler",
       "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
       "language": "Go",
-      "stars": 14782,
+      "stars": 14789,
       "topics": [
         "alerting",
         "charts",
@@ -1412,7 +1413,7 @@
       "url": "https://github.com/ibelick/prompt-kit",
       "description": "Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.",
       "language": "TypeScript",
-      "stars": 2980,
+      "stars": 2995,
       "topics": [
         "ai",
         "components",
@@ -1439,7 +1440,7 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 47969,
+      "stars": 48323,
       "topics": [
         "ai-companion",
         "ai-vtuber",
@@ -1469,7 +1470,7 @@
       "url": "https://github.com/tegnike/aituber-kit",
       "description": "A web application for chatting with AI characters that anyone can easily set up and deploy.",
       "language": "TypeScript",
-      "stars": 1054,
+      "stars": 1053,
       "topics": [],
       "starred_at": "2025-08-01T12:51:00Z",
       "category": "AI & LLM Tools",
@@ -1511,7 +1512,7 @@
       "url": "https://github.com/9001/copyparty",
       "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
       "language": "Python",
-      "stars": 46241,
+      "stars": 46343,
       "topics": [
         "copyparty",
         "file-server",
@@ -1538,7 +1539,7 @@
       "url": "https://github.com/microsoft/playwright-mcp",
       "description": "Playwright MCP server",
       "language": "TypeScript",
-      "stars": 36191,
+      "stars": 36410,
       "topics": [
         "mcp",
         "playwright"
@@ -1595,7 +1596,7 @@
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
-      "stars": 71730,
+      "stars": 71815,
       "topics": [
         "marshalling",
         "protobuf",
@@ -1622,7 +1623,7 @@
       "url": "https://github.com/google/zx",
       "description": "A tool for writing better scripts",
       "language": "JavaScript",
-      "stars": 45668,
+      "stars": 45701,
       "topics": [
         "bash",
         "child-process",
@@ -1650,7 +1651,7 @@
       "url": "https://github.com/textlint-ja/textlint-rule-preset-ai-writing",
       "description": "textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集",
       "language": "TypeScript",
-      "stars": 1097,
+      "stars": 1100,
       "topics": [],
       "starred_at": "2025-06-30T05:38:16Z",
       "category": "Developer Tools",
@@ -1668,7 +1669,7 @@
       "url": "https://github.com/ccusage/ccusage",
       "description": "npx ccusage",
       "language": "Rust",
-      "stars": 17967,
+      "stars": 18132,
       "topics": [],
       "starred_at": "2025-06-10T15:32:13Z",
       "category": "CLI & Terminal",
@@ -1686,7 +1687,7 @@
       "url": "https://github.com/Abdenasser/neohtop",
       "description": "💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",
       "language": "Svelte",
-      "stars": 9293,
+      "stars": 9311,
       "topics": [
         "activity",
         "btop",
@@ -1713,7 +1714,7 @@
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars": 65697,
+      "stars": 65807,
       "topics": [
         "browser",
         "browser-engine"
@@ -1734,7 +1735,7 @@
       "url": "https://github.com/mindverse/Second-Me",
       "description": "Train your AI self, amplify you, bridge the world",
       "language": "Python",
-      "stars": 15664,
+      "stars": 15669,
       "topics": [],
       "starred_at": "2025-03-24T23:29:04Z",
       "category": "AI & LLM Tools",
@@ -1753,7 +1754,7 @@
       "url": "https://github.com/binwiederhier/ntfy",
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
-      "stars": 33553,
+      "stars": 33714,
       "topics": [
         "curl",
         "notifications",
@@ -1780,7 +1781,7 @@
       "url": "https://github.com/diced/zipline",
       "description": "A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!",
       "language": "TypeScript",
-      "stars": 3362,
+      "stars": 3383,
       "topics": [
         "docker",
         "file-server",
@@ -1813,7 +1814,7 @@
       "url": "https://github.com/ellite/Wallos",
       "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
       "language": "PHP",
-      "stars": 8362,
+      "stars": 8392,
       "topics": [
         "budgeting",
         "docker",
@@ -1839,7 +1840,7 @@
       "url": "https://github.com/glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
-      "stars": 36413,
+      "stars": 36563,
       "topics": [
         "aggregator",
         "dashboard",
@@ -1873,7 +1874,7 @@
       "url": "https://github.com/karakeep-app/karakeep",
       "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
       "language": "TypeScript",
-      "stars": 28396,
+      "stars": 28570,
       "topics": [
         "bookmark-manager",
         "bookmarks",
@@ -1900,7 +1901,7 @@
       "url": "https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity",
       "description": "VMCProtocol Receiver asset for Unity. Easy to use! / バーチャルモーションキャプチャーなどVMCProtocolを受信してUnityに反映するスクリプトです。",
       "language": "C#",
-      "stars": 450,
+      "stars": 449,
       "topics": [
         "osc",
         "unity",
@@ -1947,7 +1948,7 @@
       "url": "https://github.com/Anduin2017/HowToCook",
       "description": "Programmer's guide about how to cook at home.",
       "language": "",
-      "stars": 101854,
+      "stars": 101941,
       "topics": [
         "chinese",
         "cookbook",
@@ -1972,7 +1973,7 @@
       "url": "https://github.com/Qexo/Qexo",
       "description": "A fast, powerful and beautiful online manager for all static blog frameworks. ",
       "language": "Python",
-      "stars": 1952,
+      "stars": 1955,
       "topics": [
         "blog",
         "hexo",
@@ -1995,7 +1996,7 @@
       "url": "https://github.com/liriliri/aya",
       "description": "Android ADB desktop app",
       "language": "TypeScript",
-      "stars": 5356,
+      "stars": 5390,
       "topics": [
         "adb",
         "android",
@@ -2019,7 +2020,7 @@
       "url": "https://github.com/Haruma-K/UnityDebugSheet",
       "description": "Hierarchical debug menu system for Unity that makes it easy to create intuitive and organized debug menus.",
       "language": "C#",
-      "stars": 569,
+      "stars": 575,
       "topics": [],
       "starred_at": "2024-12-02T08:37:05Z",
       "category": "Game Dev & Unity",
@@ -2057,7 +2058,7 @@
       "url": "https://github.com/Fechin/reference",
       "description": "⭕ Share quick reference cheat sheet for developers.",
       "language": "EJS",
-      "stars": 10782,
+      "stars": 10799,
       "topics": [
         "awk",
         "bash",
@@ -2091,7 +2092,7 @@
       "url": "https://github.com/AykutSarac/jsoncrack.com",
       "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
       "language": "TypeScript",
-      "stars": 44291,
+      "stars": 44330,
       "topics": [
         "csv",
         "diagrams",
@@ -2120,7 +2121,7 @@
       "url": "https://github.com/localsend/localsend",
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
-      "stars": 88508,
+      "stars": 89181,
       "topics": [
         "dart",
         "file-sharing",
@@ -2144,7 +2145,7 @@
       "url": "https://github.com/notAI-tech/NudeNet",
       "description": "Lightweight nudity detection",
       "language": "Python",
-      "stars": 2430,
+      "stars": 2432,
       "topics": [
         "censorship",
         "javascript",
@@ -2279,7 +2280,7 @@
       "url": "https://github.com/is-a-dev/register",
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
-      "stars": 10988,
+      "stars": 11056,
       "topics": [
         "cloudflare",
         "dev",
@@ -2313,7 +2314,7 @@
       "url": "https://github.com/kirevdokimov/Unity-UI-Rounded-Corners",
       "description": "These components and shaders allow you to add rounded corners to UI elements!",
       "language": "C#",
-      "stars": 1738,
+      "stars": 1740,
       "topics": [
         "c-sharp",
         "cg",
@@ -2362,7 +2363,7 @@
       "url": "https://github.com/docmost/docmost",
       "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
       "language": "TypeScript",
-      "stars": 21379,
+      "stars": 21450,
       "topics": [
         "confluence",
         "documentation",
@@ -2395,7 +2396,7 @@
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
-      "stars": 75678,
+      "stars": 75837,
       "topics": [
         "api",
         "cplusplus",
@@ -2430,7 +2431,7 @@
       "url": "https://github.com/dotenvx/dotenvx",
       "description": "a secure dotenv–from the creator of `dotenv`",
       "language": "JavaScript",
-      "stars": 5684,
+      "stars": 5700,
       "topics": [
         "cli",
         "configuration-file",
@@ -2489,7 +2490,7 @@
       "url": "https://github.com/timvisee/send",
       "description": ":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send",
       "language": "JavaScript",
-      "stars": 5857,
+      "stars": 5860,
       "topics": [
         "encryption",
         "file-sharing",
@@ -2565,7 +2566,7 @@
       "url": "https://github.com/BasisVR/Basis",
       "description": "Basis is an open-source social framework for VR and Desktop usage.",
       "language": "C#",
-      "stars": 476,
+      "stars": 477,
       "topics": [
         "gamedev",
         "unity",
@@ -2647,7 +2648,7 @@
       "url": "https://github.com/context-labs/mactop",
       "description": "mactop - Apple Silicon Monitor Top",
       "language": "Go",
-      "stars": 2327,
+      "stars": 2329,
       "topics": [
         "apple",
         "apple-silicon",
@@ -2680,7 +2681,7 @@
       "url": "https://github.com/Cysharp/MagicOnion",
       "description": "Unified Realtime/API framework for .NET platform and Unity.",
       "language": "C#",
-      "stars": 4440,
+      "stars": 4441,
       "topics": [
         "c-sharp",
         "grpc",
@@ -2706,7 +2707,7 @@
       "url": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
       "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
       "language": "C#",
-      "stars": 6770,
+      "stars": 6772,
       "topics": [
         "c-sharp",
         "lz4",
@@ -2760,7 +2761,7 @@
       "url": "https://github.com/Cysharp/UniTask",
       "description": "Provides an efficient allocation free async/await integration for Unity.",
       "language": "C#",
-      "stars": 11121,
+      "stars": 11143,
       "topics": [
         "coroutine",
         "csharp",
@@ -2785,7 +2786,7 @@
       "url": "https://github.com/spoiledcat/git-for-unity",
       "description": "",
       "language": "JavaScript",
-      "stars": 687,
+      "stars": 688,
       "topics": [],
       "starred_at": "2024-06-01T17:28:50Z",
       "category": "Developer Tools",
@@ -2803,7 +2804,7 @@
       "url": "https://github.com/nunocoracao/blowfish",
       "description": "Personal Website & Blog Theme for Hugo",
       "language": "HTML",
-      "stars": 2867,
+      "stars": 2878,
       "topics": [
         "blog",
         "blog-theme",
@@ -2834,7 +2835,7 @@
       "url": "https://github.com/adityatelange/hugo-PaperMod",
       "description": " A fast, clean, responsive Hugo theme.",
       "language": "HTML",
-      "stars": 13843,
+      "stars": 13851,
       "topics": [
         "blog",
         "blog-theme",
@@ -2910,7 +2911,7 @@
       "url": "https://github.com/litagin02/Style-Bert-VITS2",
       "description": "Style-Bert-VITS2: Bert-VITS2 with more controllable voice styles.",
       "language": "Python",
-      "stars": 1357,
+      "stars": 1359,
       "topics": [
         "bert-vits2",
         "text-to-speech"
@@ -2961,7 +2962,7 @@
       "url": "https://github.com/unjs/consola",
       "description": "🐨 Elegant Console Logger for Node.js and Browser ",
       "language": "TypeScript",
-      "stars": 7319,
+      "stars": 7321,
       "topics": [
         "cli",
         "console",
@@ -2986,7 +2987,7 @@
       "url": "https://github.com/unjs/ofetch",
       "description": "😱 A better fetch API. Works everywhere.",
       "language": "TypeScript",
-      "stars": 5348,
+      "stars": 5350,
       "topics": [],
       "starred_at": "2024-04-02T13:13:08Z",
       "category": "Libraries & SDKs",
@@ -3028,7 +3029,7 @@
       "url": "https://github.com/googleapis/release-please",
       "description": "generate release PRs based on the conventionalcommits.org spec",
       "language": "TypeScript",
-      "stars": 7351,
+      "stars": 7385,
       "topics": [],
       "starred_at": "2024-03-19T13:04:28Z",
       "category": "Developer Tools",
@@ -3064,7 +3065,7 @@
       "url": "https://github.com/typicode/lowdb",
       "description": "Simple and fast JSON database",
       "language": "JavaScript",
-      "stars": 22571,
+      "stars": 22575,
       "topics": [
         "database",
         "electron",
@@ -3165,7 +3166,7 @@
       "url": "https://github.com/sissbruecker/linkding",
       "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
       "language": "Python",
-      "stars": 11067,
+      "stars": 11096,
       "topics": [
         "bookmark-manager",
         "bookmark-service",
@@ -3188,7 +3189,7 @@
       "url": "https://github.com/dgtlmoon/changedetection.io",
       "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
       "language": "Python",
-      "stars": 33198,
+      "stars": 33316,
       "topics": [
         "back-in-stock",
         "change-alert",
@@ -3227,7 +3228,7 @@
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars": 110800,
+      "stars": 112507,
       "topics": [
         "backup-tool",
         "flutter",
@@ -3262,7 +3263,7 @@
       "url": "https://github.com/githubnext/monaspace",
       "description": "An innovative superfamily of fonts for code",
       "language": "Shell",
-      "stars": 19556,
+      "stars": 19578,
       "topics": [
         "font",
         "fonts",
@@ -3286,7 +3287,7 @@
       "url": "https://github.com/rajnandan1/kener",
       "description": "Stunning status pages, batteries included!",
       "language": "Svelte",
-      "stars": 5109,
+      "stars": 5127,
       "topics": [
         "awesome-list",
         "docker",
@@ -3315,7 +3316,7 @@
       "url": "https://github.com/maybe-finance/maybe",
       "description": "The personal finance app for everyone",
       "language": "Ruby",
-      "stars": 54324,
+      "stars": 54314,
       "topics": [
         "finance",
         "hotwire",
@@ -3366,7 +3367,7 @@
       "url": "https://github.com/wanasit/chrono",
       "description": "A natural language date parser in Javascript",
       "language": "TypeScript",
-      "stars": 5266,
+      "stars": 5269,
       "topics": [],
       "starred_at": "2023-12-24T15:09:56Z",
       "category": "Libraries & SDKs",
@@ -3385,7 +3386,7 @@
       "url": "https://github.com/komodojp/tinyld",
       "description": "Simple and Performant Language detection library for NodeJS",
       "language": "TypeScript",
-      "stars": 473,
+      "stars": 474,
       "topics": [
         "classification",
         "detection",
@@ -3413,7 +3414,7 @@
       "url": "https://github.com/Siv3D/OpenSiv3D",
       "description": "C++20 framework for creative coding 🎮🎨🎹 / Cross-platform support (Windows, macOS, Linux, and the Web) ",
       "language": "C++",
-      "stars": 1179,
+      "stars": 1180,
       "topics": [
         "c-plus-plus",
         "cpp",
@@ -3441,7 +3442,7 @@
       "url": "https://github.com/upscayl/upscayl",
       "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
       "language": "TypeScript",
-      "stars": 48379,
+      "stars": 48723,
       "topics": [
         "ai",
         "electron",
@@ -3472,7 +3473,7 @@
       "url": "https://github.com/mrishab/google-photos-delete-tool",
       "description": "Tool for deleting all photos from the Google Photos",
       "language": "JavaScript",
-      "stars": 1554,
+      "stars": 1552,
       "topics": [],
       "starred_at": "2023-09-10T23:23:11Z",
       "category": "Other",
@@ -3529,7 +3530,7 @@
       "url": "https://github.com/novuhq/novu",
       "description": "The open-source communication infrastructure for agents and products",
       "language": "TypeScript",
-      "stars": 39592,
+      "stars": 39655,
       "topics": [
         "agents",
         "communication",
@@ -3588,7 +3589,7 @@
       "url": "https://github.com/exyte/ActivityIndicatorView",
       "description": "A number of preset loading indicators created with SwiftUI",
       "language": "Swift",
-      "stars": 1662,
+      "stars": 1663,
       "topics": [
         "swiftui",
         "swiftui-components",
@@ -3630,7 +3631,7 @@
       "url": "https://github.com/exyte/PopupView",
       "description": "Toasts and popups library written with SwiftUI",
       "language": "Swift",
-      "stars": 4060,
+      "stars": 4059,
       "topics": [
         "popup",
         "swiftui",
@@ -3655,7 +3656,7 @@
       "url": "https://github.com/jdg/MBProgressHUD",
       "description": "MBProgressHUD + Customizations",
       "language": "Objective-C",
-      "stars": 15935,
+      "stars": 15933,
       "topics": [],
       "starred_at": "2023-06-05T16:27:54Z",
       "category": "Mobile & Desktop Apps",
@@ -3674,7 +3675,7 @@
       "url": "https://github.com/gitleaks/gitleaks",
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
-      "stars": 28764,
+      "stars": 28928,
       "topics": [
         "ai-powered",
         "ci-cd",
@@ -3714,7 +3715,7 @@
       "url": "https://github.com/shapoco/calctus",
       "description": "エンジニア向け Windows 用電卓アプリ",
       "language": "C#",
-      "stars": 552,
+      "stars": 555,
       "topics": [],
       "starred_at": "2023-06-03T15:47:44Z",
       "category": "Mobile & Desktop Apps",
@@ -3756,7 +3757,7 @@
       "url": "https://github.com/openai/shap-e",
       "description": "Generate 3D objects conditioned on text or images",
       "language": "Python",
-      "stars": 12260,
+      "stars": 12261,
       "topics": [],
       "starred_at": "2023-05-08T23:16:26Z",
       "category": "AI & LLM Tools",
@@ -3775,7 +3776,7 @@
       "url": "https://github.com/civitai/sd_civitai_extension",
       "description": "All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI",
       "language": "Python",
-      "stars": 2359,
+      "stars": 2358,
       "topics": [],
       "starred_at": "2023-05-07T07:51:28Z",
       "category": "AI & LLM Tools",
@@ -3794,7 +3795,7 @@
       "url": "https://github.com/SharzyL/pastebin-worker",
       "description": "Pastebin on Cloudflare worker, with friendly CLI usage and rich features",
       "language": "TypeScript",
-      "stars": 1046,
+      "stars": 1047,
       "topics": [
         "cloudflare-worker",
         "pastebin",
@@ -3837,7 +3838,7 @@
       "url": "https://github.com/w-okada/voice-changer",
       "description": "リアルタイムボイスチェンジャー Realtime Voice Changer",
       "language": "Python",
-      "stars": 20811,
+      "stars": 20855,
       "topics": [],
       "starred_at": "2023-04-10T13:45:47Z",
       "category": "AI & LLM Tools",
@@ -3894,7 +3895,7 @@
       "url": "https://github.com/chromium/chromium",
       "description": "The official GitHub mirror of the Chromium source",
       "language": "",
-      "stars": 24536,
+      "stars": 24602,
       "topics": [
         "browser",
         "chromium"
@@ -3954,7 +3955,7 @@
       "url": "https://github.com/Tatamo/atcoder-cli",
       "description": "AtCoder command line tools",
       "language": "TypeScript",
-      "stars": 646,
+      "stars": 647,
       "topics": [
         "atcoder",
         "cli",
@@ -3978,7 +3979,7 @@
       "url": "https://github.com/o2sh/onefetch",
       "description": "Command-line Git information tool",
       "language": "Rust",
-      "stars": 12023,
+      "stars": 12029,
       "topics": [
         "cli",
         "command-line",
@@ -4003,7 +4004,7 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 462304,
+      "stars": 469410,
       "topics": [
         "api",
         "apis",
@@ -4035,7 +4036,7 @@
       "url": "https://github.com/VOICEVOX/voicevox",
       "description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター",
       "language": "TypeScript",
-      "stars": 3219,
+      "stars": 3229,
       "topics": [],
       "starred_at": "2023-03-12T12:51:27Z",
       "category": "Mobile & Desktop Apps",
@@ -4053,7 +4054,7 @@
       "url": "https://github.com/openai/openai-node",
       "description": "Official JavaScript / TypeScript library for the OpenAI API",
       "language": "TypeScript",
-      "stars": 11121,
+      "stars": 11134,
       "topics": [
         "nodejs",
         "openai",
@@ -4093,7 +4094,7 @@
       "url": "https://github.com/ExistentialAudio/BlackHole",
       "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
       "language": "C",
-      "stars": 19568,
+      "stars": 19615,
       "topics": [
         "audio",
         "driver",
@@ -4135,7 +4136,7 @@
       "url": "https://github.com/ddPn08/Radiata",
       "description": "Stable diffusion webui based on diffusers.",
       "language": "Python",
-      "stars": 964,
+      "stars": 963,
       "topics": [
         "stable-diffusion",
         "stable-diffusion-webui",
@@ -4158,7 +4159,7 @@
       "url": "https://github.com/aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
-      "stars": 41726,
+      "stars": 41805,
       "topics": [
         "bittorrent",
         "cpp11",
@@ -4185,7 +4186,7 @@
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
-      "stars": 87761,
+      "stars": 88187,
       "topics": [
         "ai4science",
         "chineseocr",
@@ -4217,7 +4218,7 @@
       "url": "https://github.com/scrapy/scrapy",
       "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
       "language": "Python",
-      "stars": 63880,
+      "stars": 64009,
       "topics": [
         "crawler",
         "crawling",
@@ -4298,7 +4299,7 @@
       "url": "https://github.com/rjsf-team/react-jsonschema-form",
       "description": "A React component for building Web forms from JSON Schema.",
       "language": "TypeScript",
-      "stars": 15865,
+      "stars": 15874,
       "topics": [
         "data-validation",
         "forms",
@@ -4324,7 +4325,7 @@
       "url": "https://github.com/electron/update.electronjs.org",
       "description": "📡 A free service that makes it easy for open-source Electron apps to update themselves.",
       "language": "TypeScript",
-      "stars": 695,
+      "stars": 696,
       "topics": [],
       "starred_at": "2023-01-14T09:42:03Z",
       "category": "Developer Tools",
@@ -4342,10 +4343,10 @@
       "url": "https://github.com/vinta/awesome-python",
       "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
       "language": "Python",
-      "stars": 314357,
+      "stars": 315737,
       "topics": [
         "awesome",
-        "collections",
+        "awesome-list",
         "python",
         "python-frameworks",
         "python-libraries",
@@ -4367,7 +4368,7 @@
       "url": "https://github.com/geolonia/japanese-addresses",
       "description": "全国の町丁目レベル（277,191件）の住所データのオープンデータ",
       "language": "JavaScript",
-      "stars": 769,
+      "stars": 770,
       "topics": [],
       "starred_at": "2023-01-12T10:28:56Z",
       "category": "Learning & Reference",
@@ -4411,7 +4412,7 @@
       "url": "https://github.com/mantinedev/next-pages-template",
       "description": "Mantine + Next.js pages router template",
       "language": "TypeScript",
-      "stars": 509,
+      "stars": 510,
       "topics": [
         "nextjs",
         "react",
@@ -4513,7 +4514,7 @@
       "url": "https://github.com/downshift-js/downshift",
       "description": "🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.",
       "language": "JavaScript",
-      "stars": 12311,
+      "stars": 12309,
       "topics": [
         "accessible",
         "autocomplete",
@@ -4561,7 +4562,7 @@
       "url": "https://github.com/ppy/osu",
       "description": "rhythm is just a *click* away!",
       "language": "C#",
-      "stars": 18871,
+      "stars": 18916,
       "topics": [
         "beatmap",
         "catch",
@@ -4587,7 +4588,7 @@
       "url": "https://github.com/dubinc/dub",
       "description": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
       "language": "TypeScript",
-      "stars": 24468,
+      "stars": 24559,
       "topics": [
         "clickhouse",
         "mysql",
@@ -4647,7 +4648,7 @@
       "url": "https://github.com/openspeedtest/Speed-Test",
       "description": "SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.",
       "language": "JavaScript",
-      "stars": 3736,
+      "stars": 3747,
       "topics": [
         "css",
         "html5",
@@ -4676,7 +4677,7 @@
       "url": "https://github.com/usememos/memos",
       "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
       "language": "Go",
-      "stars": 62292,
+      "stars": 62485,
       "topics": [
         "docker",
         "foss",
@@ -4709,7 +4710,7 @@
       "url": "https://github.com/d2lang/d2",
       "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
       "language": "Go",
-      "stars": 24943,
+      "stars": 25048,
       "topics": [
         "developer-tools",
         "diagramming",
@@ -4736,7 +4737,7 @@
       "url": "https://github.com/szabodanika/microbin",
       "description": "A secure, configurable file-sharing and URL shortening web app written in Rust.",
       "language": "Rust",
-      "stars": 4520,
+      "stars": 4527,
       "topics": [
         "actix",
         "askama",
@@ -4765,7 +4766,7 @@
       "url": "https://github.com/thedevs-network/kutt",
       "description": "Free Modern URL Shortener.",
       "language": "JavaScript",
-      "stars": 11032,
+      "stars": 11048,
       "topics": [
         "link-shortener",
         "shorten-urls",
@@ -4789,7 +4790,7 @@
       "url": "https://github.com/setchi/FancyScrollView",
       "description": "A versatile Unity scroll view component that enables highly flexible animations.",
       "language": "C#",
-      "stars": 3520,
+      "stars": 3521,
       "topics": [
         "csharp",
         "infinite-scroll",
@@ -4846,7 +4847,7 @@
       "url": "https://github.com/strapi/strapi",
       "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
       "language": "TypeScript",
-      "stars": 72943,
+      "stars": 73010,
       "topics": [
         "api",
         "cms",
@@ -4885,7 +4886,7 @@
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
       "language": "Swift",
-      "stars": 16631,
+      "stars": 16629,
       "topics": [
         "iqkeyboardmanager",
         "keyboard",
@@ -4910,7 +4911,7 @@
       "url": "https://github.com/RevenueCat/purchases-ios",
       "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
       "language": "Swift",
-      "stars": 3051,
+      "stars": 3054,
       "topics": [
         "apple",
         "hacktoberfest",
@@ -4941,7 +4942,7 @@
       "url": "https://github.com/openai/whisper",
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
-      "stars": 107415,
+      "stars": 107844,
       "topics": [],
       "starred_at": "2022-09-23T18:50:15Z",
       "category": "AI & LLM Tools",
@@ -4960,7 +4961,7 @@
       "url": "https://github.com/utmapp/UTM",
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
-      "stars": 35031,
+      "stars": 35096,
       "topics": [
         "apple",
         "emulation",
@@ -4989,7 +4990,7 @@
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
       "language": "Swift",
-      "stars": 26838,
+      "stars": 26844,
       "topics": [
         "animation",
         "bodymovin",
@@ -5048,7 +5049,7 @@
       "url": "https://github.com/AppPear/ChartView",
       "description": "ChartView made in SwiftUI",
       "language": "Swift",
-      "stars": 5638,
+      "stars": 5635,
       "topics": [
         "chart",
         "charts",
@@ -5073,7 +5074,7 @@
       "url": "https://github.com/infinitered/nsfwjs",
       "description": "NSFW detection on the client-side via TensorFlow.js",
       "language": "TypeScript",
-      "stars": 8961,
+      "stars": 8967,
       "topics": [
         "content-management",
         "javascript",
@@ -5101,7 +5102,7 @@
       "url": "https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible",
       "description": "Unity Performance Tuning knowledge book",
       "language": "C++",
-      "stars": 1673,
+      "stars": 1674,
       "topics": [
         "book",
         "performance",
@@ -5125,7 +5126,7 @@
       "url": "https://github.com/Equim-chan/Mortal",
       "description": "🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.",
       "language": "Rust",
-      "stars": 1519,
+      "stars": 1526,
       "topics": [
         "ai",
         "deep-learning",
@@ -5198,7 +5199,7 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars": 95430,
+      "stars": 95629,
       "topics": [
         "bun",
         "bundler",
@@ -5230,7 +5231,7 @@
       "url": "https://github.com/Rguarnizo/Evangelion-Theme-VS-Code",
       "description": "A extension to Visual Studio Code to contains a Evangelion themes.",
       "language": "JavaScript",
-      "stars": 30,
+      "stars": 31,
       "topics": [],
       "starred_at": "2022-07-19T08:22:16Z",
       "category": "Developer Tools",
@@ -5280,7 +5281,7 @@
       "url": "https://github.com/catdad/canvas-confetti",
       "description": "🎉 performant confetti animation in the browser",
       "language": "JavaScript",
-      "stars": 12703,
+      "stars": 12708,
       "topics": [
         "animation",
         "burst",
@@ -5310,7 +5311,7 @@
       "url": "https://github.com/ArchiveBox/ArchiveBox",
       "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
       "language": "Python",
-      "stars": 28123,
+      "stars": 28165,
       "topics": [
         "archivebox",
         "backups",
@@ -5350,7 +5351,7 @@
       "url": "https://github.com/henrywhitaker3/Speedtest-Tracker",
       "description": "Continuously track your internet speed",
       "language": "PHP",
-      "stars": 1648,
+      "stars": 1647,
       "topics": [
         "docker",
         "laravel",
@@ -5442,7 +5443,7 @@
       "url": "https://github.com/sheepla/pingu",
       "description": "🐧ping command but with pingu",
       "language": "Go",
-      "stars": 2077,
+      "stars": 2078,
       "topics": [
         "cli",
         "go",
@@ -5472,7 +5473,7 @@
       "url": "https://github.com/psi-4ward/psitransfer",
       "description": "Simple open source self-hosted file sharing solution.  ",
       "language": "JavaScript",
-      "stars": 1928,
+      "stars": 1929,
       "topics": [
         "file-sharing",
         "pastebin",
@@ -5496,7 +5497,7 @@
       "url": "https://github.com/aristocratos/btop",
       "description": "A monitor of resources",
       "language": "C++",
-      "stars": 34013,
+      "stars": 34176,
       "topics": [],
       "starred_at": "2022-06-03T06:32:40Z",
       "category": "System Monitoring",
@@ -5515,7 +5516,7 @@
       "url": "https://github.com/line/line-bot-sdk-nodejs",
       "description": "LINE Messaging API SDK for Node.js",
       "language": "TypeScript",
-      "stars": 1078,
+      "stars": 1079,
       "topics": [
         "bot",
         "javascript",
@@ -5542,7 +5543,7 @@
       "url": "https://github.com/paralleltree/Ched",
       "description": "いわゆる本家のアプリケーションソフトウェアに対して直接的に出力を食わせることに使うのは絶対にやめてください。本家のアセットを直接流用するのもやめてください。",
       "language": "C#",
-      "stars": 212,
+      "stars": 213,
       "topics": [],
       "starred_at": "2022-05-22T03:13:06Z",
       "category": "Game Dev & Unity",
@@ -5628,7 +5629,7 @@
       "url": "https://github.com/mmorise/ita-corpus",
       "description": "ITAコーパスの文章リスト",
       "language": "",
-      "stars": 241,
+      "stars": 240,
       "topics": [],
       "starred_at": "2022-03-25T13:18:14Z",
       "category": "Learning & Reference",
@@ -5646,7 +5647,7 @@
       "url": "https://github.com/jaywalnut310/vits",
       "description": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
       "language": "Python",
-      "stars": 7890,
+      "stars": 7888,
       "topics": [
         "deep-learning",
         "pytorch",
@@ -5671,7 +5672,7 @@
       "url": "https://github.com/nnsvs/nnsvs",
       "description": "Neural network-based singing voice synthesis library for research",
       "language": "Python",
-      "stars": 749,
+      "stars": 751,
       "topics": [
         "deep-learning",
         "dnn",
@@ -5808,7 +5809,7 @@
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
-      "stars": 90233,
+      "stars": 90539,
       "topics": [
         "docker",
         "monitor",
@@ -5922,7 +5923,7 @@
       "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
       "description": "Allows you easily scan for and delete scam comments using several methods.",
       "language": "Python",
-      "stars": 4643,
+      "stars": 4642,
       "topics": [
         "spam-filtering",
         "youtube"
@@ -5944,7 +5945,7 @@
       "url": "https://github.com/DevToys-app/DevToysMac",
       "description": "DevToys For mac",
       "language": "Swift",
-      "stars": 9202,
+      "stars": 9201,
       "topics": [],
       "starred_at": "2022-02-05T06:19:00Z",
       "category": "Mobile & Desktop Apps",
@@ -5963,7 +5964,7 @@
       "url": "https://github.com/davidshimjs/qrcodejs",
       "description": "Cross-browser QRCode generator for javascript",
       "language": "JavaScript",
-      "stars": 14296,
+      "stars": 14299,
       "topics": [],
       "starred_at": "2022-01-26T00:12:39Z",
       "category": "Libraries & SDKs",
@@ -5982,7 +5983,7 @@
       "url": "https://github.com/DevToys-app/DevToys",
       "description": "A Swiss Army knife for developers.",
       "language": "C#",
-      "stars": 31852,
+      "stars": 31887,
       "topics": [
         "blazor",
         "cross-platform",
@@ -6065,7 +6066,7 @@
       "url": "https://github.com/jagrosh/MusicBot",
       "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
       "language": "Java",
-      "stars": 5750,
+      "stars": 5753,
       "topics": [
         "discord",
         "discord-bot",
@@ -6097,7 +6098,7 @@
       "url": "https://github.com/francisrstokes/super-expressive",
       "description": "🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language",
       "language": "JavaScript",
-      "stars": 4614,
+      "stars": 4612,
       "topics": [],
       "starred_at": "2022-01-11T05:54:40Z",
       "category": "Libraries & SDKs",
@@ -6146,7 +6147,7 @@
       "url": "https://github.com/Unity-Technologies/com.unity.toonshader",
       "description": "Unity Toon Shader",
       "language": "C#",
-      "stars": 1553,
+      "stars": 1560,
       "topics": [],
       "starred_at": "2021-12-07T06:44:44Z",
       "category": "Game Dev & Unity",
@@ -6165,7 +6166,7 @@
       "url": "https://github.com/cachethq/cachet",
       "description": "🚦 Cachet, the open source, self-hosted status page system.",
       "language": "PHP",
-      "stars": 15218,
+      "stars": 15226,
       "topics": [
         "cachet",
         "laravel",
@@ -6192,7 +6193,7 @@
       "url": "https://github.com/interaapps/pastefy",
       "description": "Pastefy is an feature-rich Open Source self-hostable Pastebin.",
       "language": "Vue",
-      "stars": 448,
+      "stars": 450,
       "topics": [
         "asciinema",
         "geojson",
@@ -6248,7 +6249,7 @@
       "url": "https://github.com/chubin/wttr.in",
       "description": ":partly_sunny: The right way to check the weather",
       "language": "Go",
-      "stars": 30357,
+      "stars": 30395,
       "topics": [
         "ascii-art",
         "curl",
@@ -6275,7 +6276,7 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 184942,
+      "stars": 186554,
       "topics": [
         "cli",
         "downloader",
@@ -6302,7 +6303,7 @@
       "url": "https://github.com/online-judge-tools/oj",
       "description": "Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.",
       "language": "Python",
-      "stars": 1166,
+      "stars": 1169,
       "topics": [
         "atcoder",
         "automation",
@@ -6329,7 +6330,7 @@
       "url": "https://github.com/OpenWonderLabs/SwitchBotAPI",
       "description": "SwitchBot Open API Documents",
       "language": "",
-      "stars": 1201,
+      "stars": 1209,
       "topics": [],
       "starred_at": "2021-10-28T11:22:05Z",
       "category": "Learning & Reference",
@@ -6348,7 +6349,7 @@
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
       "language": "JavaScript",
-      "stars": 196506,
+      "stars": 196548,
       "topics": [
         "algorithm",
         "algorithms",
@@ -6376,7 +6377,7 @@
       "url": "https://github.com/microsoft/playwright",
       "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
       "language": "TypeScript",
-      "stars": 94600,
+      "stars": 95022,
       "topics": [
         "automation",
         "chrome",
@@ -6452,7 +6453,7 @@
       "url": "https://github.com/ddddxxx/LyricsX",
       "description": "🎶 Ultimate lyrics app for macOS.",
       "language": "Swift",
-      "stars": 5202,
+      "stars": 5206,
       "topics": [
         "apple-music",
         "audirvana",
@@ -6540,7 +6541,7 @@
       "url": "https://github.com/oneVR/VRWorldToolkit",
       "description": "Unity Editor extension for making VRChat worlds",
       "language": "C#",
-      "stars": 466,
+      "stars": 467,
       "topics": [
         "unity",
         "vrchat"
@@ -6581,7 +6582,7 @@
       "url": "https://github.com/owl4ce/dotfiles",
       "description": ":cherry_blossom: Aesthetic OpenboxWM Environment",
       "language": "CSS",
-      "stars": 2168,
+      "stars": 2170,
       "topics": [
         "dotfiles",
         "dunst",
@@ -6644,7 +6645,7 @@
       "url": "https://github.com/MerlinVR/USharpVideo",
       "description": "A basic video player made for VRChat using Udon and UdonSharp",
       "language": "C#",
-      "stars": 409,
+      "stars": 410,
       "topics": [
         "udon",
         "udonsharp",
@@ -6729,7 +6730,7 @@
       "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
       "description": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
       "language": "JavaScript",
-      "stars": 3631,
+      "stars": 3630,
       "topics": [
         "cross-platform",
         "desktop-app",
@@ -6801,7 +6802,7 @@
       "url": "https://github.com/MikeMcl/decimal.js",
       "description": "An arbitrary-precision Decimal type for JavaScript",
       "language": "JavaScript",
-      "stars": 7241,
+      "stars": 7245,
       "topics": [
         "arbitrary-precision",
         "bigdecimal",
@@ -6827,7 +6828,7 @@
       "url": "https://github.com/ScoopInstaller/Scoop",
       "description": "A command-line installer for Windows.",
       "language": "PowerShell",
-      "stars": 24548,
+      "stars": 24589,
       "topics": [
         "installer",
         "powershell",
@@ -6876,7 +6877,7 @@
       "url": "https://github.com/react/create-react-app",
       "description": "Set up a modern web app by running one command.",
       "language": "JavaScript",
-      "stars": 103296,
+      "stars": 103285,
       "topics": [
         "build-tools",
         "react",
@@ -6899,7 +6900,7 @@
       "url": "https://github.com/brabadu/awesome-fonts",
       "description": "Curated list of fonts and everything",
       "language": "",
-      "stars": 2048,
+      "stars": 2052,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6927,7 +6928,7 @@
       "url": "https://github.com/viatsko/awesome-vscode",
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
       "language": "JavaScript",
-      "stars": 28958,
+      "stars": 28972,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6957,7 +6958,7 @@
       "url": "https://github.com/tayllan/awesome-algorithms",
       "description": "A curated list of awesome places to learn and/or practice algorithms.",
       "language": "",
-      "stars": 25454,
+      "stars": 25474,
       "topics": [],
       "starred_at": "2021-02-18T01:50:02Z",
       "category": "Learning & Reference",
@@ -6975,7 +6976,7 @@
       "url": "https://github.com/sindresorhus/awesome-nodejs",
       "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
       "language": "",
-      "stars": 66537,
+      "stars": 66611,
       "topics": [
         "awesome",
         "awesome-list",
@@ -7000,7 +7001,7 @@
       "url": "https://github.com/sorrycc/awesome-javascript",
       "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
       "language": "",
-      "stars": 35018,
+      "stars": 35019,
       "topics": [],
       "starred_at": "2021-02-18T01:49:55Z",
       "category": "Learning & Reference",
@@ -7018,7 +7019,7 @@
       "url": "https://github.com/ycarowr/UiCard",
       "description": "Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire...",
       "language": "C#",
-      "stars": 562,
+      "stars": 565,
       "topics": [
         "boilerplate",
         "card",
@@ -7057,7 +7058,7 @@
       "url": "https://github.com/alelievr/HDRP-Custom-Passes",
       "description": "A bunch of custom passes made for HDRP",
       "language": "C#",
-      "stars": 1435,
+      "stars": 1434,
       "topics": [],
       "starred_at": "2021-02-06T15:55:47Z",
       "category": "Game Dev & Unity",
@@ -7075,7 +7076,7 @@
       "url": "https://github.com/nostalgic-css/NES.css",
       "description": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
       "language": "SCSS",
-      "stars": 21804,
+      "stars": 21812,
       "topics": [
         "8bit",
         "css",
@@ -7117,7 +7118,7 @@
       "url": "https://github.com/vrm-c/UniVRM",
       "description": "UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/",
       "language": "C#",
-      "stars": 3357,
+      "stars": 3362,
       "topics": [
         "gltf",
         "unity3d"
@@ -7156,7 +7157,7 @@
       "url": "https://github.com/HeroTransitions/Hero",
       "description": "Elegant transition library for iOS & tvOS",
       "language": "Swift",
-      "stars": 22487,
+      "stars": 22486,
       "topics": [
         "animation",
         "animations",
@@ -7192,7 +7193,7 @@
       "url": "https://github.com/ppy/osu-framework",
       "description": "A game framework written with osu! in mind.",
       "language": "C#",
-      "stars": 1996,
+      "stars": 1997,
       "topics": [
         "game-engine",
         "game-frameworks",
@@ -7274,7 +7275,7 @@
       "url": "https://github.com/taku910/mecab",
       "description": "Yet another Japanese morphological analyzer",
       "language": "C++",
-      "stars": 1105,
+      "stars": 1108,
       "topics": [],
       "starred_at": "2021-01-29T18:26:01Z",
       "category": "Libraries & SDKs",
@@ -7293,7 +7294,7 @@
       "url": "https://github.com/takuyaa/kuromoji.js",
       "description": "JavaScript implementation of Japanese morphological analyzer",
       "language": "JavaScript",
-      "stars": 999,
+      "stars": 1000,
       "topics": [],
       "starred_at": "2021-01-29T18:25:22Z",
       "category": "Libraries & SDKs",
@@ -7312,7 +7313,7 @@
       "url": "https://github.com/atilika/kuromoji",
       "description": "Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search",
       "language": "Java",
-      "stars": 1055,
+      "stars": 1056,
       "topics": [
         "japanese",
         "morphological-analyser",
@@ -7378,7 +7379,7 @@
       "url": "https://github.com/tensorflow/tfjs-models",
       "description": "Pretrained models for TensorFlow.js",
       "language": "TypeScript",
-      "stars": 14787,
+      "stars": 14791,
       "topics": [],
       "starred_at": "2021-01-24T13:00:48Z",
       "category": "AI & LLM Tools",
@@ -7416,7 +7417,7 @@
       "url": "https://github.com/primer/css",
       "description": "Primer is GitHub's design system. This is the CSS implementation",
       "language": "SCSS",
-      "stars": 13001,
+      "stars": 13009,
       "topics": [
         "css",
         "design-system",
@@ -7446,7 +7447,7 @@
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
-      "stars": 174611,
+      "stars": 174642,
       "topics": [
         "bootstrap",
         "css",
@@ -7492,7 +7493,7 @@
       "url": "https://github.com/fontworks-fonts/DotGothic16",
       "description": "A font file available from Google Fonts.",
       "language": "Python",
-      "stars": 495,
+      "stars": 496,
       "topics": [],
       "starred_at": "2021-01-20T00:23:49Z",
       "category": "Web & Frontend",
@@ -7549,7 +7550,7 @@
       "url": "https://github.com/fontworks-fonts/Klee",
       "description": "",
       "language": "Python",
-      "stars": 1093,
+      "stars": 1094,
       "topics": [],
       "starred_at": "2021-01-20T00:23:42Z",
       "category": "Web & Frontend",
@@ -7587,7 +7588,7 @@
       "url": "https://github.com/dylanaraps/neofetch",
       "description": "🖼️  A command-line system information tool written in bash 3.2+",
       "language": "Shell",
-      "stars": 23710,
+      "stars": 23706,
       "topics": [
         "bash",
         "command-line",
@@ -7663,7 +7664,7 @@
       "url": "https://github.com/DrkSephy/es6-cheatsheet",
       "description": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
       "language": "JavaScript",
-      "stars": 13326,
+      "stars": 13324,
       "topics": [
         "cheatsheet",
         "es6-javascript",
@@ -7685,7 +7686,7 @@
       "url": "https://github.com/lowlighter/metrics",
       "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
       "language": "JavaScript",
-      "stars": 17067,
+      "stars": 17098,
       "topics": [
         "automated",
         "automation",
@@ -7720,7 +7721,7 @@
       "url": "https://github.com/leonardomso/33-js-concepts",
       "description": "📜 33 JavaScript concepts every developer should know.",
       "language": "JavaScript",
-      "stars": 66508,
+      "stars": 66517,
       "topics": [
         "angular",
         "concepts",
@@ -7752,7 +7753,7 @@
       "url": "https://github.com/Templarian/MaterialDesign",
       "description": "✒7000+ Material Design Icons from the Community",
       "language": "",
-      "stars": 11289,
+      "stars": 11293,
       "topics": [
         "android",
         "bootstrap",
@@ -7779,7 +7780,7 @@
       "url": "https://github.com/mdbootstrap/mdb-ui-kit",
       "description": "Bootstrap 5 & Material Design UI KIT",
       "language": "SCSS",
-      "stars": 24256,
+      "stars": 24255,
       "topics": [
         "bootstrap",
         "bootstrap-material",
@@ -7812,7 +7813,7 @@
       "url": "https://github.com/gotify/server",
       "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
       "language": "Go",
-      "stars": 15738,
+      "stars": 15782,
       "topics": [
         "api",
         "cloud",
@@ -7844,7 +7845,7 @@
       "url": "https://github.com/bloc97/Anime4K",
       "description": "A High-Quality Real Time Upscaler for Anime Video",
       "language": "Jupyter Notebook",
-      "stars": 21259,
+      "stars": 21283,
       "topics": [
         "anime",
         "anime-upscaling",
@@ -7876,7 +7877,7 @@
       "url": "https://github.com/nagix/mini-tokyo-3d",
       "description": "A real-time 3D digital map of Tokyo's public transport system",
       "language": "JavaScript",
-      "stars": 4155,
+      "stars": 4157,
       "topics": [],
       "starred_at": "2021-01-14T19:29:28Z",
       "category": "Web & Frontend",
@@ -7894,7 +7895,7 @@
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
       "language": "TypeScript",
-      "stars": 26785,
+      "stars": 26799,
       "topics": [
         "bot",
         "discord",
@@ -7966,7 +7967,7 @@
       "url": "https://github.com/ShikemokuMK/tyranoscript",
       "description": "novel game engine for Browser, iOS, Android , etc ",
       "language": "JavaScript",
-      "stars": 535,
+      "stars": 538,
       "topics": [],
       "starred_at": "2021-01-14T19:28:57Z",
       "category": "Game Dev & Unity",
@@ -7984,7 +7985,7 @@
       "url": "https://github.com/processing/p5.js",
       "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
       "language": "JavaScript",
-      "stars": 23878,
+      "stars": 23891,
       "topics": [
         "art",
         "creative-coding",
@@ -8015,7 +8016,7 @@
       "url": "https://github.com/t4t5/sweetalert",
       "description": "A beautiful replacement for JavaScript's \"alert\"",
       "language": "TypeScript",
-      "stars": 22263,
+      "stars": 22262,
       "topics": [
         "alert",
         "dialog",
@@ -8042,7 +8043,7 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "",
-      "stars": 313149,
+      "stars": 314593,
       "topics": [
         "awesome",
         "awesome-list",
@@ -8089,7 +8090,7 @@
       "url": "https://github.com/franciscop/server",
       "description": ":desktop_computer: Simple and powerful server for Node.js",
       "language": "JavaScript",
-      "stars": 3556,
+      "stars": 3555,
       "topics": [],
       "starred_at": "2021-01-14T19:28:36Z",
       "category": "Libraries & SDKs",
@@ -8127,7 +8128,7 @@
       "url": "https://github.com/fent/node-ytdl-core",
       "description": "YouTube video downloader in javascript.",
       "language": "JavaScript",
-      "stars": 4729,
+      "stars": 4730,
       "topics": [
         "node",
         "scraper",
@@ -8195,7 +8196,7 @@
       "url": "https://github.com/mrdoob/stats.js",
       "description": "JavaScript Performance Monitor",
       "language": "JavaScript",
-      "stars": 9147,
+      "stars": 9148,
       "topics": [],
       "starred_at": "2021-01-14T19:28:18Z",
       "category": "System Monitoring",
@@ -8259,7 +8260,7 @@
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "language": "JavaScript",
-      "stars": 141817,
+      "stars": 141904,
       "topics": [
         "blog",
         "browser",
@@ -8293,7 +8294,7 @@
       "url": "https://github.com/airbnb/lottie-web",
       "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
       "language": "JavaScript",
-      "stars": 32053,
+      "stars": 32058,
       "topics": [],
       "starred_at": "2021-01-14T19:28:01Z",
       "category": "Web & Frontend",
@@ -8350,7 +8351,7 @@
       "url": "https://github.com/iina/iina",
       "description": "The modern video player for macOS.",
       "language": "Swift",
-      "stars": 45981,
+      "stars": 46066,
       "topics": [
         "hacktoberfest",
         "macos",
@@ -8376,7 +8377,7 @@
       "url": "https://github.com/Nozbe/WatermelonDB",
       "description": "🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️",
       "language": "JavaScript",
-      "stars": 11774,
+      "stars": 11773,
       "topics": [
         "database",
         "hacktoberfest",
@@ -8446,7 +8447,7 @@
       "url": "https://github.com/jellyfin/jellyfin",
       "description": "The Free Software Media System - Server Backend & API",
       "language": "C#",
-      "stars": 55859,
+      "stars": 56110,
       "topics": [
         "csharp",
         "dotnet",
@@ -8470,7 +8471,7 @@
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
       "language": "TypeScript",
-      "stars": 188825,
+      "stars": 189356,
       "topics": [
         "editor",
         "electron",
@@ -8519,7 +8520,7 @@
       "url": "https://github.com/iamkun/dayjs",
       "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
       "language": "JavaScript",
-      "stars": 48665,
+      "stars": 48667,
       "topics": [
         "date",
         "date-formatting",
@@ -8568,7 +8569,7 @@
       "url": "https://github.com/vn7n24fzkq/github-profile-summary-cards",
       "description": "A tool to generate your GitHub summary card for profile README",
       "language": "TypeScript",
-      "stars": 3616,
+      "stars": 3627,
       "topics": [
         "github-action",
         "github-profile-readme",
@@ -8597,7 +8598,7 @@
       "url": "https://github.com/axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
       "language": "JavaScript",
-      "stars": 109207,
+      "stars": 109200,
       "topics": [
         "hacktoberfest",
         "http-client",
@@ -8641,7 +8642,7 @@
       "url": "https://github.com/lz4/lz4",
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
-      "stars": 12000,
+      "stars": 12023,
       "topics": [
         "c",
         "compression",
@@ -8664,7 +8665,7 @@
       "url": "https://github.com/CraigChat/craig",
       "description": "Craig is a multi-track voice recorder for Discord.",
       "language": "TypeScript",
-      "stars": 546,
+      "stars": 547,
       "topics": [
         "discord-bot",
         "hacktoberfest",
@@ -8687,7 +8688,7 @@
       "url": "https://github.com/upptime/upptime",
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
       "language": "Markdown",
-      "stars": 17135,
+      "stars": 17144,
       "topics": [
         "incidents-reports",
         "status",
@@ -8713,7 +8714,7 @@
       "url": "https://github.com/TheAlgorithms/JavaScript",
       "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
       "language": "JavaScript",
-      "stars": 34217,
+      "stars": 34222,
       "topics": [
         "algorithm",
         "algorithm-challenges",
@@ -8747,7 +8748,7 @@
       "url": "https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample",
       "description": "A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP",
       "language": "ShaderLab",
-      "stars": 7745,
+      "stars": 7747,
       "topics": [
         "character",
         "hlsl",
@@ -8775,7 +8776,7 @@
       "url": "https://github.com/owncast/owncast",
       "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
       "language": "Go",
-      "stars": 11465,
+      "stars": 11470,
       "topics": [
         "activitypub",
         "broadcasting",
@@ -8811,7 +8812,7 @@
       "url": "https://github.com/FredKSchott/snowpack",
       "description": "ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️",
       "language": "JavaScript",
-      "stars": 19305,
+      "stars": 19303,
       "topics": [],
       "starred_at": "2021-01-13T22:40:30Z",
       "category": "Web & Frontend",
@@ -8830,7 +8831,7 @@
       "url": "https://github.com/coder/code-server",
       "description": "VS Code in the browser",
       "language": "TypeScript",
-      "stars": 78891,
+      "stars": 79034,
       "topics": [
         "browser-ide",
         "dev-tools",

@@ -8,8 +8,8 @@ _Anything that does not clearly fit another category._
 
 | Repository | Language | ★ | Summary | Tags |
 | --- | --- | --: | --- | --- |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 66,069 | A brand new, truly independent web browser and engine built from scratch. | `browser` `c-plus-plus` `independent` |
-| [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Python | 4,641 | A tool to scan and delete scam comments on YouTube using various detection methods. | `youtube` `spam-filter` `python` `moderation` |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 66,181 | A brand new, truly independent web browser and engine built from scratch. | `browser` `c-plus-plus` `independent` |
+| [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Python | 4,640 | A tool to scan and delete scam comments on YouTube using various detection methods. | `youtube` `spam-filter` `python` `moderation` |
 | [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) | JavaScript | 1,555 | A browser-based automation tool to bulk delete photos from a Google Photos account. | `google-photos` `automation` `javascript` `cleanup` |
 | [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) | HTML | 1,543 | The official repository for the Cult of the Party Parrot website and assets. | `party-parrot` `assets` `slack-emojis` `fun` |
 | [decomoji/decomoji](https://github.com/decomoji/decomoji) | JavaScript | 825 | A large collection of custom icons designed for use as Slack reactions. | `slack` `emoji` `icons` |

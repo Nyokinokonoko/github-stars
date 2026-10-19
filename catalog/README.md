@@ -2,7 +2,7 @@
 
 **353** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
 
-_Last updated: 2026-10-12T14:41:35+00:00_
+_Last updated: 2026-10-19T12:26:17+00:00_
 
 ## Categories
 

@@ -2,7 +2,7 @@
 
 **353** starred repositories by [`nyokinokonoko`](https://github.com/nyokinokonoko?tab=stars), organized by category.
 
-_Last updated: 2026-10-19T12:26:17+00:00_
+_Last updated: 2026-10-26T12:26:05+00:00_
 
 ## Categories
 
@@ -30,7 +30,7 @@ _Last updated: 2026-10-19T12:26:17+00:00_
 - **C#** — 55
 - **Python** — 43
 - **Swift** — 21
-- **Go** — 16
+- **Go** — 17
 - **—** — 14
 - **C++** — 10
 - **Rust** — 8
